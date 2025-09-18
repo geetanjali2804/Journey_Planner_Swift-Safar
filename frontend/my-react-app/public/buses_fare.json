@@ -1,0 +1,3512 @@
+[
+ {
+   "Agency": "RedBus",
+   "Source": "Kolkata",
+   "Destination": "Delhi",
+   "Bus Type": "Non-AC Sleeper",
+   "Travel Date": "12-09-2018",
+   "Fare Price (INR)": 2461.13,
+   "Total Seats": 50,
+   "Duration (hours)": 11.9
+ },
+ {
+   "Agency": "VRL Travels",
+   "Source": "Delhi",
+   "Destination": "Chennai",
+   "Bus Type": "Volvo",
+   "Travel Date": "11-10-2017",
+   "Fare Price (INR)": 1029.78,
+   "Total Seats": 31,
+   "Duration (hours)": 14.5
+ },
+ {
+   "Agency": "RedBus",
+   "Source": "Hyderabad",
+   "Destination": "Jaipur",
+   "Bus Type": "Volvo",
+   "Travel Date": "17-04-2023",
+   "Fare Price (INR)": 1329.02,
+   "Total Seats": 28,
+   "Duration (hours)": 5.7
+ },
+ {
+   "Agency": "RedBus",
+   "Source": "Ahmedabad",
+   "Destination": "Delhi",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "23-08-2019",
+   "Fare Price (INR)": 1313.71,
+   "Total Seats": 39,
+   "Duration (hours)": 15.3
+ },
+ {
+   "Agency": "RedBus",
+   "Source": "Jaipur",
+   "Destination": "Pune",
+   "Bus Type": "Non-AC Sleeper",
+   "Travel Date": "05-01-2021",
+   "Fare Price (INR)": 2113.21,
+   "Total Seats": 38,
+   "Duration (hours)": 12.4
+ },
+ {
+   "Agency": "VRL Travels",
+   "Source": "Chennai",
+   "Destination": "Mumbai",
+   "Bus Type": "Luxury",
+   "Travel Date": "08-04-2021",
+   "Fare Price (INR)": 1673.33,
+   "Total Seats": 31,
+   "Duration (hours)": 5.2
+ },
+ {
+   "Agency": "Parveen Travels",
+   "Source": "Bangalore",
+   "Destination": "Pune",
+   "Bus Type": "AC Seater",
+   "Travel Date": "19-08-2022",
+   "Fare Price (INR)": 1812.31,
+   "Total Seats": 39,
+   "Duration (hours)": 11.3
+ },
+ {
+   "Agency": "KPN Travels",
+   "Source": "Mumbai",
+   "Destination": "Pune",
+   "Bus Type": "AC Seater",
+   "Travel Date": "17-05-2017",
+   "Fare Price (INR)": 1667.96,
+   "Total Seats": 30,
+   "Duration (hours)": 7.6
+ },
+ {
+   "Agency": "Kallada Travels",
+   "Source": "Lucknow",
+   "Destination": "Delhi",
+   "Bus Type": "Non-AC Sleeper",
+   "Travel Date": "12-03-2016",
+   "Fare Price (INR)": 1067.21,
+   "Total Seats": 44,
+   "Duration (hours)": 16.8
+ },
+ {
+   "Agency": "SRM Transport",
+   "Source": "Bangalore",
+   "Destination": "Chennai",
+   "Bus Type": "AC Seater",
+   "Travel Date": "04-07-2015",
+   "Fare Price (INR)": 1323.27,
+   "Total Seats": 25,
+   "Duration (hours)": 15.8
+ },
+ {
+   "Agency": "Sharma Travels",
+   "Source": "Jaipur",
+   "Destination": "Mumbai",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "25-12-2023",
+   "Fare Price (INR)": 640.88,
+   "Total Seats": 34,
+   "Duration (hours)": 15.9
+ },
+ {
+   "Agency": "SRM Transport",
+   "Source": "Ahmedabad",
+   "Destination": "Pune",
+   "Bus Type": "AC Sleeper",
+   "Travel Date": "06-03-2024",
+   "Fare Price (INR)": 2525.82,
+   "Total Seats": 25,
+   "Duration (hours)": 6.9
+ },
+ {
+   "Agency": "Kallada Travels",
+   "Source": "Pune",
+   "Destination": "Hyderabad",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "02-02-2023",
+   "Fare Price (INR)": 1357.04,
+   "Total Seats": 22,
+   "Duration (hours)": 10.6
+ },
+ {
+   "Agency": "Kallada Travels",
+   "Source": "Chennai",
+   "Destination": "Mumbai",
+   "Bus Type": "Volvo",
+   "Travel Date": "18-05-2017",
+   "Fare Price (INR)": 510.52,
+   "Total Seats": 25,
+   "Duration (hours)": 5.9
+ },
+ {
+   "Agency": "Neeta Travels",
+   "Source": "Mumbai",
+   "Destination": "Pune",
+   "Bus Type": "Non-AC Sleeper",
+   "Travel Date": "18-04-2018",
+   "Fare Price (INR)": 3345.74,
+   "Total Seats": 35,
+   "Duration (hours)": 15.4
+ },
+ {
+   "Agency": "SRM Transport",
+   "Source": "Jaipur",
+   "Destination": "Delhi",
+   "Bus Type": "Luxury",
+   "Travel Date": "17-10-2018",
+   "Fare Price (INR)": 2328.47,
+   "Total Seats": 43,
+   "Duration (hours)": 10.1
+ },
+ {
+   "Agency": "KPN Travels",
+   "Source": "Hyderabad",
+   "Destination": "Kolkata",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "17-06-2024",
+   "Fare Price (INR)": 736.51,
+   "Total Seats": 22,
+   "Duration (hours)": 10.7
+ },
+ {
+   "Agency": "Kallada Travels",
+   "Source": "Pune",
+   "Destination": "Hyderabad",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "11-02-2021",
+   "Fare Price (INR)": 457.56,
+   "Total Seats": 38,
+   "Duration (hours)": 12.3
+ },
+ {
+   "Agency": "RedBus",
+   "Source": "Pune",
+   "Destination": "Lucknow",
+   "Bus Type": "Volvo",
+   "Travel Date": "08-06-2020",
+   "Fare Price (INR)": 2909.91,
+   "Total Seats": 20,
+   "Duration (hours)": 5.3
+ },
+ {
+   "Agency": "VRL Travels",
+   "Source": "Pune",
+   "Destination": "Kolkata",
+   "Bus Type": "AC Sleeper",
+   "Travel Date": "12-06-2017",
+   "Fare Price (INR)": 1709.87,
+   "Total Seats": 45,
+   "Duration (hours)": 12.4
+ },
+ {
+   "Agency": "RedBus",
+   "Source": "Delhi",
+   "Destination": "Hyderabad",
+   "Bus Type": "AC Sleeper",
+   "Travel Date": "20-10-2023",
+   "Fare Price (INR)": 2799.27,
+   "Total Seats": 20,
+   "Duration (hours)": 5.2
+ },
+ {
+   "Agency": "RedBus",
+   "Source": "Bangalore",
+   "Destination": "Lucknow",
+   "Bus Type": "AC Sleeper",
+   "Travel Date": "13-04-2024",
+   "Fare Price (INR)": 2816.04,
+   "Total Seats": 38,
+   "Duration (hours)": 12.3
+ },
+ {
+   "Agency": "Kallada Travels",
+   "Source": "Ahmedabad",
+   "Destination": "Chennai",
+   "Bus Type": "Luxury",
+   "Travel Date": "07-01-2021",
+   "Fare Price (INR)": 2456.05,
+   "Total Seats": 39,
+   "Duration (hours)": 12
+ },
+ {
+   "Agency": "Neeta Travels",
+   "Source": "Chennai",
+   "Destination": "Lucknow",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "27-05-2021",
+   "Fare Price (INR)": 2622.99,
+   "Total Seats": 20,
+   "Duration (hours)": 8.8
+ },
+ {
+   "Agency": "Kallada Travels",
+   "Source": "Jaipur",
+   "Destination": "Lucknow",
+   "Bus Type": "AC Seater",
+   "Travel Date": "17-02-2023",
+   "Fare Price (INR)": 1962.34,
+   "Total Seats": 37,
+   "Duration (hours)": 5.3
+ },
+ {
+   "Agency": "Parveen Travels",
+   "Source": "Bangalore",
+   "Destination": "Lucknow",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "16-08-2016",
+   "Fare Price (INR)": 908.45,
+   "Total Seats": 31,
+   "Duration (hours)": 7.1
+ },
+ {
+   "Agency": "VRL Travels",
+   "Source": "Pune",
+   "Destination": "Lucknow",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "26-05-2016",
+   "Fare Price (INR)": 1827.77,
+   "Total Seats": 45,
+   "Duration (hours)": 17.1
+ },
+ {
+   "Agency": "RedBus",
+   "Source": "Hyderabad",
+   "Destination": "Jaipur",
+   "Bus Type": "Luxury",
+   "Travel Date": "21-12-2018",
+   "Fare Price (INR)": 655.98,
+   "Total Seats": 50,
+   "Duration (hours)": 15
+ },
+ {
+   "Agency": "Neeta Travels",
+   "Source": "Chennai",
+   "Destination": "Ahmedabad",
+   "Bus Type": "AC Sleeper",
+   "Travel Date": "09-01-2018",
+   "Fare Price (INR)": 968.98,
+   "Total Seats": 47,
+   "Duration (hours)": 11.3
+ },
+ {
+   "Agency": "Kesineni Travels",
+   "Source": "Pune",
+   "Destination": "Chennai",
+   "Bus Type": "Volvo",
+   "Travel Date": "17-11-2019",
+   "Fare Price (INR)": 951.4,
+   "Total Seats": 37,
+   "Duration (hours)": 17.7
+ },
+ {
+   "Agency": "VRL Travels",
+   "Source": "Ahmedabad",
+   "Destination": "Mumbai",
+   "Bus Type": "Volvo",
+   "Travel Date": "30-04-2019",
+   "Fare Price (INR)": 2344.18,
+   "Total Seats": 48,
+   "Duration (hours)": 16.1
+ },
+ {
+   "Agency": "Sharma Travels",
+   "Source": "Bangalore",
+   "Destination": "Kolkata",
+   "Bus Type": "Volvo",
+   "Travel Date": "17-07-2015",
+   "Fare Price (INR)": 1356.85,
+   "Total Seats": 23,
+   "Duration (hours)": 7.6
+ },
+ {
+   "Agency": "Neeta Travels",
+   "Source": "Pune",
+   "Destination": "Ahmedabad",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "13-11-2018",
+   "Fare Price (INR)": 1742.97,
+   "Total Seats": 46,
+   "Duration (hours)": 9.6
+ },
+ {
+   "Agency": "KPN Travels",
+   "Source": "Kolkata",
+   "Destination": "Lucknow",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "27-01-2019",
+   "Fare Price (INR)": 519.41,
+   "Total Seats": 22,
+   "Duration (hours)": 6.5
+ },
+ {
+   "Agency": "VRL Travels",
+   "Source": "Jaipur",
+   "Destination": "Ahmedabad",
+   "Bus Type": "AC Sleeper",
+   "Travel Date": "22-03-2015",
+   "Fare Price (INR)": 651.88,
+   "Total Seats": 34,
+   "Duration (hours)": 16.6
+ },
+ {
+   "Agency": "Parveen Travels",
+   "Source": "Bangalore",
+   "Destination": "Ahmedabad",
+   "Bus Type": "Luxury",
+   "Travel Date": "14-04-2020",
+   "Fare Price (INR)": 1919.06,
+   "Total Seats": 45,
+   "Duration (hours)": 16.1
+ },
+ {
+   "Agency": "Kesineni Travels",
+   "Source": "Chennai",
+   "Destination": "Kolkata",
+   "Bus Type": "Luxury",
+   "Travel Date": "20-04-2024",
+   "Fare Price (INR)": 1659.43,
+   "Total Seats": 36,
+   "Duration (hours)": 14.6
+ },
+ {
+   "Agency": "Kesineni Travels",
+   "Source": "Pune",
+   "Destination": "Chennai",
+   "Bus Type": "AC Sleeper",
+   "Travel Date": "25-09-2017",
+   "Fare Price (INR)": 2332.24,
+   "Total Seats": 30,
+   "Duration (hours)": 17.9
+ },
+ {
+   "Agency": "RedBus",
+   "Source": "Lucknow",
+   "Destination": "Kolkata",
+   "Bus Type": "AC Sleeper",
+   "Travel Date": "27-03-2015",
+   "Fare Price (INR)": 1416.68,
+   "Total Seats": 36,
+   "Duration (hours)": 10.5
+ },
+ {
+   "Agency": "Sharma Travels",
+   "Source": "Lucknow",
+   "Destination": "Kolkata",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "22-02-2015",
+   "Fare Price (INR)": 2038.2,
+   "Total Seats": 36,
+   "Duration (hours)": 14.7
+ },
+ {
+   "Agency": "SRM Transport",
+   "Source": "Bangalore",
+   "Destination": "Kolkata",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "26-08-2020",
+   "Fare Price (INR)": 910.16,
+   "Total Seats": 24,
+   "Duration (hours)": 7
+ },
+ {
+   "Agency": "Kesineni Travels",
+   "Source": "Delhi",
+   "Destination": "Jaipur",
+   "Bus Type": "AC Sleeper",
+   "Travel Date": "11-07-2021",
+   "Fare Price (INR)": 2127.3,
+   "Total Seats": 32,
+   "Duration (hours)": 11.2
+ },
+ {
+   "Agency": "VRL Travels",
+   "Source": "Kolkata",
+   "Destination": "Jaipur",
+   "Bus Type": "Volvo",
+   "Travel Date": "11-08-2021",
+   "Fare Price (INR)": 1837.43,
+   "Total Seats": 32,
+   "Duration (hours)": 11.5
+ },
+ {
+   "Agency": "Neeta Travels",
+   "Source": "Hyderabad",
+   "Destination": "Delhi",
+   "Bus Type": "AC Seater",
+   "Travel Date": "05-04-2023",
+   "Fare Price (INR)": 773.38,
+   "Total Seats": 21,
+   "Duration (hours)": 9.4
+ },
+ {
+   "Agency": "RedBus",
+   "Source": "Lucknow",
+   "Destination": "Delhi",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "22-12-2016",
+   "Fare Price (INR)": 1245.03,
+   "Total Seats": 43,
+   "Duration (hours)": 9.1
+ },
+ {
+   "Agency": "Kesineni Travels",
+   "Source": "Mumbai",
+   "Destination": "Hyderabad",
+   "Bus Type": "Luxury",
+   "Travel Date": "12-01-2018",
+   "Fare Price (INR)": 409.63,
+   "Total Seats": 45,
+   "Duration (hours)": 9.2
+ },
+ {
+   "Agency": "RedBus",
+   "Source": "Mumbai",
+   "Destination": "Hyderabad",
+   "Bus Type": "Non-AC Sleeper",
+   "Travel Date": "05-06-2016",
+   "Fare Price (INR)": 2154.89,
+   "Total Seats": 27,
+   "Duration (hours)": 5.7
+ },
+ {
+   "Agency": "SRS Travels",
+   "Source": "Delhi",
+   "Destination": "Jaipur",
+   "Bus Type": "Volvo",
+   "Travel Date": "06-11-2021",
+   "Fare Price (INR)": 381.52,
+   "Total Seats": 42,
+   "Duration (hours)": 16.4
+ },
+ {
+   "Agency": "Kallada Travels",
+   "Source": "Ahmedabad",
+   "Destination": "Hyderabad",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "09-02-2019",
+   "Fare Price (INR)": 2433.88,
+   "Total Seats": 20,
+   "Duration (hours)": 7.2
+ },
+ {
+   "Agency": "Neeta Travels",
+   "Source": "Lucknow",
+   "Destination": "Bangalore",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "24-09-2023",
+   "Fare Price (INR)": 2467.02,
+   "Total Seats": 36,
+   "Duration (hours)": 17.1
+ },
+ {
+   "Agency": "Kallada Travels",
+   "Source": "Pune",
+   "Destination": "Delhi",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "08-12-2019",
+   "Fare Price (INR)": 1662.62,
+   "Total Seats": 49,
+   "Duration (hours)": 17.8
+ },
+ {
+   "Agency": "Parveen Travels",
+   "Source": "Kolkata",
+   "Destination": "Pune",
+   "Bus Type": "Volvo",
+   "Travel Date": "10-03-2021",
+   "Fare Price (INR)": 1217.17,
+   "Total Seats": 36,
+   "Duration (hours)": 9.7
+ },
+ {
+   "Agency": "RedBus",
+   "Source": "Bangalore",
+   "Destination": "Chennai",
+   "Bus Type": "AC Sleeper",
+   "Travel Date": "02-03-2015",
+   "Fare Price (INR)": 1266.19,
+   "Total Seats": 40,
+   "Duration (hours)": 10.1
+ },
+ {
+   "Agency": "VRL Travels",
+   "Source": "Ahmedabad",
+   "Destination": "Hyderabad",
+   "Bus Type": "Non-AC Sleeper",
+   "Travel Date": "24-10-2020",
+   "Fare Price (INR)": 415.58,
+   "Total Seats": 35,
+   "Duration (hours)": 7.1
+ },
+ {
+   "Agency": "VRL Travels",
+   "Source": "Lucknow",
+   "Destination": "Ahmedabad",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "10-05-2018",
+   "Fare Price (INR)": 1145.26,
+   "Total Seats": 45,
+   "Duration (hours)": 12.1
+ },
+ {
+   "Agency": "Kallada Travels",
+   "Source": "Bangalore",
+   "Destination": "Kolkata",
+   "Bus Type": "AC Sleeper",
+   "Travel Date": "25-08-2022",
+   "Fare Price (INR)": 1899.44,
+   "Total Seats": 31,
+   "Duration (hours)": 14.6
+ },
+ {
+   "Agency": "Parveen Travels",
+   "Source": "Hyderabad",
+   "Destination": "Pune",
+   "Bus Type": "Volvo",
+   "Travel Date": "13-06-2018",
+   "Fare Price (INR)": 2326.37,
+   "Total Seats": 23,
+   "Duration (hours)": 8
+ },
+ {
+   "Agency": "Parveen Travels",
+   "Source": "Ahmedabad",
+   "Destination": "Jaipur",
+   "Bus Type": "AC Seater",
+   "Travel Date": "30-05-2023",
+   "Fare Price (INR)": 1730.08,
+   "Total Seats": 42,
+   "Duration (hours)": 6.7
+ },
+ {
+   "Agency": "Sharma Travels",
+   "Source": "Jaipur",
+   "Destination": "Ahmedabad",
+   "Bus Type": "Non-AC Sleeper",
+   "Travel Date": "07-02-2024",
+   "Fare Price (INR)": 1061.64,
+   "Total Seats": 47,
+   "Duration (hours)": 18
+ },
+ {
+   "Agency": "KPN Travels",
+   "Source": "Hyderabad",
+   "Destination": "Lucknow",
+   "Bus Type": "Luxury",
+   "Travel Date": "28-05-2018",
+   "Fare Price (INR)": 2789.01,
+   "Total Seats": 21,
+   "Duration (hours)": 11.4
+ },
+ {
+   "Agency": "Parveen Travels",
+   "Source": "Ahmedabad",
+   "Destination": "Pune",
+   "Bus Type": "AC Sleeper",
+   "Travel Date": "07-07-2024",
+   "Fare Price (INR)": 2071.51,
+   "Total Seats": 31,
+   "Duration (hours)": 12.8
+ },
+ {
+   "Agency": "Neeta Travels",
+   "Source": "Mumbai",
+   "Destination": "Jaipur",
+   "Bus Type": "Luxury",
+   "Travel Date": "06-07-2018",
+   "Fare Price (INR)": 1241.64,
+   "Total Seats": 22,
+   "Duration (hours)": 9.4
+ },
+ {
+   "Agency": "KPN Travels",
+   "Source": "Lucknow",
+   "Destination": "Hyderabad",
+   "Bus Type": "Non-AC Sleeper",
+   "Travel Date": "06-04-2024",
+   "Fare Price (INR)": 1937.62,
+   "Total Seats": 46,
+   "Duration (hours)": 5.5
+ },
+ {
+   "Agency": "VRL Travels",
+   "Source": "Pune",
+   "Destination": "Bangalore",
+   "Bus Type": "Non-AC Sleeper",
+   "Travel Date": "13-05-2022",
+   "Fare Price (INR)": 2846.3,
+   "Total Seats": 44,
+   "Duration (hours)": 5.7
+ },
+ {
+   "Agency": "Sharma Travels",
+   "Source": "Delhi",
+   "Destination": "Kolkata",
+   "Bus Type": "Luxury",
+   "Travel Date": "25-07-2023",
+   "Fare Price (INR)": 2352.11,
+   "Total Seats": 36,
+   "Duration (hours)": 7.6
+ },
+ {
+   "Agency": "Kallada Travels",
+   "Source": "Pune",
+   "Destination": "Jaipur",
+   "Bus Type": "AC Sleeper",
+   "Travel Date": "24-02-2016",
+   "Fare Price (INR)": 688.56,
+   "Total Seats": 44,
+   "Duration (hours)": 16.1
+ },
+ {
+   "Agency": "KPN Travels",
+   "Source": "Chennai",
+   "Destination": "Ahmedabad",
+   "Bus Type": "AC Sleeper",
+   "Travel Date": "28-07-2024",
+   "Fare Price (INR)": 2669.92,
+   "Total Seats": 42,
+   "Duration (hours)": 10.6
+ },
+ {
+   "Agency": "KPN Travels",
+   "Source": "Hyderabad",
+   "Destination": "Lucknow",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "15-04-2018",
+   "Fare Price (INR)": 1906.8,
+   "Total Seats": 33,
+   "Duration (hours)": 7.4
+ },
+ {
+   "Agency": "KPN Travels",
+   "Source": "Lucknow",
+   "Destination": "Hyderabad",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "10-07-2021",
+   "Fare Price (INR)": 570.9,
+   "Total Seats": 39,
+   "Duration (hours)": 6.6
+ },
+ {
+   "Agency": "KPN Travels",
+   "Source": "Mumbai",
+   "Destination": "Bangalore",
+   "Bus Type": "AC Seater",
+   "Travel Date": "12-10-2020",
+   "Fare Price (INR)": 515.74,
+   "Total Seats": 27,
+   "Duration (hours)": 14.8
+ },
+ {
+   "Agency": "Kesineni Travels",
+   "Source": "Mumbai",
+   "Destination": "Delhi",
+   "Bus Type": "Non-AC Sleeper",
+   "Travel Date": "30-05-2023",
+   "Fare Price (INR)": 1601.53,
+   "Total Seats": 26,
+   "Duration (hours)": 8
+ },
+ {
+   "Agency": "RedBus",
+   "Source": "Lucknow",
+   "Destination": "Pune",
+   "Bus Type": "AC Sleeper",
+   "Travel Date": "29-12-2021",
+   "Fare Price (INR)": 565.49,
+   "Total Seats": 34,
+   "Duration (hours)": 11.6
+ },
+ {
+   "Agency": "Sharma Travels",
+   "Source": "Delhi",
+   "Destination": "Jaipur",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "25-08-2019",
+   "Fare Price (INR)": 500.52,
+   "Total Seats": 25,
+   "Duration (hours)": 5.2
+ },
+ {
+   "Agency": "Kallada Travels",
+   "Source": "Kolkata",
+   "Destination": "Lucknow",
+   "Bus Type": "Non-AC Sleeper",
+   "Travel Date": "25-02-2024",
+   "Fare Price (INR)": 1538.06,
+   "Total Seats": 26,
+   "Duration (hours)": 17.5
+ },
+ {
+   "Agency": "Sharma Travels",
+   "Source": "Chennai",
+   "Destination": "Kolkata",
+   "Bus Type": "AC Sleeper",
+   "Travel Date": "09-08-2021",
+   "Fare Price (INR)": 1804.66,
+   "Total Seats": 42,
+   "Duration (hours)": 10.4
+ },
+ {
+   "Agency": "Kallada Travels",
+   "Source": "Mumbai",
+   "Destination": "Pune",
+   "Bus Type": "Luxury",
+   "Travel Date": "18-07-2016",
+   "Fare Price (INR)": 2438.83,
+   "Total Seats": 43,
+   "Duration (hours)": 16.5
+ },
+ {
+   "Agency": "Neeta Travels",
+   "Source": "Hyderabad",
+   "Destination": "Kolkata",
+   "Bus Type": "Luxury",
+   "Travel Date": "01-07-2021",
+   "Fare Price (INR)": 765.38,
+   "Total Seats": 22,
+   "Duration (hours)": 16
+ },
+ {
+   "Agency": "KPN Travels",
+   "Source": "Jaipur",
+   "Destination": "Bangalore",
+   "Bus Type": "Luxury",
+   "Travel Date": "15-04-2019",
+   "Fare Price (INR)": 661.88,
+   "Total Seats": 34,
+   "Duration (hours)": 11
+ },
+ {
+   "Agency": "Sharma Travels",
+   "Source": "Hyderabad",
+   "Destination": "Lucknow",
+   "Bus Type": "AC Seater",
+   "Travel Date": "31-01-2015",
+   "Fare Price (INR)": 309.08,
+   "Total Seats": 35,
+   "Duration (hours)": 14.9
+ },
+ {
+   "Agency": "SRS Travels",
+   "Source": "Delhi",
+   "Destination": "Ahmedabad",
+   "Bus Type": "AC Sleeper",
+   "Travel Date": "10-12-2023",
+   "Fare Price (INR)": 2780.76,
+   "Total Seats": 34,
+   "Duration (hours)": 5.8
+ },
+ {
+   "Agency": "SRM Transport",
+   "Source": "Jaipur",
+   "Destination": "Mumbai",
+   "Bus Type": "Volvo",
+   "Travel Date": "07-02-2017",
+   "Fare Price (INR)": 723.96,
+   "Total Seats": 28,
+   "Duration (hours)": 7.9
+ },
+ {
+   "Agency": "SRS Travels",
+   "Source": "Hyderabad",
+   "Destination": "Bangalore",
+   "Bus Type": "AC Seater",
+   "Travel Date": "19-01-2017",
+   "Fare Price (INR)": 1310.38,
+   "Total Seats": 23,
+   "Duration (hours)": 11.4
+ },
+ {
+   "Agency": "SRM Transport",
+   "Source": "Bangalore",
+   "Destination": "Kolkata",
+   "Bus Type": "Volvo",
+   "Travel Date": "10-10-2021",
+   "Fare Price (INR)": 2376.41,
+   "Total Seats": 22,
+   "Duration (hours)": 9.4
+ },
+ {
+   "Agency": "Kesineni Travels",
+   "Source": "Kolkata",
+   "Destination": "Ahmedabad",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "19-06-2021",
+   "Fare Price (INR)": 720.55,
+   "Total Seats": 27,
+   "Duration (hours)": 7.2
+ },
+ {
+   "Agency": "Sharma Travels",
+   "Source": "Kolkata",
+   "Destination": "Ahmedabad",
+   "Bus Type": "AC Seater",
+   "Travel Date": "04-08-2020",
+   "Fare Price (INR)": 1570.69,
+   "Total Seats": 23,
+   "Duration (hours)": 12.8
+ },
+ {
+   "Agency": "VRL Travels",
+   "Source": "Hyderabad",
+   "Destination": "Jaipur",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "20-05-2020",
+   "Fare Price (INR)": 2115.42,
+   "Total Seats": 49,
+   "Duration (hours)": 5.5
+ },
+ {
+   "Agency": "Neeta Travels",
+   "Source": "Bangalore",
+   "Destination": "Delhi",
+   "Bus Type": "Luxury",
+   "Travel Date": "03-01-2022",
+   "Fare Price (INR)": 1068.5,
+   "Total Seats": 35,
+   "Duration (hours)": 7.4
+ },
+ {
+   "Agency": "Sharma Travels",
+   "Source": "Hyderabad",
+   "Destination": "Bangalore",
+   "Bus Type": "Luxury",
+   "Travel Date": "29-09-2019",
+   "Fare Price (INR)": 1255.27,
+   "Total Seats": 42,
+   "Duration (hours)": 5.4
+ },
+ {
+   "Agency": "Neeta Travels",
+   "Source": "Lucknow",
+   "Destination": "Bangalore",
+   "Bus Type": "Non-AC Sleeper",
+   "Travel Date": "06-10-2022",
+   "Fare Price (INR)": 2511.36,
+   "Total Seats": 39,
+   "Duration (hours)": 12.3
+ },
+ {
+   "Agency": "Parveen Travels",
+   "Source": "Delhi",
+   "Destination": "Jaipur",
+   "Bus Type": "Volvo",
+   "Travel Date": "08-03-2020",
+   "Fare Price (INR)": 774.7,
+   "Total Seats": 43,
+   "Duration (hours)": 14.8
+ },
+ {
+   "Agency": "Parveen Travels",
+   "Source": "Pune",
+   "Destination": "Jaipur",
+   "Bus Type": "AC Seater",
+   "Travel Date": "22-12-2018",
+   "Fare Price (INR)": 517.26,
+   "Total Seats": 26,
+   "Duration (hours)": 5.2
+ },
+ {
+   "Agency": "SRM Transport",
+   "Source": "Jaipur",
+   "Destination": "Ahmedabad",
+   "Bus Type": "Luxury",
+   "Travel Date": "12-07-2019",
+   "Fare Price (INR)": 954.08,
+   "Total Seats": 40,
+   "Duration (hours)": 15.5
+ },
+ {
+   "Agency": "Kallada Travels",
+   "Source": "Chennai",
+   "Destination": "Hyderabad",
+   "Bus Type": "Luxury",
+   "Travel Date": "20-01-2020",
+   "Fare Price (INR)": 504.05,
+   "Total Seats": 50,
+   "Duration (hours)": 7.2
+ },
+ {
+   "Agency": "Kesineni Travels",
+   "Source": "Chennai",
+   "Destination": "Bangalore",
+   "Bus Type": "Non-AC Sleeper",
+   "Travel Date": "08-04-2015",
+   "Fare Price (INR)": 2896.3,
+   "Total Seats": 30,
+   "Duration (hours)": 9
+ },
+ {
+   "Agency": "SRS Travels",
+   "Source": "Bangalore",
+   "Destination": "Mumbai",
+   "Bus Type": "AC Sleeper",
+   "Travel Date": "18-09-2020",
+   "Fare Price (INR)": 2509.17,
+   "Total Seats": 41,
+   "Duration (hours)": 9.3
+ },
+ {
+   "Agency": "Kallada Travels",
+   "Source": "Mumbai",
+   "Destination": "Hyderabad",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "26-05-2017",
+   "Fare Price (INR)": 790.51,
+   "Total Seats": 31,
+   "Duration (hours)": 7.4
+ },
+ {
+   "Agency": "RedBus",
+   "Source": "Hyderabad",
+   "Destination": "Jaipur",
+   "Bus Type": "Non-AC Sleeper",
+   "Travel Date": "14-10-2018",
+   "Fare Price (INR)": 1693.01,
+   "Total Seats": 50,
+   "Duration (hours)": 14.7
+ },
+ {
+   "Agency": "SRS Travels",
+   "Source": "Chennai",
+   "Destination": "Lucknow",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "20-06-2023",
+   "Fare Price (INR)": 1553.03,
+   "Total Seats": 43,
+   "Duration (hours)": 6.1
+ },
+ {
+   "Agency": "SRM Transport",
+   "Source": "Delhi",
+   "Destination": "Kolkata",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "26-08-2019",
+   "Fare Price (INR)": 300.08,
+   "Total Seats": 34,
+   "Duration (hours)": 14.2
+ },
+ {
+   "Agency": "Parveen Travels",
+   "Source": "Ahmedabad",
+   "Destination": "Delhi",
+   "Bus Type": "Luxury",
+   "Travel Date": "18-10-2019",
+   "Fare Price (INR)": 2556.94,
+   "Total Seats": 31,
+   "Duration (hours)": 7.2
+ },
+ {
+   "Agency": "Kallada Travels",
+   "Source": "Delhi",
+   "Destination": "Bangalore",
+   "Bus Type": "AC Sleeper",
+   "Travel Date": "15-07-2024",
+   "Fare Price (INR)": 702.22,
+   "Total Seats": 26,
+   "Duration (hours)": 11.6
+ },
+ {
+   "Agency": "Sharma Travels",
+   "Source": "Jaipur",
+   "Destination": "Ahmedabad",
+   "Bus Type": "Luxury",
+   "Travel Date": "28-01-2021",
+   "Fare Price (INR)": 1049.68,
+   "Total Seats": 28,
+   "Duration (hours)": 15
+ },
+ {
+   "Agency": "SRM Transport",
+   "Source": "Delhi",
+   "Destination": "Lucknow",
+   "Bus Type": "AC Sleeper",
+   "Travel Date": "01-02-2022",
+   "Fare Price (INR)": 2115.27,
+   "Total Seats": 36,
+   "Duration (hours)": 7.6
+ },
+ {
+   "Agency": "Sharma Travels",
+   "Source": "Kolkata",
+   "Destination": "Ahmedabad",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "07-09-2022",
+   "Fare Price (INR)": 1191.87,
+   "Total Seats": 31,
+   "Duration (hours)": 15.5
+ },
+ {
+   "Agency": "Parveen Travels",
+   "Source": "Hyderabad",
+   "Destination": "Lucknow",
+   "Bus Type": "Luxury",
+   "Travel Date": "10-08-2018",
+   "Fare Price (INR)": 1857.61,
+   "Total Seats": 32,
+   "Duration (hours)": 15.1
+ },
+ {
+   "Agency": "VRL Travels",
+   "Source": "Pune",
+   "Destination": "Hyderabad",
+   "Bus Type": "AC Seater",
+   "Travel Date": "07-11-2018",
+   "Fare Price (INR)": 2930.61,
+   "Total Seats": 50,
+   "Duration (hours)": 16.1
+ },
+ {
+   "Agency": "Kesineni Travels",
+   "Source": "Kolkata",
+   "Destination": "Mumbai",
+   "Bus Type": "AC Sleeper",
+   "Travel Date": "30-08-2018",
+   "Fare Price (INR)": 442.44,
+   "Total Seats": 48,
+   "Duration (hours)": 14.3
+ },
+ {
+   "Agency": "VRL Travels",
+   "Source": "Bangalore",
+   "Destination": "Hyderabad",
+   "Bus Type": "Luxury",
+   "Travel Date": "20-07-2021",
+   "Fare Price (INR)": 1629.98,
+   "Total Seats": 37,
+   "Duration (hours)": 16.4
+ },
+ {
+   "Agency": "VRL Travels",
+   "Source": "Pune",
+   "Destination": "Lucknow",
+   "Bus Type": "Volvo",
+   "Travel Date": "26-10-2016",
+   "Fare Price (INR)": 842.17,
+   "Total Seats": 28,
+   "Duration (hours)": 5.8
+ },
+ {
+   "Agency": "Sharma Travels",
+   "Source": "Jaipur",
+   "Destination": "Mumbai",
+   "Bus Type": "Luxury",
+   "Travel Date": "18-02-2017",
+   "Fare Price (INR)": 2409.42,
+   "Total Seats": 44,
+   "Duration (hours)": 10.8
+ },
+ {
+   "Agency": "Neeta Travels",
+   "Source": "Mumbai",
+   "Destination": "Pune",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "06-09-2020",
+   "Fare Price (INR)": 2273.09,
+   "Total Seats": 29,
+   "Duration (hours)": 13.2
+ },
+ {
+   "Agency": "Parveen Travels",
+   "Source": "Jaipur",
+   "Destination": "Mumbai",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "10-01-2016",
+   "Fare Price (INR)": 909.35,
+   "Total Seats": 22,
+   "Duration (hours)": 14.8
+ },
+ {
+   "Agency": "Parveen Travels",
+   "Source": "Kolkata",
+   "Destination": "Pune",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "04-08-2024",
+   "Fare Price (INR)": 2210.75,
+   "Total Seats": 46,
+   "Duration (hours)": 9.7
+ },
+ {
+   "Agency": "SRM Transport",
+   "Source": "Delhi",
+   "Destination": "Pune",
+   "Bus Type": "AC Seater",
+   "Travel Date": "05-12-2016",
+   "Fare Price (INR)": 1443.79,
+   "Total Seats": 48,
+   "Duration (hours)": 13.1
+ },
+ {
+   "Agency": "Kallada Travels",
+   "Source": "Jaipur",
+   "Destination": "Hyderabad",
+   "Bus Type": "Volvo",
+   "Travel Date": "28-10-2022",
+   "Fare Price (INR)": 981.83,
+   "Total Seats": 39,
+   "Duration (hours)": 5.4
+ },
+ {
+   "Agency": "Parveen Travels",
+   "Source": "Lucknow",
+   "Destination": "Jaipur",
+   "Bus Type": "Volvo",
+   "Travel Date": "26-05-2019",
+   "Fare Price (INR)": 2702.01,
+   "Total Seats": 30,
+   "Duration (hours)": 14.1
+ },
+ {
+   "Agency": "Kesineni Travels",
+   "Source": "Hyderabad",
+   "Destination": "Lucknow",
+   "Bus Type": "Luxury",
+   "Travel Date": "05-05-2024",
+   "Fare Price (INR)": 1493.78,
+   "Total Seats": 26,
+   "Duration (hours)": 12
+ },
+ {
+   "Agency": "Sharma Travels",
+   "Source": "Chennai",
+   "Destination": "Delhi",
+   "Bus Type": "AC Seater",
+   "Travel Date": "01-01-2018",
+   "Fare Price (INR)": 699.43,
+   "Total Seats": 20,
+   "Duration (hours)": 5.4
+ },
+ {
+   "Agency": "SRS Travels",
+   "Source": "Kolkata",
+   "Destination": "Jaipur",
+   "Bus Type": "AC Sleeper",
+   "Travel Date": "22-07-2020",
+   "Fare Price (INR)": 1955.18,
+   "Total Seats": 37,
+   "Duration (hours)": 16.9
+ },
+ {
+   "Agency": "Parveen Travels",
+   "Source": "Kolkata",
+   "Destination": "Bangalore",
+   "Bus Type": "Luxury",
+   "Travel Date": "26-05-2019",
+   "Fare Price (INR)": 2251.8,
+   "Total Seats": 25,
+   "Duration (hours)": 11.4
+ },
+ {
+   "Agency": "Kallada Travels",
+   "Source": "Delhi",
+   "Destination": "Chennai",
+   "Bus Type": "Non-AC Sleeper",
+   "Travel Date": "14-08-2019",
+   "Fare Price (INR)": 2294.6,
+   "Total Seats": 23,
+   "Duration (hours)": 9.4
+ },
+ {
+   "Agency": "Parveen Travels",
+   "Source": "Lucknow",
+   "Destination": "Jaipur",
+   "Bus Type": "Non-AC Sleeper",
+   "Travel Date": "17-06-2015",
+   "Fare Price (INR)": 2077.23,
+   "Total Seats": 43,
+   "Duration (hours)": 14
+ },
+ {
+   "Agency": "SRM Transport",
+   "Source": "Kolkata",
+   "Destination": "Bangalore",
+   "Bus Type": "Non-AC Sleeper",
+   "Travel Date": "12-11-2024",
+   "Fare Price (INR)": 1114.39,
+   "Total Seats": 48,
+   "Duration (hours)": 15.1
+ },
+ {
+   "Agency": "Kallada Travels",
+   "Source": "Pune",
+   "Destination": "Hyderabad",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "26-03-2019",
+   "Fare Price (INR)": 789.16,
+   "Total Seats": 23,
+   "Duration (hours)": 12.5
+ },
+ {
+   "Agency": "RedBus",
+   "Source": "Delhi",
+   "Destination": "Kolkata",
+   "Bus Type": "Volvo",
+   "Travel Date": "29-08-2019",
+   "Fare Price (INR)": 546.63,
+   "Total Seats": 44,
+   "Duration (hours)": 13.2
+ },
+ {
+   "Agency": "RedBus",
+   "Source": "Ahmedabad",
+   "Destination": "Pune",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "24-01-2015",
+   "Fare Price (INR)": 1825.87,
+   "Total Seats": 40,
+   "Duration (hours)": 12.7
+ },
+ {
+   "Agency": "KPN Travels",
+   "Source": "Lucknow",
+   "Destination": "Jaipur",
+   "Bus Type": "Volvo",
+   "Travel Date": "31-08-2019",
+   "Fare Price (INR)": 510.35,
+   "Total Seats": 26,
+   "Duration (hours)": 13.1
+ },
+ {
+   "Agency": "Parveen Travels",
+   "Source": "Kolkata",
+   "Destination": "Pune",
+   "Bus Type": "Luxury",
+   "Travel Date": "25-01-2023",
+   "Fare Price (INR)": 2415.05,
+   "Total Seats": 28,
+   "Duration (hours)": 17
+ },
+ {
+   "Agency": "Neeta Travels",
+   "Source": "Jaipur",
+   "Destination": "Hyderabad",
+   "Bus Type": "Luxury",
+   "Travel Date": "14-03-2021",
+   "Fare Price (INR)": 1657.87,
+   "Total Seats": 28,
+   "Duration (hours)": 12.4
+ },
+ {
+   "Agency": "SRS Travels",
+   "Source": "Lucknow",
+   "Destination": "Pune",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "21-06-2017",
+   "Fare Price (INR)": 2423.39,
+   "Total Seats": 49,
+   "Duration (hours)": 8.6
+ },
+ {
+   "Agency": "SRM Transport",
+   "Source": "Mumbai",
+   "Destination": "Lucknow",
+   "Bus Type": "AC Seater",
+   "Travel Date": "31-01-2018",
+   "Fare Price (INR)": 2178.32,
+   "Total Seats": 22,
+   "Duration (hours)": 15.9
+ },
+ {
+   "Agency": "RedBus",
+   "Source": "Hyderabad",
+   "Destination": "Kolkata",
+   "Bus Type": "Non-AC Sleeper",
+   "Travel Date": "19-01-2021",
+   "Fare Price (INR)": 370.26,
+   "Total Seats": 39,
+   "Duration (hours)": 12.6
+ },
+ {
+   "Agency": "SRM Transport",
+   "Source": "Delhi",
+   "Destination": "Pune",
+   "Bus Type": "Non-AC Sleeper",
+   "Travel Date": "19-12-2015",
+   "Fare Price (INR)": 1615.37,
+   "Total Seats": 35,
+   "Duration (hours)": 6.8
+ },
+ {
+   "Agency": "VRL Travels",
+   "Source": "Ahmedabad",
+   "Destination": "Jaipur",
+   "Bus Type": "Volvo",
+   "Travel Date": "30-07-2023",
+   "Fare Price (INR)": 2857.31,
+   "Total Seats": 44,
+   "Duration (hours)": 17
+ },
+ {
+   "Agency": "RedBus",
+   "Source": "Pune",
+   "Destination": "Jaipur",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "26-01-2023",
+   "Fare Price (INR)": 2622.58,
+   "Total Seats": 44,
+   "Duration (hours)": 15.2
+ },
+ {
+   "Agency": "Parveen Travels",
+   "Source": "Hyderabad",
+   "Destination": "Chennai",
+   "Bus Type": "Luxury",
+   "Travel Date": "17-12-2023",
+   "Fare Price (INR)": 339.46,
+   "Total Seats": 46,
+   "Duration (hours)": 10.1
+ },
+ {
+   "Agency": "Sharma Travels",
+   "Source": "Bangalore",
+   "Destination": "Hyderabad",
+   "Bus Type": "Luxury",
+   "Travel Date": "23-07-2024",
+   "Fare Price (INR)": 2187.71,
+   "Total Seats": 46,
+   "Duration (hours)": 15.4
+ },
+ {
+   "Agency": "KPN Travels",
+   "Source": "Bangalore",
+   "Destination": "Hyderabad",
+   "Bus Type": "Non-AC Sleeper",
+   "Travel Date": "09-01-2019",
+   "Fare Price (INR)": 1802.54,
+   "Total Seats": 38,
+   "Duration (hours)": 17.1
+ },
+ {
+   "Agency": "Sharma Travels",
+   "Source": "Chennai",
+   "Destination": "Kolkata",
+   "Bus Type": "AC Sleeper",
+   "Travel Date": "15-03-2023",
+   "Fare Price (INR)": 2253.47,
+   "Total Seats": 22,
+   "Duration (hours)": 16.3
+ },
+ {
+   "Agency": "KPN Travels",
+   "Source": "Kolkata",
+   "Destination": "Ahmedabad",
+   "Bus Type": "Luxury",
+   "Travel Date": "15-08-2018",
+   "Fare Price (INR)": 1774.25,
+   "Total Seats": 24,
+   "Duration (hours)": 16.6
+ },
+ {
+   "Agency": "Kallada Travels",
+   "Source": "Ahmedabad",
+   "Destination": "Mumbai",
+   "Bus Type": "Non-AC Sleeper",
+   "Travel Date": "12-04-2020",
+   "Fare Price (INR)": 2259.25,
+   "Total Seats": 40,
+   "Duration (hours)": 5.7
+ },
+ {
+   "Agency": "Sharma Travels",
+   "Source": "Hyderabad",
+   "Destination": "Kolkata",
+   "Bus Type": "Luxury",
+   "Travel Date": "18-05-2018",
+   "Fare Price (INR)": 1755.21,
+   "Total Seats": 35,
+   "Duration (hours)": 12.8
+ },
+ {
+   "Agency": "Parveen Travels",
+   "Source": "Lucknow",
+   "Destination": "Ahmedabad",
+   "Bus Type": "Volvo",
+   "Travel Date": "13-07-2023",
+   "Fare Price (INR)": 1348.92,
+   "Total Seats": 22,
+   "Duration (hours)": 10.4
+ },
+ {
+   "Agency": "SRS Travels",
+   "Source": "Ahmedabad",
+   "Destination": "Delhi",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "26-09-2021",
+   "Fare Price (INR)": 1359.91,
+   "Total Seats": 20,
+   "Duration (hours)": 7.7
+ },
+ {
+   "Agency": "SRS Travels",
+   "Source": "Kolkata",
+   "Destination": "Lucknow",
+   "Bus Type": "AC Seater",
+   "Travel Date": "01-09-2021",
+   "Fare Price (INR)": 1410.28,
+   "Total Seats": 26,
+   "Duration (hours)": 13.8
+ },
+ {
+   "Agency": "VRL Travels",
+   "Source": "Ahmedabad",
+   "Destination": "Jaipur",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "26-10-2019",
+   "Fare Price (INR)": 643.82,
+   "Total Seats": 33,
+   "Duration (hours)": 12.8
+ },
+ {
+   "Agency": "SRM Transport",
+   "Source": "Mumbai",
+   "Destination": "Bangalore",
+   "Bus Type": "Volvo",
+   "Travel Date": "28-08-2018",
+   "Fare Price (INR)": 772.29,
+   "Total Seats": 40,
+   "Duration (hours)": 17.6
+ },
+ {
+   "Agency": "RedBus",
+   "Source": "Chennai",
+   "Destination": "Bangalore",
+   "Bus Type": "Luxury",
+   "Travel Date": "01-07-2020",
+   "Fare Price (INR)": 2508.33,
+   "Total Seats": 28,
+   "Duration (hours)": 13.3
+ },
+ {
+   "Agency": "Sharma Travels",
+   "Source": "Mumbai",
+   "Destination": "Chennai",
+   "Bus Type": "AC Sleeper",
+   "Travel Date": "21-03-2016",
+   "Fare Price (INR)": 1275.65,
+   "Total Seats": 26,
+   "Duration (hours)": 5.2
+ },
+ {
+   "Agency": "Kesineni Travels",
+   "Source": "Jaipur",
+   "Destination": "Pune",
+   "Bus Type": "AC Seater",
+   "Travel Date": "10-02-2017",
+   "Fare Price (INR)": 732.35,
+   "Total Seats": 32,
+   "Duration (hours)": 10.4
+ },
+ {
+   "Agency": "Kesineni Travels",
+   "Source": "Lucknow",
+   "Destination": "Ahmedabad",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "14-01-2015",
+   "Fare Price (INR)": 2139,
+   "Total Seats": 43,
+   "Duration (hours)": 15.6
+ },
+ {
+   "Agency": "SRS Travels",
+   "Source": "Lucknow",
+   "Destination": "Bangalore",
+   "Bus Type": "AC Seater",
+   "Travel Date": "02-01-2024",
+   "Fare Price (INR)": 2145.87,
+   "Total Seats": 39,
+   "Duration (hours)": 7.4
+ },
+ {
+   "Agency": "RedBus",
+   "Source": "Jaipur",
+   "Destination": "Ahmedabad",
+   "Bus Type": "AC Sleeper",
+   "Travel Date": "28-05-2016",
+   "Fare Price (INR)": 1749.27,
+   "Total Seats": 20,
+   "Duration (hours)": 16.3
+ },
+ {
+   "Agency": "Parveen Travels",
+   "Source": "Pune",
+   "Destination": "Hyderabad",
+   "Bus Type": "Non-AC Sleeper",
+   "Travel Date": "10-10-2017",
+   "Fare Price (INR)": 2768.52,
+   "Total Seats": 36,
+   "Duration (hours)": 8.7
+ },
+ {
+   "Agency": "Parveen Travels",
+   "Source": "Pune",
+   "Destination": "Ahmedabad",
+   "Bus Type": "Volvo",
+   "Travel Date": "20-04-2016",
+   "Fare Price (INR)": 2564.2,
+   "Total Seats": 27,
+   "Duration (hours)": 12
+ },
+ {
+   "Agency": "Kesineni Travels",
+   "Source": "Delhi",
+   "Destination": "Pune",
+   "Bus Type": "Luxury",
+   "Travel Date": "04-03-2019",
+   "Fare Price (INR)": 1739.95,
+   "Total Seats": 50,
+   "Duration (hours)": 14.8
+ },
+ {
+   "Agency": "VRL Travels",
+   "Source": "Lucknow",
+   "Destination": "Ahmedabad",
+   "Bus Type": "Non-AC Sleeper",
+   "Travel Date": "08-11-2023",
+   "Fare Price (INR)": 2428.91,
+   "Total Seats": 45,
+   "Duration (hours)": 9.7
+ },
+ {
+   "Agency": "Parveen Travels",
+   "Source": "Lucknow",
+   "Destination": "Bangalore",
+   "Bus Type": "Luxury",
+   "Travel Date": "30-10-2017",
+   "Fare Price (INR)": 1073.21,
+   "Total Seats": 34,
+   "Duration (hours)": 17.7
+ },
+ {
+   "Agency": "VRL Travels",
+   "Source": "Mumbai",
+   "Destination": "Jaipur",
+   "Bus Type": "AC Sleeper",
+   "Travel Date": "03-05-2020",
+   "Fare Price (INR)": 1416.62,
+   "Total Seats": 48,
+   "Duration (hours)": 6.9
+ },
+ {
+   "Agency": "RedBus",
+   "Source": "Jaipur",
+   "Destination": "Pune",
+   "Bus Type": "Non-AC Sleeper",
+   "Travel Date": "07-08-2015",
+   "Fare Price (INR)": 1683.79,
+   "Total Seats": 27,
+   "Duration (hours)": 6.5
+ },
+ {
+   "Agency": "Kallada Travels",
+   "Source": "Mumbai",
+   "Destination": "Delhi",
+   "Bus Type": "Luxury",
+   "Travel Date": "11-11-2016",
+   "Fare Price (INR)": 1410.34,
+   "Total Seats": 48,
+   "Duration (hours)": 12
+ },
+ {
+   "Agency": "Parveen Travels",
+   "Source": "Jaipur",
+   "Destination": "Kolkata",
+   "Bus Type": "AC Seater",
+   "Travel Date": "06-08-2020",
+   "Fare Price (INR)": 581.16,
+   "Total Seats": 35,
+   "Duration (hours)": 8.7
+ },
+ {
+   "Agency": "SRS Travels",
+   "Source": "Delhi",
+   "Destination": "Lucknow",
+   "Bus Type": "Non-AC Sleeper",
+   "Travel Date": "10-01-2018",
+   "Fare Price (INR)": 2173.72,
+   "Total Seats": 44,
+   "Duration (hours)": 13.1
+ },
+ {
+   "Agency": "RedBus",
+   "Source": "Delhi",
+   "Destination": "Mumbai",
+   "Bus Type": "Luxury",
+   "Travel Date": "30-10-2017",
+   "Fare Price (INR)": 2643.25,
+   "Total Seats": 50,
+   "Duration (hours)": 15.9
+ },
+ {
+   "Agency": "Kesineni Travels",
+   "Source": "Mumbai",
+   "Destination": "Delhi",
+   "Bus Type": "Luxury",
+   "Travel Date": "24-07-2019",
+   "Fare Price (INR)": 810.07,
+   "Total Seats": 39,
+   "Duration (hours)": 7.9
+ },
+ {
+   "Agency": "Kesineni Travels",
+   "Source": "Jaipur",
+   "Destination": "Ahmedabad",
+   "Bus Type": "AC Sleeper",
+   "Travel Date": "09-01-2023",
+   "Fare Price (INR)": 867.14,
+   "Total Seats": 30,
+   "Duration (hours)": 11.6
+ },
+ {
+   "Agency": "SRM Transport",
+   "Source": "Mumbai",
+   "Destination": "Delhi",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "19-03-2015",
+   "Fare Price (INR)": 556.96,
+   "Total Seats": 39,
+   "Duration (hours)": 12.6
+ },
+ {
+   "Agency": "Kallada Travels",
+   "Source": "Lucknow",
+   "Destination": "Mumbai",
+   "Bus Type": "Luxury",
+   "Travel Date": "30-10-2022",
+   "Fare Price (INR)": 2776.24,
+   "Total Seats": 30,
+   "Duration (hours)": 12.4
+ },
+ {
+   "Agency": "KPN Travels",
+   "Source": "Mumbai",
+   "Destination": "Kolkata",
+   "Bus Type": "Non-AC Sleeper",
+   "Travel Date": "08-11-2016",
+   "Fare Price (INR)": 2743.64,
+   "Total Seats": 44,
+   "Duration (hours)": 6.4
+ },
+ {
+   "Agency": "RedBus",
+   "Source": "Kolkata",
+   "Destination": "Mumbai",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "18-06-2017",
+   "Fare Price (INR)": 870.81,
+   "Total Seats": 26,
+   "Duration (hours)": 8.1
+ },
+ {
+   "Agency": "Parveen Travels",
+   "Source": "Pune",
+   "Destination": "Jaipur",
+   "Bus Type": "Luxury",
+   "Travel Date": "30-10-2016",
+   "Fare Price (INR)": 2896.41,
+   "Total Seats": 23,
+   "Duration (hours)": 7.7
+ },
+ {
+   "Agency": "Kallada Travels",
+   "Source": "Mumbai",
+   "Destination": "Bangalore",
+   "Bus Type": "Non-AC Sleeper",
+   "Travel Date": "30-10-2017",
+   "Fare Price (INR)": 1124.5,
+   "Total Seats": 44,
+   "Duration (hours)": 8.8
+ },
+ {
+   "Agency": "SRS Travels",
+   "Source": "Jaipur",
+   "Destination": "Kolkata",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "27-09-2023",
+   "Fare Price (INR)": 2076.73,
+   "Total Seats": 29,
+   "Duration (hours)": 11.7
+ },
+ {
+   "Agency": "Kallada Travels",
+   "Source": "Delhi",
+   "Destination": "Pune",
+   "Bus Type": "AC Seater",
+   "Travel Date": "28-07-2023",
+   "Fare Price (INR)": 954.29,
+   "Total Seats": 21,
+   "Duration (hours)": 9.2
+ },
+ {
+   "Agency": "KPN Travels",
+   "Source": "Ahmedabad",
+   "Destination": "Jaipur",
+   "Bus Type": "Non-AC Sleeper",
+   "Travel Date": "19-12-2024",
+   "Fare Price (INR)": 1106.11,
+   "Total Seats": 29,
+   "Duration (hours)": 17.3
+ },
+ {
+   "Agency": "Kallada Travels",
+   "Source": "Ahmedabad",
+   "Destination": "Chennai",
+   "Bus Type": "Volvo",
+   "Travel Date": "25-03-2019",
+   "Fare Price (INR)": 1533.23,
+   "Total Seats": 38,
+   "Duration (hours)": 9.9
+ },
+ {
+   "Agency": "RedBus",
+   "Source": "Bangalore",
+   "Destination": "Kolkata",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "27-11-2021",
+   "Fare Price (INR)": 449.19,
+   "Total Seats": 30,
+   "Duration (hours)": 8.1
+ },
+ {
+   "Agency": "Kesineni Travels",
+   "Source": "Lucknow",
+   "Destination": "Ahmedabad",
+   "Bus Type": "AC Sleeper",
+   "Travel Date": "15-06-2017",
+   "Fare Price (INR)": 2014.63,
+   "Total Seats": 21,
+   "Duration (hours)": 5.9
+ },
+ {
+   "Agency": "Neeta Travels",
+   "Source": "Mumbai",
+   "Destination": "Pune",
+   "Bus Type": "Luxury",
+   "Travel Date": "10-12-2021",
+   "Fare Price (INR)": 781.42,
+   "Total Seats": 26,
+   "Duration (hours)": 6.6
+ },
+ {
+   "Agency": "Neeta Travels",
+   "Source": "Jaipur",
+   "Destination": "Hyderabad",
+   "Bus Type": "Luxury",
+   "Travel Date": "27-05-2020",
+   "Fare Price (INR)": 430.75,
+   "Total Seats": 24,
+   "Duration (hours)": 7.3
+ },
+ {
+   "Agency": "Neeta Travels",
+   "Source": "Lucknow",
+   "Destination": "Hyderabad",
+   "Bus Type": "Non-AC Sleeper",
+   "Travel Date": "09-10-2017",
+   "Fare Price (INR)": 1616.49,
+   "Total Seats": 26,
+   "Duration (hours)": 7.2
+ },
+ {
+   "Agency": "Sharma Travels",
+   "Source": "Delhi",
+   "Destination": "Kolkata",
+   "Bus Type": "AC Seater",
+   "Travel Date": "17-07-2022",
+   "Fare Price (INR)": 1211.59,
+   "Total Seats": 22,
+   "Duration (hours)": 11.9
+ },
+ {
+   "Agency": "SRS Travels",
+   "Source": "Lucknow",
+   "Destination": "Ahmedabad",
+   "Bus Type": "AC Sleeper",
+   "Travel Date": "12-01-2015",
+   "Fare Price (INR)": 1533.86,
+   "Total Seats": 32,
+   "Duration (hours)": 11.4
+ },
+ {
+   "Agency": "Parveen Travels",
+   "Source": "Bangalore",
+   "Destination": "Chennai",
+   "Bus Type": "AC Seater",
+   "Travel Date": "28-03-2020",
+   "Fare Price (INR)": 782.39,
+   "Total Seats": 50,
+   "Duration (hours)": 7.8
+ },
+ {
+   "Agency": "VRL Travels",
+   "Source": "Bangalore",
+   "Destination": "Kolkata",
+   "Bus Type": "AC Sleeper",
+   "Travel Date": "11-06-2017",
+   "Fare Price (INR)": 2259.5,
+   "Total Seats": 21,
+   "Duration (hours)": 14
+ },
+ {
+   "Agency": "Parveen Travels",
+   "Source": "Delhi",
+   "Destination": "Kolkata",
+   "Bus Type": "AC Sleeper",
+   "Travel Date": "03-12-2017",
+   "Fare Price (INR)": 1268.28,
+   "Total Seats": 41,
+   "Duration (hours)": 14.7
+ },
+ {
+   "Agency": "Neeta Travels",
+   "Source": "Chennai",
+   "Destination": "Pune",
+   "Bus Type": "AC Seater",
+   "Travel Date": "12-06-2021",
+   "Fare Price (INR)": 1236.54,
+   "Total Seats": 21,
+   "Duration (hours)": 13.5
+ },
+ {
+   "Agency": "SRM Transport",
+   "Source": "Ahmedabad",
+   "Destination": "Bangalore",
+   "Bus Type": "Non-AC Sleeper",
+   "Travel Date": "27-09-2020",
+   "Fare Price (INR)": 660.27,
+   "Total Seats": 47,
+   "Duration (hours)": 10.2
+ },
+ {
+   "Agency": "SRM Transport",
+   "Source": "Mumbai",
+   "Destination": "Jaipur",
+   "Bus Type": "Volvo",
+   "Travel Date": "17-09-2017",
+   "Fare Price (INR)": 1975.9,
+   "Total Seats": 27,
+   "Duration (hours)": 11.8
+ },
+ {
+   "Agency": "Sharma Travels",
+   "Source": "Kolkata",
+   "Destination": "Lucknow",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "12-12-2023",
+   "Fare Price (INR)": 2224.38,
+   "Total Seats": 44,
+   "Duration (hours)": 15.1
+ },
+ {
+   "Agency": "VRL Travels",
+   "Source": "Lucknow",
+   "Destination": "Jaipur",
+   "Bus Type": "Volvo",
+   "Travel Date": "03-03-2017",
+   "Fare Price (INR)": 1156.83,
+   "Total Seats": 45,
+   "Duration (hours)": 9.6
+ },
+ {
+   "Agency": "Parveen Travels",
+   "Source": "Bangalore",
+   "Destination": "Delhi",
+   "Bus Type": "AC Sleeper",
+   "Travel Date": "16-02-2023",
+   "Fare Price (INR)": 1907.18,
+   "Total Seats": 45,
+   "Duration (hours)": 11
+ },
+ {
+   "Agency": "Sharma Travels",
+   "Source": "Jaipur",
+   "Destination": "Bangalore",
+   "Bus Type": "AC Seater",
+   "Travel Date": "10-06-2021",
+   "Fare Price (INR)": 2591.92,
+   "Total Seats": 33,
+   "Duration (hours)": 5.4
+ },
+ {
+   "Agency": "Sharma Travels",
+   "Source": "Jaipur",
+   "Destination": "Lucknow",
+   "Bus Type": "Non-AC Sleeper",
+   "Travel Date": "11-04-2016",
+   "Fare Price (INR)": 524.12,
+   "Total Seats": 41,
+   "Duration (hours)": 6.2
+ },
+ {
+   "Agency": "KPN Travels",
+   "Source": "Jaipur",
+   "Destination": "Mumbai",
+   "Bus Type": "Volvo",
+   "Travel Date": "25-02-2016",
+   "Fare Price (INR)": 2247.48,
+   "Total Seats": 32,
+   "Duration (hours)": 16.8
+ },
+ {
+   "Agency": "Parveen Travels",
+   "Source": "Lucknow",
+   "Destination": "Pune",
+   "Bus Type": "AC Seater",
+   "Travel Date": "21-03-2018",
+   "Fare Price (INR)": 1018.94,
+   "Total Seats": 25,
+   "Duration (hours)": 6.9
+ },
+ {
+   "Agency": "Kesineni Travels",
+   "Source": "Mumbai",
+   "Destination": "Kolkata",
+   "Bus Type": "AC Seater",
+   "Travel Date": "01-10-2016",
+   "Fare Price (INR)": 1371.36,
+   "Total Seats": 27,
+   "Duration (hours)": 13.8
+ },
+ {
+   "Agency": "Kallada Travels",
+   "Source": "Mumbai",
+   "Destination": "Chennai",
+   "Bus Type": "Volvo",
+   "Travel Date": "11-08-2015",
+   "Fare Price (INR)": 325.95,
+   "Total Seats": 23,
+   "Duration (hours)": 13.8
+ },
+ {
+   "Agency": "KPN Travels",
+   "Source": "Delhi",
+   "Destination": "Ahmedabad",
+   "Bus Type": "Luxury",
+   "Travel Date": "06-09-2018",
+   "Fare Price (INR)": 1745.43,
+   "Total Seats": 38,
+   "Duration (hours)": 5.3
+ },
+ {
+   "Agency": "Sharma Travels",
+   "Source": "Delhi",
+   "Destination": "Pune",
+   "Bus Type": "Volvo",
+   "Travel Date": "16-12-2017",
+   "Fare Price (INR)": 454.44,
+   "Total Seats": 43,
+   "Duration (hours)": 16.8
+ },
+ {
+   "Agency": "KPN Travels",
+   "Source": "Bangalore",
+   "Destination": "Ahmedabad",
+   "Bus Type": "AC Sleeper",
+   "Travel Date": "11-11-2019",
+   "Fare Price (INR)": 1297.88,
+   "Total Seats": 45,
+   "Duration (hours)": 14.5
+ },
+ {
+   "Agency": "SRS Travels",
+   "Source": "Mumbai",
+   "Destination": "Chennai",
+   "Bus Type": "Luxury",
+   "Travel Date": "07-04-2021",
+   "Fare Price (INR)": 1450.76,
+   "Total Seats": 27,
+   "Duration (hours)": 9.8
+ },
+ {
+   "Agency": "Parveen Travels",
+   "Source": "Lucknow",
+   "Destination": "Ahmedabad",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "06-07-2017",
+   "Fare Price (INR)": 1188.95,
+   "Total Seats": 42,
+   "Duration (hours)": 9.1
+ },
+ {
+   "Agency": "VRL Travels",
+   "Source": "Delhi",
+   "Destination": "Jaipur",
+   "Bus Type": "Non-AC Sleeper",
+   "Travel Date": "27-04-2022",
+   "Fare Price (INR)": 1143.73,
+   "Total Seats": 26,
+   "Duration (hours)": 5.6
+ },
+ {
+   "Agency": "KPN Travels",
+   "Source": "Jaipur",
+   "Destination": "Kolkata",
+   "Bus Type": "Volvo",
+   "Travel Date": "05-10-2019",
+   "Fare Price (INR)": 3516.85,
+   "Total Seats": 41,
+   "Duration (hours)": 15.1
+ },
+ {
+   "Agency": "RedBus",
+   "Source": "Lucknow",
+   "Destination": "Hyderabad",
+   "Bus Type": "AC Sleeper",
+   "Travel Date": "17-12-2022",
+   "Fare Price (INR)": 651.45,
+   "Total Seats": 50,
+   "Duration (hours)": 14.8
+ },
+ {
+   "Agency": "Neeta Travels",
+   "Source": "Chennai",
+   "Destination": "Mumbai",
+   "Bus Type": "AC Seater",
+   "Travel Date": "15-07-2018",
+   "Fare Price (INR)": 384.03,
+   "Total Seats": 38,
+   "Duration (hours)": 15.7
+ },
+ {
+   "Agency": "Parveen Travels",
+   "Source": "Mumbai",
+   "Destination": "Ahmedabad",
+   "Bus Type": "Luxury",
+   "Travel Date": "19-02-2022",
+   "Fare Price (INR)": 1579.49,
+   "Total Seats": 47,
+   "Duration (hours)": 17.9
+ },
+ {
+   "Agency": "SRS Travels",
+   "Source": "Ahmedabad",
+   "Destination": "Kolkata",
+   "Bus Type": "AC Sleeper",
+   "Travel Date": "17-07-2016",
+   "Fare Price (INR)": 369.69,
+   "Total Seats": 40,
+   "Duration (hours)": 15.7
+ },
+ {
+   "Agency": "SRS Travels",
+   "Source": "Jaipur",
+   "Destination": "Kolkata",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "07-05-2021",
+   "Fare Price (INR)": 2560.95,
+   "Total Seats": 28,
+   "Duration (hours)": 12
+ },
+ {
+   "Agency": "Sharma Travels",
+   "Source": "Lucknow",
+   "Destination": "Delhi",
+   "Bus Type": "AC Sleeper",
+   "Travel Date": "18-09-2018",
+   "Fare Price (INR)": 1116.16,
+   "Total Seats": 22,
+   "Duration (hours)": 16.4
+ },
+ {
+   "Agency": "KPN Travels",
+   "Source": "Hyderabad",
+   "Destination": "Ahmedabad",
+   "Bus Type": "Non-AC Sleeper",
+   "Travel Date": "02-03-2016",
+   "Fare Price (INR)": 533.31,
+   "Total Seats": 39,
+   "Duration (hours)": 10.3
+ },
+ {
+   "Agency": "SRS Travels",
+   "Source": "Lucknow",
+   "Destination": "Jaipur",
+   "Bus Type": "Non-AC Sleeper",
+   "Travel Date": "20-11-2019",
+   "Fare Price (INR)": 718.63,
+   "Total Seats": 21,
+   "Duration (hours)": 11.6
+ },
+ {
+   "Agency": "SRM Transport",
+   "Source": "Delhi",
+   "Destination": "Chennai",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "22-07-2016",
+   "Fare Price (INR)": 2708.41,
+   "Total Seats": 34,
+   "Duration (hours)": 16.4
+ },
+ {
+   "Agency": "VRL Travels",
+   "Source": "Pune",
+   "Destination": "Hyderabad",
+   "Bus Type": "Luxury",
+   "Travel Date": "10-06-2015",
+   "Fare Price (INR)": 1716.05,
+   "Total Seats": 21,
+   "Duration (hours)": 5
+ },
+ {
+   "Agency": "KPN Travels",
+   "Source": "Mumbai",
+   "Destination": "Jaipur",
+   "Bus Type": "AC Sleeper",
+   "Travel Date": "02-04-2015",
+   "Fare Price (INR)": 1817.8,
+   "Total Seats": 22,
+   "Duration (hours)": 14.8
+ },
+ {
+   "Agency": "Sharma Travels",
+   "Source": "Hyderabad",
+   "Destination": "Pune",
+   "Bus Type": "AC Seater",
+   "Travel Date": "29-01-2024",
+   "Fare Price (INR)": 2756.01,
+   "Total Seats": 23,
+   "Duration (hours)": 14
+ },
+ {
+   "Agency": "SRS Travels",
+   "Source": "Lucknow",
+   "Destination": "Hyderabad",
+   "Bus Type": "Volvo",
+   "Travel Date": "30-09-2024",
+   "Fare Price (INR)": 908.88,
+   "Total Seats": 47,
+   "Duration (hours)": 10.5
+ },
+ {
+   "Agency": "SRM Transport",
+   "Source": "Mumbai",
+   "Destination": "Pune",
+   "Bus Type": "Luxury",
+   "Travel Date": "30-04-2024",
+   "Fare Price (INR)": 1999.8,
+   "Total Seats": 47,
+   "Duration (hours)": 13.8
+ },
+ {
+   "Agency": "Neeta Travels",
+   "Source": "Chennai",
+   "Destination": "Kolkata",
+   "Bus Type": "AC Sleeper",
+   "Travel Date": "05-03-2017",
+   "Fare Price (INR)": 1312.77,
+   "Total Seats": 48,
+   "Duration (hours)": 9.7
+ },
+ {
+   "Agency": "SRS Travels",
+   "Source": "Ahmedabad",
+   "Destination": "Lucknow",
+   "Bus Type": "AC Seater",
+   "Travel Date": "02-04-2016",
+   "Fare Price (INR)": 621.57,
+   "Total Seats": 32,
+   "Duration (hours)": 14.3
+ },
+ {
+   "Agency": "Parveen Travels",
+   "Source": "Chennai",
+   "Destination": "Mumbai",
+   "Bus Type": "Non-AC Sleeper",
+   "Travel Date": "12-05-2021",
+   "Fare Price (INR)": 1367.61,
+   "Total Seats": 50,
+   "Duration (hours)": 9.6
+ },
+ {
+   "Agency": "VRL Travels",
+   "Source": "Jaipur",
+   "Destination": "Hyderabad",
+   "Bus Type": "Luxury",
+   "Travel Date": "11-06-2018",
+   "Fare Price (INR)": 2412.85,
+   "Total Seats": 48,
+   "Duration (hours)": 13.1
+ },
+ {
+   "Agency": "Kesineni Travels",
+   "Source": "Lucknow",
+   "Destination": "Jaipur",
+   "Bus Type": "AC Sleeper",
+   "Travel Date": "01-10-2022",
+   "Fare Price (INR)": 1667.8,
+   "Total Seats": 31,
+   "Duration (hours)": 6.5
+ },
+ {
+   "Agency": "RedBus",
+   "Source": "Chennai",
+   "Destination": "Jaipur",
+   "Bus Type": "Volvo",
+   "Travel Date": "27-04-2017",
+   "Fare Price (INR)": 1809.65,
+   "Total Seats": 34,
+   "Duration (hours)": 8.5
+ },
+ {
+   "Agency": "Neeta Travels",
+   "Source": "Lucknow",
+   "Destination": "Hyderabad",
+   "Bus Type": "Non-AC Sleeper",
+   "Travel Date": "20-10-2016",
+   "Fare Price (INR)": 987.23,
+   "Total Seats": 43,
+   "Duration (hours)": 11
+ },
+ {
+   "Agency": "Kesineni Travels",
+   "Source": "Bangalore",
+   "Destination": "Jaipur",
+   "Bus Type": "AC Seater",
+   "Travel Date": "06-10-2020",
+   "Fare Price (INR)": 1207.56,
+   "Total Seats": 40,
+   "Duration (hours)": 8.9
+ },
+ {
+   "Agency": "SRM Transport",
+   "Source": "Lucknow",
+   "Destination": "Jaipur",
+   "Bus Type": "Volvo",
+   "Travel Date": "26-12-2016",
+   "Fare Price (INR)": 445.34,
+   "Total Seats": 49,
+   "Duration (hours)": 8.1
+ },
+ {
+   "Agency": "RedBus",
+   "Source": "Pune",
+   "Destination": "Delhi",
+   "Bus Type": "AC Sleeper",
+   "Travel Date": "03-02-2024",
+   "Fare Price (INR)": 492.18,
+   "Total Seats": 42,
+   "Duration (hours)": 15.4
+ },
+ {
+   "Agency": "SRM Transport",
+   "Source": "Bangalore",
+   "Destination": "Kolkata",
+   "Bus Type": "Luxury",
+   "Travel Date": "30-03-2015",
+   "Fare Price (INR)": 1145.26,
+   "Total Seats": 37,
+   "Duration (hours)": 16.3
+ },
+ {
+   "Agency": "Kallada Travels",
+   "Source": "Lucknow",
+   "Destination": "Chennai",
+   "Bus Type": "AC Sleeper",
+   "Travel Date": "04-04-2023",
+   "Fare Price (INR)": 1549.83,
+   "Total Seats": 25,
+   "Duration (hours)": 7.2
+ },
+ {
+   "Agency": "Sharma Travels",
+   "Source": "Pune",
+   "Destination": "Chennai",
+   "Bus Type": "AC Seater",
+   "Travel Date": "22-03-2021",
+   "Fare Price (INR)": 1069.48,
+   "Total Seats": 46,
+   "Duration (hours)": 13.5
+ },
+ {
+   "Agency": "VRL Travels",
+   "Source": "Chennai",
+   "Destination": "Pune",
+   "Bus Type": "Volvo",
+   "Travel Date": "19-10-2020",
+   "Fare Price (INR)": 503.6,
+   "Total Seats": 48,
+   "Duration (hours)": 17
+ },
+ {
+   "Agency": "Neeta Travels",
+   "Source": "Mumbai",
+   "Destination": "Bangalore",
+   "Bus Type": "AC Seater",
+   "Travel Date": "13-05-2015",
+   "Fare Price (INR)": 1472.11,
+   "Total Seats": 41,
+   "Duration (hours)": 17.5
+ },
+ {
+   "Agency": "Kesineni Travels",
+   "Source": "Bangalore",
+   "Destination": "Delhi",
+   "Bus Type": "Volvo",
+   "Travel Date": "19-08-2024",
+   "Fare Price (INR)": 2306.77,
+   "Total Seats": 28,
+   "Duration (hours)": 10.3
+ },
+ {
+   "Agency": "Kallada Travels",
+   "Source": "Pune",
+   "Destination": "Lucknow",
+   "Bus Type": "AC Seater",
+   "Travel Date": "03-06-2021",
+   "Fare Price (INR)": 606.98,
+   "Total Seats": 20,
+   "Duration (hours)": 12.6
+ },
+ {
+   "Agency": "Parveen Travels",
+   "Source": "Kolkata",
+   "Destination": "Mumbai",
+   "Bus Type": "AC Seater",
+   "Travel Date": "04-05-2021",
+   "Fare Price (INR)": 2441.39,
+   "Total Seats": 20,
+   "Duration (hours)": 11.8
+ },
+ {
+   "Agency": "Kesineni Travels",
+   "Source": "Pune",
+   "Destination": "Mumbai",
+   "Bus Type": "Volvo",
+   "Travel Date": "26-04-2023",
+   "Fare Price (INR)": 1174.76,
+   "Total Seats": 48,
+   "Duration (hours)": 14.8
+ },
+ {
+   "Agency": "Parveen Travels",
+   "Source": "Mumbai",
+   "Destination": "Jaipur",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "29-08-2022",
+   "Fare Price (INR)": 1154.17,
+   "Total Seats": 23,
+   "Duration (hours)": 17.6
+ },
+ {
+   "Agency": "Kallada Travels",
+   "Source": "Ahmedabad",
+   "Destination": "Delhi",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "22-10-2021",
+   "Fare Price (INR)": 1504.16,
+   "Total Seats": 28,
+   "Duration (hours)": 9.7
+ },
+ {
+   "Agency": "Kesineni Travels",
+   "Source": "Pune",
+   "Destination": "Bangalore",
+   "Bus Type": "Volvo",
+   "Travel Date": "25-02-2015",
+   "Fare Price (INR)": 1405.17,
+   "Total Seats": 24,
+   "Duration (hours)": 8.3
+ },
+ {
+   "Agency": "Parveen Travels",
+   "Source": "Pune",
+   "Destination": "Chennai",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "09-08-2022",
+   "Fare Price (INR)": 1590.26,
+   "Total Seats": 22,
+   "Duration (hours)": 5.1
+ },
+ {
+   "Agency": "RedBus",
+   "Source": "Bangalore",
+   "Destination": "Mumbai",
+   "Bus Type": "AC Sleeper",
+   "Travel Date": "17-07-2022",
+   "Fare Price (INR)": 2856,
+   "Total Seats": 44,
+   "Duration (hours)": 14.8
+ },
+ {
+   "Agency": "VRL Travels",
+   "Source": "Bangalore",
+   "Destination": "Hyderabad",
+   "Bus Type": "Volvo",
+   "Travel Date": "06-11-2023",
+   "Fare Price (INR)": 784.58,
+   "Total Seats": 34,
+   "Duration (hours)": 17.7
+ },
+ {
+   "Agency": "Kallada Travels",
+   "Source": "Mumbai",
+   "Destination": "Jaipur",
+   "Bus Type": "Non-AC Sleeper",
+   "Travel Date": "24-03-2023",
+   "Fare Price (INR)": 2427.7,
+   "Total Seats": 48,
+   "Duration (hours)": 6.7
+ },
+ {
+   "Agency": "Neeta Travels",
+   "Source": "Chennai",
+   "Destination": "Jaipur",
+   "Bus Type": "Non-AC Sleeper",
+   "Travel Date": "10-03-2020",
+   "Fare Price (INR)": 2106.65,
+   "Total Seats": 48,
+   "Duration (hours)": 11.5
+ },
+ {
+   "Agency": "KPN Travels",
+   "Source": "Bangalore",
+   "Destination": "Mumbai",
+   "Bus Type": "Volvo",
+   "Travel Date": "13-03-2024",
+   "Fare Price (INR)": 2696.76,
+   "Total Seats": 50,
+   "Duration (hours)": 12.5
+ },
+ {
+   "Agency": "VRL Travels",
+   "Source": "Mumbai",
+   "Destination": "Jaipur",
+   "Bus Type": "Volvo",
+   "Travel Date": "18-05-2016",
+   "Fare Price (INR)": 630.98,
+   "Total Seats": 43,
+   "Duration (hours)": 5.7
+ },
+ {
+   "Agency": "Neeta Travels",
+   "Source": "Mumbai",
+   "Destination": "Chennai",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "30-05-2017",
+   "Fare Price (INR)": 1125.24,
+   "Total Seats": 42,
+   "Duration (hours)": 17
+ },
+ {
+   "Agency": "RedBus",
+   "Source": "Chennai",
+   "Destination": "Mumbai",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "08-08-2022",
+   "Fare Price (INR)": 452.69,
+   "Total Seats": 40,
+   "Duration (hours)": 14.9
+ },
+ {
+   "Agency": "RedBus",
+   "Source": "Pune",
+   "Destination": "Kolkata",
+   "Bus Type": "Volvo",
+   "Travel Date": "18-01-2024",
+   "Fare Price (INR)": 2088.42,
+   "Total Seats": 41,
+   "Duration (hours)": 10.5
+ },
+ {
+   "Agency": "Kesineni Travels",
+   "Source": "Hyderabad",
+   "Destination": "Bangalore",
+   "Bus Type": "AC Seater",
+   "Travel Date": "14-05-2017",
+   "Fare Price (INR)": 2213.91,
+   "Total Seats": 21,
+   "Duration (hours)": 6.7
+ },
+ {
+   "Agency": "KPN Travels",
+   "Source": "Bangalore",
+   "Destination": "Mumbai",
+   "Bus Type": "Luxury",
+   "Travel Date": "29-11-2019",
+   "Fare Price (INR)": 1155.82,
+   "Total Seats": 34,
+   "Duration (hours)": 17.2
+ },
+ {
+   "Agency": "Neeta Travels",
+   "Source": "Pune",
+   "Destination": "Mumbai",
+   "Bus Type": "Luxury",
+   "Travel Date": "18-03-2021",
+   "Fare Price (INR)": 946.94,
+   "Total Seats": 25,
+   "Duration (hours)": 7.4
+ },
+ {
+   "Agency": "Kallada Travels",
+   "Source": "Kolkata",
+   "Destination": "Lucknow",
+   "Bus Type": "Luxury",
+   "Travel Date": "02-11-2016",
+   "Fare Price (INR)": 2050.5,
+   "Total Seats": 27,
+   "Duration (hours)": 6.2
+ },
+ {
+   "Agency": "RedBus",
+   "Source": "Pune",
+   "Destination": "Lucknow",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "15-09-2015",
+   "Fare Price (INR)": 1481.68,
+   "Total Seats": 35,
+   "Duration (hours)": 14.7
+ },
+ {
+   "Agency": "Kesineni Travels",
+   "Source": "Kolkata",
+   "Destination": "Ahmedabad",
+   "Bus Type": "AC Seater",
+   "Travel Date": "27-09-2015",
+   "Fare Price (INR)": 1149.77,
+   "Total Seats": 40,
+   "Duration (hours)": 15.6
+ },
+ {
+   "Agency": "Sharma Travels",
+   "Source": "Lucknow",
+   "Destination": "Chennai",
+   "Bus Type": "AC Sleeper",
+   "Travel Date": "19-02-2020",
+   "Fare Price (INR)": 1468.17,
+   "Total Seats": 49,
+   "Duration (hours)": 6.9
+ },
+ {
+   "Agency": "Kallada Travels",
+   "Source": "Pune",
+   "Destination": "Kolkata",
+   "Bus Type": "Luxury",
+   "Travel Date": "20-07-2020",
+   "Fare Price (INR)": 2156.21,
+   "Total Seats": 45,
+   "Duration (hours)": 10.1
+ },
+ {
+   "Agency": "Kallada Travels",
+   "Source": "Pune",
+   "Destination": "Delhi",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "09-11-2021",
+   "Fare Price (INR)": 1107.91,
+   "Total Seats": 32,
+   "Duration (hours)": 17.3
+ },
+ {
+   "Agency": "SRM Transport",
+   "Source": "Jaipur",
+   "Destination": "Delhi",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "22-08-2015",
+   "Fare Price (INR)": 2368.79,
+   "Total Seats": 21,
+   "Duration (hours)": 11
+ },
+ {
+   "Agency": "RedBus",
+   "Source": "Chennai",
+   "Destination": "Kolkata",
+   "Bus Type": "Non-AC Sleeper",
+   "Travel Date": "07-12-2020",
+   "Fare Price (INR)": 1296.24,
+   "Total Seats": 37,
+   "Duration (hours)": 15.6
+ },
+ {
+   "Agency": "VRL Travels",
+   "Source": "Kolkata",
+   "Destination": "Mumbai",
+   "Bus Type": "Volvo",
+   "Travel Date": "23-11-2022",
+   "Fare Price (INR)": 1550.73,
+   "Total Seats": 22,
+   "Duration (hours)": 11.6
+ },
+ {
+   "Agency": "RedBus",
+   "Source": "Delhi",
+   "Destination": "Chennai",
+   "Bus Type": "Non-AC Sleeper",
+   "Travel Date": "12-02-2022",
+   "Fare Price (INR)": 1991.01,
+   "Total Seats": 35,
+   "Duration (hours)": 13.7
+ },
+ {
+   "Agency": "Parveen Travels",
+   "Source": "Hyderabad",
+   "Destination": "Chennai",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "03-09-2017",
+   "Fare Price (INR)": 2526.52,
+   "Total Seats": 36,
+   "Duration (hours)": 16.2
+ },
+ {
+   "Agency": "KPN Travels",
+   "Source": "Chennai",
+   "Destination": "Jaipur",
+   "Bus Type": "AC Seater",
+   "Travel Date": "23-04-2024",
+   "Fare Price (INR)": 3133.2,
+   "Total Seats": 28,
+   "Duration (hours)": 13.3
+ },
+ {
+   "Agency": "SRM Transport",
+   "Source": "Lucknow",
+   "Destination": "Mumbai",
+   "Bus Type": "AC Seater",
+   "Travel Date": "04-03-2022",
+   "Fare Price (INR)": 797.85,
+   "Total Seats": 27,
+   "Duration (hours)": 8.3
+ },
+ {
+   "Agency": "Neeta Travels",
+   "Source": "Ahmedabad",
+   "Destination": "Delhi",
+   "Bus Type": "Luxury",
+   "Travel Date": "25-04-2019",
+   "Fare Price (INR)": 3537.51,
+   "Total Seats": 25,
+   "Duration (hours)": 17.8
+ },
+ {
+   "Agency": "SRS Travels",
+   "Source": "Jaipur",
+   "Destination": "Delhi",
+   "Bus Type": "Volvo",
+   "Travel Date": "16-01-2022",
+   "Fare Price (INR)": 2098.87,
+   "Total Seats": 40,
+   "Duration (hours)": 10.5
+ },
+ {
+   "Agency": "Kesineni Travels",
+   "Source": "Bangalore",
+   "Destination": "Hyderabad",
+   "Bus Type": "Non-AC Sleeper",
+   "Travel Date": "23-03-2018",
+   "Fare Price (INR)": 575.11,
+   "Total Seats": 47,
+   "Duration (hours)": 8.1
+ },
+ {
+   "Agency": "Parveen Travels",
+   "Source": "Bangalore",
+   "Destination": "Hyderabad",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "31-10-2018",
+   "Fare Price (INR)": 1553.58,
+   "Total Seats": 28,
+   "Duration (hours)": 7.7
+ },
+ {
+   "Agency": "VRL Travels",
+   "Source": "Chennai",
+   "Destination": "Kolkata",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "10-10-2018",
+   "Fare Price (INR)": 1762.93,
+   "Total Seats": 33,
+   "Duration (hours)": 7.9
+ },
+ {
+   "Agency": "KPN Travels",
+   "Source": "Pune",
+   "Destination": "Bangalore",
+   "Bus Type": "Luxury",
+   "Travel Date": "13-01-2022",
+   "Fare Price (INR)": 1691.33,
+   "Total Seats": 23,
+   "Duration (hours)": 12.1
+ },
+ {
+   "Agency": "Sharma Travels",
+   "Source": "Pune",
+   "Destination": "Bangalore",
+   "Bus Type": "AC Sleeper",
+   "Travel Date": "22-12-2022",
+   "Fare Price (INR)": 1980.91,
+   "Total Seats": 47,
+   "Duration (hours)": 12.7
+ },
+ {
+   "Agency": "Kallada Travels",
+   "Source": "Ahmedabad",
+   "Destination": "Bangalore",
+   "Bus Type": "Luxury",
+   "Travel Date": "14-11-2023",
+   "Fare Price (INR)": 1436.43,
+   "Total Seats": 47,
+   "Duration (hours)": 11.2
+ },
+ {
+   "Agency": "Kesineni Travels",
+   "Source": "Delhi",
+   "Destination": "Chennai",
+   "Bus Type": "AC Seater",
+   "Travel Date": "31-05-2022",
+   "Fare Price (INR)": 3416.49,
+   "Total Seats": 47,
+   "Duration (hours)": 8.5
+ },
+ {
+   "Agency": "RedBus",
+   "Source": "Chennai",
+   "Destination": "Jaipur",
+   "Bus Type": "AC Seater",
+   "Travel Date": "29-05-2024",
+   "Fare Price (INR)": 1858.69,
+   "Total Seats": 46,
+   "Duration (hours)": 16.3
+ },
+ {
+   "Agency": "Parveen Travels",
+   "Source": "Hyderabad",
+   "Destination": "Delhi",
+   "Bus Type": "AC Seater",
+   "Travel Date": "29-12-2016",
+   "Fare Price (INR)": 1166.45,
+   "Total Seats": 38,
+   "Duration (hours)": 13.5
+ },
+ {
+   "Agency": "Sharma Travels",
+   "Source": "Ahmedabad",
+   "Destination": "Pune",
+   "Bus Type": "Volvo",
+   "Travel Date": "30-03-2015",
+   "Fare Price (INR)": 1809.6,
+   "Total Seats": 23,
+   "Duration (hours)": 7.2
+ },
+ {
+   "Agency": "SRM Transport",
+   "Source": "Pune",
+   "Destination": "Bangalore",
+   "Bus Type": "Luxury",
+   "Travel Date": "06-10-2021",
+   "Fare Price (INR)": 1581.98,
+   "Total Seats": 38,
+   "Duration (hours)": 12.5
+ },
+ {
+   "Agency": "Parveen Travels",
+   "Source": "Jaipur",
+   "Destination": "Chennai",
+   "Bus Type": "Luxury",
+   "Travel Date": "18-12-2021",
+   "Fare Price (INR)": 957.55,
+   "Total Seats": 27,
+   "Duration (hours)": 13.4
+ },
+ {
+   "Agency": "Parveen Travels",
+   "Source": "Pune",
+   "Destination": "Mumbai",
+   "Bus Type": "Non-AC Sleeper",
+   "Travel Date": "07-03-2016",
+   "Fare Price (INR)": 2640.46,
+   "Total Seats": 43,
+   "Duration (hours)": 6.6
+ },
+ {
+   "Agency": "RedBus",
+   "Source": "Lucknow",
+   "Destination": "Kolkata",
+   "Bus Type": "Non-AC Sleeper",
+   "Travel Date": "17-01-2020",
+   "Fare Price (INR)": 854.6,
+   "Total Seats": 41,
+   "Duration (hours)": 13.6
+ },
+ {
+   "Agency": "RedBus",
+   "Source": "Bangalore",
+   "Destination": "Mumbai",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "31-08-2022",
+   "Fare Price (INR)": 2004.1,
+   "Total Seats": 45,
+   "Duration (hours)": 12.8
+ },
+ {
+   "Agency": "Kesineni Travels",
+   "Source": "Lucknow",
+   "Destination": "Bangalore",
+   "Bus Type": "Non-AC Sleeper",
+   "Travel Date": "20-12-2024",
+   "Fare Price (INR)": 2265.51,
+   "Total Seats": 46,
+   "Duration (hours)": 13.3
+ },
+ {
+   "Agency": "KPN Travels",
+   "Source": "Mumbai",
+   "Destination": "Hyderabad",
+   "Bus Type": "Luxury",
+   "Travel Date": "24-08-2016",
+   "Fare Price (INR)": 476.38,
+   "Total Seats": 45,
+   "Duration (hours)": 16
+ },
+ {
+   "Agency": "Neeta Travels",
+   "Source": "Pune",
+   "Destination": "Lucknow",
+   "Bus Type": "AC Sleeper",
+   "Travel Date": "28-03-2019",
+   "Fare Price (INR)": 2195.22,
+   "Total Seats": 46,
+   "Duration (hours)": 5.6
+ },
+ {
+   "Agency": "VRL Travels",
+   "Source": "Kolkata",
+   "Destination": "Jaipur",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "12-08-2016",
+   "Fare Price (INR)": 957.19,
+   "Total Seats": 41,
+   "Duration (hours)": 17.7
+ },
+ {
+   "Agency": "SRS Travels",
+   "Source": "Mumbai",
+   "Destination": "Bangalore",
+   "Bus Type": "Luxury",
+   "Travel Date": "09-11-2023",
+   "Fare Price (INR)": 1543.99,
+   "Total Seats": 37,
+   "Duration (hours)": 8.1
+ },
+ {
+   "Agency": "SRS Travels",
+   "Source": "Mumbai",
+   "Destination": "Pune",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "13-03-2021",
+   "Fare Price (INR)": 2142,
+   "Total Seats": 50,
+   "Duration (hours)": 7
+ },
+ {
+   "Agency": "Kesineni Travels",
+   "Source": "Delhi",
+   "Destination": "Chennai",
+   "Bus Type": "Non-AC Sleeper",
+   "Travel Date": "24-10-2020",
+   "Fare Price (INR)": 2602.54,
+   "Total Seats": 50,
+   "Duration (hours)": 12.2
+ },
+ {
+   "Agency": "SRM Transport",
+   "Source": "Pune",
+   "Destination": "Hyderabad",
+   "Bus Type": "Volvo",
+   "Travel Date": "13-03-2018",
+   "Fare Price (INR)": 2051.71,
+   "Total Seats": 37,
+   "Duration (hours)": 10.7
+ },
+ {
+   "Agency": "KPN Travels",
+   "Source": "Ahmedabad",
+   "Destination": "Jaipur",
+   "Bus Type": "Non-AC Sleeper",
+   "Travel Date": "30-11-2017",
+   "Fare Price (INR)": 477.23,
+   "Total Seats": 23,
+   "Duration (hours)": 14.3
+ },
+ {
+   "Agency": "Parveen Travels",
+   "Source": "Kolkata",
+   "Destination": "Bangalore",
+   "Bus Type": "Non-AC Sleeper",
+   "Travel Date": "07-10-2021",
+   "Fare Price (INR)": 1120.43,
+   "Total Seats": 21,
+   "Duration (hours)": 6.6
+ },
+ {
+   "Agency": "Parveen Travels",
+   "Source": "Ahmedabad",
+   "Destination": "Jaipur",
+   "Bus Type": "AC Sleeper",
+   "Travel Date": "05-03-2019",
+   "Fare Price (INR)": 547.54,
+   "Total Seats": 21,
+   "Duration (hours)": 17.4
+ },
+ {
+   "Agency": "SRS Travels",
+   "Source": "Lucknow",
+   "Destination": "Pune",
+   "Bus Type": "AC Sleeper",
+   "Travel Date": "31-05-2016",
+   "Fare Price (INR)": 1668.68,
+   "Total Seats": 27,
+   "Duration (hours)": 8.3
+ },
+ {
+   "Agency": "Kallada Travels",
+   "Source": "Hyderabad",
+   "Destination": "Lucknow",
+   "Bus Type": "Non-AC Sleeper",
+   "Travel Date": "27-04-2017",
+   "Fare Price (INR)": 1186.59,
+   "Total Seats": 48,
+   "Duration (hours)": 7.1
+ },
+ {
+   "Agency": "RedBus",
+   "Source": "Bangalore",
+   "Destination": "Hyderabad",
+   "Bus Type": "AC Seater",
+   "Travel Date": "10-03-2023",
+   "Fare Price (INR)": 1801.25,
+   "Total Seats": 40,
+   "Duration (hours)": 15.1
+ },
+ {
+   "Agency": "VRL Travels",
+   "Source": "Chennai",
+   "Destination": "Mumbai",
+   "Bus Type": "Non-AC Sleeper",
+   "Travel Date": "19-03-2019",
+   "Fare Price (INR)": 772.67,
+   "Total Seats": 24,
+   "Duration (hours)": 16.1
+ },
+ {
+   "Agency": "Sharma Travels",
+   "Source": "Lucknow",
+   "Destination": "Chennai",
+   "Bus Type": "AC Sleeper",
+   "Travel Date": "24-05-2021",
+   "Fare Price (INR)": 3234.11,
+   "Total Seats": 29,
+   "Duration (hours)": 12.2
+ },
+ {
+   "Agency": "SRM Transport",
+   "Source": "Ahmedabad",
+   "Destination": "Pune",
+   "Bus Type": "Volvo",
+   "Travel Date": "04-10-2022",
+   "Fare Price (INR)": 1571.77,
+   "Total Seats": 47,
+   "Duration (hours)": 8.9
+ },
+ {
+   "Agency": "SRS Travels",
+   "Source": "Jaipur",
+   "Destination": "Ahmedabad",
+   "Bus Type": "AC Sleeper",
+   "Travel Date": "27-02-2017",
+   "Fare Price (INR)": 2186.57,
+   "Total Seats": 23,
+   "Duration (hours)": 16.6
+ },
+ {
+   "Agency": "Kesineni Travels",
+   "Source": "Hyderabad",
+   "Destination": "Ahmedabad",
+   "Bus Type": "AC Sleeper",
+   "Travel Date": "06-11-2023",
+   "Fare Price (INR)": 2309.45,
+   "Total Seats": 26,
+   "Duration (hours)": 7.6
+ },
+ {
+   "Agency": "Parveen Travels",
+   "Source": "Delhi",
+   "Destination": "Pune",
+   "Bus Type": "Non-AC Sleeper",
+   "Travel Date": "01-07-2019",
+   "Fare Price (INR)": 2409.3,
+   "Total Seats": 26,
+   "Duration (hours)": 15.4
+ },
+ {
+   "Agency": "Parveen Travels",
+   "Source": "Kolkata",
+   "Destination": "Chennai",
+   "Bus Type": "Luxury",
+   "Travel Date": "13-04-2021",
+   "Fare Price (INR)": 965.29,
+   "Total Seats": 21,
+   "Duration (hours)": 11.6
+ },
+ {
+   "Agency": "Sharma Travels",
+   "Source": "Mumbai",
+   "Destination": "Pune",
+   "Bus Type": "AC Seater",
+   "Travel Date": "05-10-2022",
+   "Fare Price (INR)": 465.03,
+   "Total Seats": 35,
+   "Duration (hours)": 17.1
+ },
+ {
+   "Agency": "Kallada Travels",
+   "Source": "Lucknow",
+   "Destination": "Pune",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "24-09-2016",
+   "Fare Price (INR)": 1489.1,
+   "Total Seats": 22,
+   "Duration (hours)": 11.3
+ },
+ {
+   "Agency": "Parveen Travels",
+   "Source": "Delhi",
+   "Destination": "Bangalore",
+   "Bus Type": "Luxury",
+   "Travel Date": "25-01-2017",
+   "Fare Price (INR)": 693.09,
+   "Total Seats": 38,
+   "Duration (hours)": 6.9
+ },
+ {
+   "Agency": "VRL Travels",
+   "Source": "Mumbai",
+   "Destination": "Pune",
+   "Bus Type": "AC Sleeper",
+   "Travel Date": "09-06-2018",
+   "Fare Price (INR)": 626.44,
+   "Total Seats": 46,
+   "Duration (hours)": 17.2
+ },
+ {
+   "Agency": "Kesineni Travels",
+   "Source": "Kolkata",
+   "Destination": "Mumbai",
+   "Bus Type": "AC Sleeper",
+   "Travel Date": "20-09-2018",
+   "Fare Price (INR)": 2102.57,
+   "Total Seats": 21,
+   "Duration (hours)": 10.6
+ },
+ {
+   "Agency": "KPN Travels",
+   "Source": "Ahmedabad",
+   "Destination": "Mumbai",
+   "Bus Type": "Non-AC Sleeper",
+   "Travel Date": "06-09-2024",
+   "Fare Price (INR)": 1707.94,
+   "Total Seats": 36,
+   "Duration (hours)": 15.9
+ },
+ {
+   "Agency": "Sharma Travels",
+   "Source": "Pune",
+   "Destination": "Chennai",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "01-04-2018",
+   "Fare Price (INR)": 2368.02,
+   "Total Seats": 37,
+   "Duration (hours)": 12.2
+ },
+ {
+   "Agency": "KPN Travels",
+   "Source": "Bangalore",
+   "Destination": "Kolkata",
+   "Bus Type": "AC Sleeper",
+   "Travel Date": "10-07-2015",
+   "Fare Price (INR)": 918.95,
+   "Total Seats": 29,
+   "Duration (hours)": 12
+ },
+ {
+   "Agency": "RedBus",
+   "Source": "Chennai",
+   "Destination": "Ahmedabad",
+   "Bus Type": "Luxury",
+   "Travel Date": "13-12-2023",
+   "Fare Price (INR)": 976.86,
+   "Total Seats": 44,
+   "Duration (hours)": 16.2
+ },
+ {
+   "Agency": "SRS Travels",
+   "Source": "Lucknow",
+   "Destination": "Chennai",
+   "Bus Type": "AC Sleeper",
+   "Travel Date": "26-10-2023",
+   "Fare Price (INR)": 2942.05,
+   "Total Seats": 41,
+   "Duration (hours)": 16.9
+ },
+ {
+   "Agency": "SRS Travels",
+   "Source": "Ahmedabad",
+   "Destination": "Pune",
+   "Bus Type": "Volvo",
+   "Travel Date": "21-05-2024",
+   "Fare Price (INR)": 2217.56,
+   "Total Seats": 26,
+   "Duration (hours)": 14.9
+ },
+ {
+   "Agency": "Neeta Travels",
+   "Source": "Chennai",
+   "Destination": "Mumbai",
+   "Bus Type": "Volvo",
+   "Travel Date": "30-01-2023",
+   "Fare Price (INR)": 873.64,
+   "Total Seats": 49,
+   "Duration (hours)": 13.1
+ },
+ {
+   "Agency": "SRS Travels",
+   "Source": "Mumbai",
+   "Destination": "Ahmedabad",
+   "Bus Type": "AC Sleeper",
+   "Travel Date": "12-06-2019",
+   "Fare Price (INR)": 1800.63,
+   "Total Seats": 39,
+   "Duration (hours)": 8.6
+ },
+ {
+   "Agency": "Kallada Travels",
+   "Source": "Delhi",
+   "Destination": "Mumbai",
+   "Bus Type": "AC Sleeper",
+   "Travel Date": "30-05-2015",
+   "Fare Price (INR)": 830.56,
+   "Total Seats": 29,
+   "Duration (hours)": 14.4
+ },
+ {
+   "Agency": "Parveen Travels",
+   "Source": "Pune",
+   "Destination": "Bangalore",
+   "Bus Type": "Luxury",
+   "Travel Date": "01-09-2020",
+   "Fare Price (INR)": 2159.56,
+   "Total Seats": 37,
+   "Duration (hours)": 6
+ },
+ {
+   "Agency": "SRM Transport",
+   "Source": "Hyderabad",
+   "Destination": "Pune",
+   "Bus Type": "AC Seater",
+   "Travel Date": "15-11-2021",
+   "Fare Price (INR)": 1887.29,
+   "Total Seats": 22,
+   "Duration (hours)": 5.1
+ },
+ {
+   "Agency": "VRL Travels",
+   "Source": "Mumbai",
+   "Destination": "Ahmedabad",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "07-03-2017",
+   "Fare Price (INR)": 2591.24,
+   "Total Seats": 22,
+   "Duration (hours)": 11.7
+ },
+ {
+   "Agency": "Kesineni Travels",
+   "Source": "Delhi",
+   "Destination": "Chennai",
+   "Bus Type": "AC Seater",
+   "Travel Date": "04-08-2015",
+   "Fare Price (INR)": 990.17,
+   "Total Seats": 34,
+   "Duration (hours)": 15.8
+ },
+ {
+   "Agency": "Sharma Travels",
+   "Source": "Chennai",
+   "Destination": "Kolkata",
+   "Bus Type": "AC Seater",
+   "Travel Date": "07-09-2018",
+   "Fare Price (INR)": 2895.62,
+   "Total Seats": 27,
+   "Duration (hours)": 6.2
+ },
+ {
+   "Agency": "Sharma Travels",
+   "Source": "Hyderabad",
+   "Destination": "Bangalore",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "30-03-2023",
+   "Fare Price (INR)": 2912.27,
+   "Total Seats": 39,
+   "Duration (hours)": 16.2
+ },
+ {
+   "Agency": "SRM Transport",
+   "Source": "Mumbai",
+   "Destination": "Hyderabad",
+   "Bus Type": "AC Seater",
+   "Travel Date": "16-05-2015",
+   "Fare Price (INR)": 1257.21,
+   "Total Seats": 30,
+   "Duration (hours)": 5.6
+ },
+ {
+   "Agency": "KPN Travels",
+   "Source": "Bangalore",
+   "Destination": "Hyderabad",
+   "Bus Type": "Non-AC Sleeper",
+   "Travel Date": "23-03-2022",
+   "Fare Price (INR)": 913.24,
+   "Total Seats": 26,
+   "Duration (hours)": 15.5
+ },
+ {
+   "Agency": "Kesineni Travels",
+   "Source": "Pune",
+   "Destination": "Hyderabad",
+   "Bus Type": "Luxury",
+   "Travel Date": "25-10-2023",
+   "Fare Price (INR)": 983.86,
+   "Total Seats": 45,
+   "Duration (hours)": 8.2
+ },
+ {
+   "Agency": "VRL Travels",
+   "Source": "Hyderabad",
+   "Destination": "Pune",
+   "Bus Type": "AC Sleeper",
+   "Travel Date": "05-06-2020",
+   "Fare Price (INR)": 1847.74,
+   "Total Seats": 41,
+   "Duration (hours)": 5.1
+ },
+ {
+   "Agency": "Parveen Travels",
+   "Source": "Bangalore",
+   "Destination": "Pune",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "14-08-2018",
+   "Fare Price (INR)": 1969.47,
+   "Total Seats": 24,
+   "Duration (hours)": 8.5
+ },
+ {
+   "Agency": "Parveen Travels",
+   "Source": "Ahmedabad",
+   "Destination": "Chennai",
+   "Bus Type": "Non-AC Sleeper",
+   "Travel Date": "15-01-2018",
+   "Fare Price (INR)": 1899.1,
+   "Total Seats": 41,
+   "Duration (hours)": 11.4
+ },
+ {
+   "Agency": "Parveen Travels",
+   "Source": "Mumbai",
+   "Destination": "Chennai",
+   "Bus Type": "AC Seater",
+   "Travel Date": "19-03-2018",
+   "Fare Price (INR)": 1030.46,
+   "Total Seats": 46,
+   "Duration (hours)": 10.9
+ },
+ {
+   "Agency": "RedBus",
+   "Source": "Bangalore",
+   "Destination": "Lucknow",
+   "Bus Type": "AC Sleeper",
+   "Travel Date": "29-05-2015",
+   "Fare Price (INR)": 1986.91,
+   "Total Seats": 21,
+   "Duration (hours)": 12.8
+ },
+ {
+   "Agency": "SRS Travels",
+   "Source": "Lucknow",
+   "Destination": "Kolkata",
+   "Bus Type": "AC Seater",
+   "Travel Date": "01-02-2016",
+   "Fare Price (INR)": 1019.31,
+   "Total Seats": 38,
+   "Duration (hours)": 13.2
+ },
+ {
+   "Agency": "RedBus",
+   "Source": "Hyderabad",
+   "Destination": "Pune",
+   "Bus Type": "AC Sleeper",
+   "Travel Date": "13-04-2018",
+   "Fare Price (INR)": 2023.81,
+   "Total Seats": 21,
+   "Duration (hours)": 6
+ },
+ {
+   "Agency": "Parveen Travels",
+   "Source": "Hyderabad",
+   "Destination": "Bangalore",
+   "Bus Type": "AC Sleeper",
+   "Travel Date": "15-01-2024",
+   "Fare Price (INR)": 1534.43,
+   "Total Seats": 41,
+   "Duration (hours)": 8.8
+ },
+ {
+   "Agency": "Parveen Travels",
+   "Source": "Delhi",
+   "Destination": "Lucknow",
+   "Bus Type": "AC Sleeper",
+   "Travel Date": "16-01-2022",
+   "Fare Price (INR)": 2023.93,
+   "Total Seats": 48,
+   "Duration (hours)": 12.5
+ },
+ {
+   "Agency": "Kallada Travels",
+   "Source": "Ahmedabad",
+   "Destination": "Pune",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "15-11-2021",
+   "Fare Price (INR)": 1281.64,
+   "Total Seats": 36,
+   "Duration (hours)": 5
+ },
+ {
+   "Agency": "KPN Travels",
+   "Source": "Jaipur",
+   "Destination": "Delhi",
+   "Bus Type": "AC Seater",
+   "Travel Date": "05-12-2021",
+   "Fare Price (INR)": 2657.4,
+   "Total Seats": 28,
+   "Duration (hours)": 7.6
+ },
+ {
+   "Agency": "Neeta Travels",
+   "Source": "Pune",
+   "Destination": "Jaipur",
+   "Bus Type": "Non-AC Sleeper",
+   "Travel Date": "13-01-2015",
+   "Fare Price (INR)": 1586.19,
+   "Total Seats": 40,
+   "Duration (hours)": 6.7
+ },
+ {
+   "Agency": "Parveen Travels",
+   "Source": "Hyderabad",
+   "Destination": "Ahmedabad",
+   "Bus Type": "Luxury",
+   "Travel Date": "29-05-2021",
+   "Fare Price (INR)": 700.96,
+   "Total Seats": 32,
+   "Duration (hours)": 5.4
+ },
+ {
+   "Agency": "VRL Travels",
+   "Source": "Kolkata",
+   "Destination": "Pune",
+   "Bus Type": "Non-AC Sleeper",
+   "Travel Date": "17-09-2023",
+   "Fare Price (INR)": 1737.77,
+   "Total Seats": 32,
+   "Duration (hours)": 14.5
+ },
+ {
+   "Agency": "RedBus",
+   "Source": "Lucknow",
+   "Destination": "Delhi",
+   "Bus Type": "Luxury",
+   "Travel Date": "16-10-2022",
+   "Fare Price (INR)": 1609.57,
+   "Total Seats": 31,
+   "Duration (hours)": 16.8
+ },
+ {
+   "Agency": "SRM Transport",
+   "Source": "Mumbai",
+   "Destination": "Jaipur",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "20-04-2018",
+   "Fare Price (INR)": 431.8,
+   "Total Seats": 43,
+   "Duration (hours)": 8.2
+ },
+ {
+   "Agency": "Sharma Travels",
+   "Source": "Hyderabad",
+   "Destination": "Mumbai",
+   "Bus Type": "AC Seater",
+   "Travel Date": "05-05-2016",
+   "Fare Price (INR)": 1367.58,
+   "Total Seats": 42,
+   "Duration (hours)": 13.7
+ },
+ {
+   "Agency": "KPN Travels",
+   "Source": "Kolkata",
+   "Destination": "Delhi",
+   "Bus Type": "Volvo",
+   "Travel Date": "06-09-2024",
+   "Fare Price (INR)": 2937.18,
+   "Total Seats": 30,
+   "Duration (hours)": 11.5
+ },
+ {
+   "Agency": "SRM Transport",
+   "Source": "Kolkata",
+   "Destination": "Delhi",
+   "Bus Type": "AC Sleeper",
+   "Travel Date": "16-02-2017",
+   "Fare Price (INR)": 803.86,
+   "Total Seats": 48,
+   "Duration (hours)": 15.6
+ },
+ {
+   "Agency": "SRM Transport",
+   "Source": "Pune",
+   "Destination": "Delhi",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "15-03-2024",
+   "Fare Price (INR)": 2536.38,
+   "Total Seats": 21,
+   "Duration (hours)": 15.1
+ },
+ {
+   "Agency": "Sharma Travels",
+   "Source": "Jaipur",
+   "Destination": "Ahmedabad",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "09-05-2023",
+   "Fare Price (INR)": 782.47,
+   "Total Seats": 28,
+   "Duration (hours)": 9.7
+ },
+ {
+   "Agency": "KPN Travels",
+   "Source": "Kolkata",
+   "Destination": "Jaipur",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "19-02-2023",
+   "Fare Price (INR)": 1549.28,
+   "Total Seats": 30,
+   "Duration (hours)": 7.1
+ },
+ {
+   "Agency": "Sharma Travels",
+   "Source": "Pune",
+   "Destination": "Hyderabad",
+   "Bus Type": "Non-AC Seater",
+   "Travel Date": "29-06-2020",
+   "Fare Price (INR)": 2414.34,
+   "Total Seats": 49,
+   "Duration (hours)": 17.1
+ }
+]
