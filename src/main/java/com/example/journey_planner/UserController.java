@@ -4,6 +4,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
+import java.util.Map;
 
 @RestController
 @RequestMapping("/api/auth")
@@ -25,13 +26,19 @@ public class UserController {
         return ResponseEntity.ok("Signup successful");
     }
 
-    @PostMapping("/login")
-    public ResponseEntity<?> login(@RequestBody User user) {
-        User existingUser = userRepository.findByEmail(user.getEmail());
-        // Check hashed password
-        if (existingUser == null || !passwordEncoder.matches(user.getPassword(), existingUser.getPassword())) {
-            return ResponseEntity.status(401).body("Invalid credentials");
-        }
-        return ResponseEntity.ok("Login successful");
+   @PostMapping("/login")
+public ResponseEntity<?> login(@RequestBody User user) {
+    User existingUser = userRepository.findByEmail(user.getEmail());
+    if (existingUser == null || !passwordEncoder.matches(user.getPassword(), existingUser.getPassword())) {
+        return ResponseEntity.status(401).body("Invalid credentials");
     }
+
+    String token = JwtUtil.generateToken(existingUser.getEmail());
+
+    return ResponseEntity.ok().body(Map.of(
+        "message", "Login successful",
+        "token", token
+    ));
+}
+
 }

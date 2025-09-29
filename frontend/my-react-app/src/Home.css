@@ -1,228 +1,467 @@
-body, html {
+/* ==========================
+   GLOBAL STYLES
+========================== */
+* {
   margin: 0;
   padding: 0;
-  font-family: 'Segoe UI', Arial, sans-serif;
-  background: #f8f9fa;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
 }
 
-.homepage {
-  max-width: 1200px;
-  margin: 0 auto;
-  background: #fff;
-  border-radius: 18px;
-  box-shadow: 0 4px 24px rgba(0,0,0,0.08);
-  overflow: hidden;
+body {
+  background-color: #f8fafc;
+  color: #333;
 }
 
+/* Reusable Buttons */
+.primary-btn {
+  background: #0077b6;
+  color: white;
+  padding: 0.75rem 1.5rem;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: 500;
+  transition: background 0.3s ease;
+}
+
+.primary-btn:hover {
+  background: #023e8a;
+}
+
+.nav-btn {
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  text-decoration: none;
+  color: white;
+  background: transparent;
+  border: 1px solid #fff;
+  transition: all 0.3s ease;
+}
+
+.nav-btn:hover {
+  background: white;
+  color: #0077b6;
+}
+
+.nav-btn-primary {
+  background: #00b4d8;
+  border: none;
+}
+
+.nav-btn-primary:hover {
+  background: #0096c7;
+}
+
+/* ==========================
+   NAVBAR
+========================== */
 .navbar {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 24px 40px;
-  background: #fff;
-  border-bottom: 1px solid #eee;
+  background: #0077b6;
+  color: white;
+  padding: 1rem 3rem;
+  position: sticky;
+  top: 0;
+  z-index: 10;
 }
+
 .logo {
-  font-size: 2rem;
-  font-weight: bold;
-  color: #222;
+  font-size: 1.8rem;
+  font-weight: 700;
 }
-.navbar nav {
-  display: flex;
-  gap: 24px;
-  align-items: center;
-}
+
 .navbar nav a {
+  margin: 0 1rem;
+  color: white;
   text-decoration: none;
-  color: #222;
   font-weight: 500;
-  transition: color 0.2s;
 }
+
 .navbar nav a:hover {
-  color: #607a96;
-}
-.nav-btn {
-  background: none;
-  border: 1px solid #007bff;
-  color: #007bff;
-  padding: 8px 18px;
-  border-radius: 6px;
-  margin-left: 8px;
-  cursor: pointer;
-  font-weight: 500;
-  transition: background 0.2s, color 0.2s;
-}
-.nav-btn-primary {
-  background: #007bff;
-  color: #fff;
-  border: none;
-}
-/* Add to Home.css */
-.hero-images {
-  display: flex;
-  gap: 20px;
-  align-items: center;
-  justify-content: center;
-  margin-top: 20px;
-}
-
-.hero-img {
-  width: 160px;
-  height: 160px;
-  object-fit: cover;
-  border-radius: 18px;
-  box-shadow: 0 8px 32px rgba(80, 60, 180, 0.13);
-  background: #fff;
-}
-
-.hero {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  padding: 60px 40px 40px 40px;
-  background: #f0f6ff;
-}
-.hero-content {
-  max-width: 500px;
-}
-.hero-content h1 {
-  font-size: 2.8rem;
-  font-weight: bold;
-  margin-bottom: 18px;
-  color: #222;
-}
-.hero-content p {
-  color: #555;
-  margin-bottom: 24px;
-}
-.hero-buttons {
-  display: flex;
-  gap: 16px;
-}
-.primary-btn, .secondary-btn {
-  padding: 10px 28px;
-  border-radius: 6px;
-  font-size: 1rem;
-  font-weight: 500;
-  border: none;
-  cursor: pointer;
-}
-.primary-btn {
-  background: #007bff;
-  color: #fff;
-}
-.secondary-btn {
-  background: #fff;
-  color: #007bff;
-  border: 1px solid #007bff;
-}
-.hero-image img {
-  width: 320px;
-  border-radius: 50%;
-  object-fit: cover;
-  box-shadow: 0 4px 24px rgba(0,0,0,0.10);
-}
-
-.find-destination {
-  text-align: center;
-  padding: 40px 0 20px 0;
-}
-.find-destination h2 {
-  font-size: 2rem;
-  font-weight: bold;
-  margin-bottom: 10px;
-}
-.find-destination span {
-  color: #007bff;
-}
-.find-destination p {
-  color: #555;
-  margin-bottom: 18px;
-}
-.search-bar {
-  display: flex;
-  justify-content: center;
-  margin-bottom: 24px;
-}
-.search-bar input {
-  padding: 10px 16px;
-  border-radius: 6px 0 0 6px;
-  border: 1px solid #ccc;
-  font-size: 1rem;
-  width: 260px;
-}
-.search-bar button {
-  border-radius: 0 6px 6px 0;
-  border: 1px solid #007bff;
-  background: #007bff;
-  color: #fff;
-  padding: 10px 20px;
-  font-size: 1rem;
-  cursor: pointer;
-}
-.destination-cards {
-  display: flex;
-  justify-content: center;
-  gap: 18px;
-  margin-bottom: 24px;
-}
-.destination-card {
-  background: #f0f6ff;
-  border-radius: 10px;
-  padding: 18px 24px;
-  font-weight: 500;
-  color: #222;
-  min-width: 120px;
-}
-
-
-
-.blog-section {
-  text-align: center;
-  padding: 40px 0 20px 0;
-}
-.blog-card {
-  background: #f0f6ff;
-  border-radius: 12px;
-  padding: 24px 32px;
-  margin: 0 auto 24px auto;
-  max-width: 600px;
-}
-.blog-card h3 {
-  margin-top: 0;
-}
-
-.easy-travel {
-  text-align: center;
-  padding: 40px 0 20px 0;
-}
-
-footer {
-  background: #222;
-  color: #fff;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  align-items: flex-start;
-  padding: 32px 40px;
-  font-size: 0.95rem;
-}
-footer a {
-  color: #fff;
-  margin-right: 10px;
   text-decoration: underline;
 }
-footer input[type="email"] {
-  padding: 6px 12px;
-  border-radius: 4px;
-  border: none;
-  margin-right: 6px;
+
+/* ==========================
+   HERO SECTION
+========================== */
+.hero {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 4rem 5%;
+  background: linear-gradient(to right, #e0f7fa, #ffffff);
+  flex-wrap: wrap;
 }
-footer button {
-  padding: 6px 14px;
-  border-radius: 4px;
-  border: none;
-  background: #007bff;
+
+.hero-text {
+  flex: 1;
+  max-width: 500px;
+}
+
+.hero-text h1 {
+  font-size: 3rem;
+  line-height: 1.2;
+  color: #023e8a;
+}
+
+.hero-text h1 span {
+  color: #00b4d8;
+}
+
+.hero-text p {
+  margin: 1rem 0 2rem;
+  color: #555;
+}
+
+.hero-image {
+  flex: 1;
+  text-align: center;
+}
+
+.hero-image img {
+  width: 100%;
+  max-width: 500px;
+  border-radius: 16px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+.hero-gallery {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.hero-gallery img {
+  width: calc(50% - 10px); /* 50% width minus half the gap */
+  height: 200px; /* adjust height as needed */
+  object-fit: cover;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+  transition: transform 0.3s;
+}
+
+.hero-gallery img:hover {
+  transform: scale(1.05);
+}
+
+@media (max-width: 768px) {
+  .hero-gallery img {
+    width: 100%; /* stack images on smaller screens */
+    height: 180px;
+  }
+}
+
+/* ==========================
+   TRIP PLANNER SECTION
+========================== */
+.trip-planner {
+  text-align: center;
+  padding: 3rem 2rem;
+  background: #f1faff;
+}
+
+.trip-planner h2 {
+  color: #023e8a;
+  margin-bottom: 1rem;
+}
+
+.planner-form {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.planner-form input,
+.planner-form button {
+  padding: 0.75rem 1rem;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  font-size: 1rem;
+}
+
+/* ==========================
+   FEATURED DESTINATIONS
+========================== */
+.featured-destinations {
+  text-align: center;
+  padding: 3rem 2rem;
+}
+
+.featured-destinations h2 {
+  margin-bottom: 2rem;
+  color: #023e8a;
+}
+
+.destinations-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.5rem;
+}
+
+.city-card {
+  background: #fff;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+}
+
+.city-card:hover {
+  transform: translateY(-5px);
+}
+
+.city-card img {
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+}
+
+.city-card h3 {
+  margin-top: 1rem;
+  color: #0077b6;
+}
+
+.city-card p {
+  padding: 0 1rem 1rem;
+  color: #666;
+}
+
+/* ==========================
+   HOW IT WORKS
+========================== */
+.how-it-works {
+  text-align: center;
+  padding: 3rem 2rem;
+  background: #f8fafc;
+}
+
+.how-it-works h2 {
+  margin-bottom: 2rem;
+  color: #023e8a;
+}
+
+.steps {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+.step {
+  background: white;
+  padding: 2rem;
+  border-radius: 12px;
+  width: 280px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+}
+
+.step h3 {
+  color: #0077b6;
+  margin-bottom: 0.5rem;
+}
+
+/* ==========================
+   TESTIMONIALS
+========================== */
+.testimonials {
+  text-align: center;
+  padding: 3rem 2rem;
+  background: #f1faff;
+}
+
+.testimonials h2 {
+  color: #023e8a;
+  margin-bottom: 2rem;
+}
+
+.testimonial-cards {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+.testimonial {
+  background: #fff;
+  border-radius: 12px;
+  padding: 1.5rem;
+  width: 300px;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.05);
+  font-style: italic;
+}
+
+.testimonial span {
+  display: block;
+  margin-top: 1rem;
+  font-weight: 600;
+  color: #0077b6;
+}
+
+/* ==========================
+   FOOTER
+========================== */
+.footer {
+  background: #001f3f;
   color: #fff;
+  padding: 3rem 2rem;
+  margin-top: 3rem;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+
+.footer-content h4 {
+  margin-bottom: 1rem;
+  color: #00b4d8;
+}
+
+.footer-content a {
+  color: #ddd;
+  text-decoration: none;
+  display: block;
+  margin: 0.3rem 0;
+}
+
+.footer-content a:hover {
+  color: #00b4d8;
+}
+
+.footer-content input {
+  padding: 0.5rem;
+  border-radius: 6px;
+  border: none;
+  margin-right: 0.5rem;
+}
+
+/* .footer-content button
+{
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  border: none;
+  background: #00b4d8;
+  color: white;
   cursor: pointer;
+} */
+
+/* 🔍 Search Suggestions Styling */
+.input-group {
+  position: relative;
+  width: 220px;
+}
+
+.suggestion-list {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  background: white;
+  border: 1px solid #ccc;
+  border-top: none;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  z-index: 20;
+  max-height: 150px;
+  overflow-y: auto;
+}
+
+.suggestion-list li {
+  padding: 8px 10px;
+  cursor: pointer;
+  border-bottom: 1px solid #eee;
+}
+
+.suggestion-list li:hover {
+  background: #e6f7ff;
+}
+
+/* 🔹 Journey Planner Section */
+.journey-planner {
+  max-width: 600px;
+  margin: 60px auto;
+  background: #f8f9fa;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.journey-planner h2 {
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.input-group {
+  margin-bottom: 20px;
+  text-align: left;
+  position: relative;
+}
+
+.input-group label {
+  display: block;
+  font-weight: 600;
+  margin-bottom: 6px;
+}
+
+.input-group input,
+.input-group select {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+.suggestions {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  background: white;
+  border: 1px solid #ccc;
+  border-top: none;
+  position: absolute;
+  width: 100%;
+  max-height: 150px;
+  overflow-y: auto;
+  z-index: 10;
+}
+
+.suggestions li {
+  padding: 8px;
+  cursor: pointer;
+}
+
+.suggestions li:hover {
+  background-color: #f1f1f1;
+}
+
+.results {
+  margin-top: 30px;
+  text-align: left;
+}
+
+.results ul {
+  list-style: disc;
+  padding-left: 20px;
+}
+
+.place-item {
+  margin-bottom: 10px;
+  background: white;
+  padding: 10px;
+  border-radius: 6px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
+}
+
+.highlight {
+  color: #007bff;
+  font-weight: bold;
 }

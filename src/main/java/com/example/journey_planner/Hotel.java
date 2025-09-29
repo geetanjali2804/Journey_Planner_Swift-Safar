@@ -1,31 +1,70 @@
 package com.example.journey_planner;
 
-import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
-import com.fasterxml.jackson.annotation.JsonProperty;
+import jakarta.persistence.Entity;
+import jakarta.persistence.GeneratedValue;
+import jakarta.persistence.GenerationType;
+import jakarta.persistence.Id;
+import jakarta.persistence.Table;
 
-@JsonIgnoreProperties(ignoreUnknown = true) // Ignore any extra fields not mapped here
+@Entity
+@Table(name = "Cheap_Hotel") //
 public class Hotel {
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    private Long id;
 
-     @JsonProperty("Hotel Name")
-        private String hotelName;
+    private String name;
+    private String city;
+    private double pricePerNight;
+    private int totalRooms;
+    private String image;
 
-        @JsonProperty("Rating")
-        private double rating;
-
-        @JsonProperty("Rating Description")
-        private String ratingDescription;
-
-        @JsonProperty("Price")
-        private String price;
-
-        @JsonProperty("Tax")
-        private String tax;
-
-        // getters
-        public String getHotelName() { return hotelName; }
-        public double getRating() { return rating; }
-        public String getRatingDescription() { return ratingDescription; }
-        public String getPrice() { return price; }
-        public String getTax() { return tax; }
+    // getters & setters
+    public Long getId() {
+        return id;
     }
 
+    public void setId(Long id) {
+        this.id = id;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public String getCity() {
+        return city;
+    }
+
+    public void setCity(String city) {
+        this.city = city;
+    }
+
+    public double getPricePerNight() {
+        return pricePerNight;
+    }
+
+    public void setPricePerNight(double pricePerNight) {
+        this.pricePerNight = pricePerNight;
+    }
+
+    public int getTotalRooms() {
+        return totalRooms;
+    }
+
+    public void setTotalRooms(int totalRooms) {
+        this.totalRooms = totalRooms;
+    }
+
+    public String getImage() {
+        return image;
+    }
+
+    public void setImage(String image) {
+        this.image = image;
+    }
+}

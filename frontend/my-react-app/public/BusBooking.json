@@ -1,0 +1,162 @@
+[
+  {
+    "agency": "VRL",
+    "source": "Bangalore",
+    "destination": "Chennai",
+    "busType": "Sleeper",
+    "fare": 1200,
+    "seats": 40,
+    "duration": "6h",
+    "image": "./images/sleeper.png"
+  },
+  {
+    "agency": "KPN",
+    "source": "Bangalore",
+    "destination": "Chennai",
+    "busType": "AC",
+    "fare": 1500,
+    "seats": 30,
+    "duration": "5h 45m",
+    "image": "./images/ac.png"
+  },
+  {
+    "agency": "RedBus",
+    "source": "Delhi",
+    "destination": "Bangalore",
+    "busType": "Non-AC",
+    "fare": 1100,
+    "seats": 35,
+    "duration": "30h",
+    "image": "./images/sleeper2.png"
+  },
+  {
+    "agency": "Volvo Travels",
+    "source": "Delhi",
+    "destination": "Bangalore",
+    "busType": "AC Sleeper",
+    "fare": 1800,
+    "seats": 25,
+    "duration": "28h 30m",
+    "image": "./images/volvo.png"
+  },
+  {
+    "agency": "SRS Travels",
+    "source": "Mumbai",
+    "destination": "Pune",
+    "busType": "AC Semi-Sleeper",
+    "fare": 700,
+    "seats": 40,
+    "duration": "4h",
+    "image": "./images/bus.png"
+  },
+  {
+    "agency": "Neeta Travels",
+    "source": "Mumbai",
+    "destination": "Pune",
+    "busType": "Non-AC",
+    "fare": 500,
+    "seats": 50,
+    "duration": "4h 30m",
+    "image": "./images/nonac.png"
+  },
+  {
+    "agency": "VRL",
+    "source": "Chennai",
+    "destination": "Bangalore",
+    "busType": "AC Sleeper",
+    "fare": 1600,
+    "seats": 30,
+    "duration": "6h 30m",
+    "image": "./images/sleeper2.png"
+  },
+  {
+    "agency": "KPN",
+    "source": "Chennai",
+    "destination": "Bangalore",
+    "busType": "Non-AC",
+    "fare": 1200,
+    "seats": 40,
+    "duration": "7h",
+    "image": "./images/nonac.png"
+  },
+  {
+    "agency": "Himalayan Travels",
+    "source": "Shimla",
+    "destination": "Manali",
+    "busType": "AC Sleeper",
+    "fare": 1500,
+    "seats": 30,
+    "duration": "8h",
+    "image": "./images/sleeper.png"
+  },
+  {
+    "agency": "Snowline",
+    "source": "Shimla",
+    "destination": "Manali",
+    "busType": "Non-AC",
+    "fare": 1200,
+    "seats": 40,
+    "duration": "9h",
+    "image": "./images/bus.png"
+  },
+  {
+    "agency": "Goa Travels",
+    "source": "Mumbai",
+    "destination": "Goa",
+    "busType": "AC Sleeper",
+    "fare": 1300,
+    "seats": 35,
+    "duration": "12h",
+    "image": "./images/ac2.png"
+  },
+  {
+    "agency": "Beachline",
+    "source": "Mumbai",
+    "destination": "Goa",
+    "busType": "Non-AC",
+    "fare": 1000,
+    "seats": 45,
+    "duration": "13h",
+    "image": "./images/nonac.png"
+  },
+  {
+    "agency": "Himalayan Express",
+    "source": "Delhi",
+    "destination": "Shimla",
+    "busType": "AC Semi-Sleeper",
+    "fare": 1400,
+    "seats": 30,
+    "duration": "12h",
+    "image": "./images/ac.png"
+  },
+  {
+    "agency": "Mountain Travels",
+    "source": "Delhi",
+    "destination": "Shimla",
+    "busType": "Non-AC",
+    "fare": 1100,
+    "seats": 40,
+    "duration": "13h",
+    "image": "./images/nonac.png"
+  },
+  {
+    "agency": "Valley Tours",
+    "source": "Manali",
+    "destination": "Shimla",
+    "busType": "AC Sleeper",
+    "fare": 1600,
+    "seats": 25,
+    "duration": "10h",
+    "image": "./images/sleeper2.png"
+  },
+  {
+    "agency": "Hillside",
+    "source": "Manali",
+    "destination": "Shimla",
+    "busType": "Non-AC",
+    "fare": 1300,
+    "seats": 30,
+    "duration": "11h",
+    "image": "./images/nonac.png"
+  }
+]

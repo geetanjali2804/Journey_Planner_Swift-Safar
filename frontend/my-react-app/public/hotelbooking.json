@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "name": "Grand Plaza",
+    "city": "Bangalore",
+    "pricePerNight": 2500,
+    "totalRooms": 50,
+    "image": "/images/hotel1.png"
+  },
+  {
+    "id": 2,
+    "name": "City Inn",
+    "city": "Bangalore",
+    "pricePerNight": 1800,
+    "totalRooms": 30,
+    "image": "/images/hotel2.png"
+  },
+  {
+    "id": 3,
+    "name": "Royal Garden Hotel",
+    "city": "Chennai",
+    "pricePerNight": 2200,
+    "totalRooms": 40,
+    "image": "/images/hotel3.png"
+  },
+  {
+    "id": 4,
+    "name": "Sea View Resort",
+    "city": "Chennai",
+    "pricePerNight": 3000,
+    "totalRooms": 25,
+    "image": "/images/hotel4.png"
+  },
+  {
+    "id": 5,
+    "name": "Oceanic Suites",
+    "city": "Mumbai",
+    "pricePerNight": 3500,
+    "totalRooms": 40,
+    "image": "/images/hotel5.png"
+  },
+  {
+    "id": 6,
+    "name": "City Central Hotel",
+    "city": "Mumbai",
+    "pricePerNight": 2800,
+    "totalRooms": 35,
+    "image": "/images/hotel6.png"
+  },
+  {
+    "id": 7,
+    "name": "Pune Palace",
+    "city": "Pune",
+    "pricePerNight": 2000,
+    "totalRooms": 30,
+    "image": "/images/hotel7.png"
+  },
+  {
+    "id": 8,
+    "name": "Shivneri Inn",
+    "city": "Pune",
+    "pricePerNight": 2200,
+    "totalRooms": 25,
+    "image": "/images/hotel8.png"
+  },
+  {
+    "id": 9,
+    "name": "Hilltop Residency",
+    "city": "Shimla",
+    "pricePerNight": 2500,
+    "totalRooms": 20,
+    "image": "/images/hotel9.png"
+  },
+  {
+    "id": 10,
+    "name": "Pine View Resort",
+    "city": "Shimla",
+    "pricePerNight": 2700,
+    "totalRooms": 18,
+    "image": "/images/hotel10.png"
+  },
+  {
+    "id": 11,
+    "name": "Manali Retreat",
+    "city": "Manali",
+    "pricePerNight": 3000,
+    "totalRooms": 22,
+    "image": "/images/hotel5.png"
+  },
+  {
+    "id": 12,
+    "name": "Snow Peak Resort",
+    "city": "Manali",
+    "pricePerNight": 3200,
+    "totalRooms": 20,
+    "image": "/images/hotel6.png"
+  },
+  {
+    "id": 13,
+    "name": "Sunset Bay Hotel",
+    "city": "Goa",
+    "pricePerNight": 2800,
+    "totalRooms": 35,
+    "image": "/images/hotel7.png"
+  },
+  {
+    "id": 14,
+    "name": "Beachfront Inn",
+    "city": "Goa",
+    "pricePerNight": 3000,
+    "totalRooms": 30,
+    "image": "/images/hotel9.png"
+  }
+]

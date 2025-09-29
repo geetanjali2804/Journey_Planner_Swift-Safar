@@ -1,0 +1,222 @@
+[
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "popular_destination": "India Gate",
+    "latitude": 28.6129,
+    "longitude": 77.2295,
+    "interest": "Sightseeing & Exploration",
+    "google_rating": 4.5,
+    "price_fare": 0
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "popular_destination": "Lotus Temple",
+    "latitude": 28.5535,
+    "longitude": 77.2588,
+    "interest": "Religious & Spiritual Pilgrimages",
+    "google_rating": 4.6,
+    "price_fare": 0
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "popular_destination": "Red Fort",
+    "latitude": 28.6562,
+    "longitude": 77.2410,
+    "interest": "Historical & Cultural",
+    "google_rating": 4.4,
+    "price_fare": 50
+  },
+  {
+    "state": "Bangalore",
+    "city": "Bangalore",
+    "popular_destination": "Cubbon Park",
+    "latitude": 12.9763,
+    "longitude": 77.5920,
+    "interest": "Nature & Parks",
+    "google_rating": 4.4,
+    "price_fare": 20
+  },
+  {
+    "state": "Bangalore",
+    "city": "Bangalore",
+    "popular_destination": "Lalbagh Botanical Garden",
+    "latitude": 12.9507,
+    "longitude": 77.5848,
+    "interest": "Nature & Parks",
+    "google_rating": 4.5,
+    "price_fare": 30
+  },
+  {
+    "state": "Bangalore",
+    "city": "Bangalore",
+    "popular_destination": "Bangalore Palace",
+    "latitude": 12.9983,
+    "longitude": 77.5920,
+    "interest": "Historical & Cultural",
+    "google_rating": 4.3,
+    "price_fare": 70
+  },
+  {
+    "state": "Mumbai",
+    "city": "Mumbai",
+    "popular_destination": "Gateway of India",
+    "latitude": 18.9220,
+    "longitude": 72.8347,
+    "interest": "Sightseeing & Exploration",
+    "google_rating": 4.6,
+    "price_fare": 0
+  },
+  {
+    "state": "Mumbai",
+    "city": "Mumbai",
+    "popular_destination": "Elephanta Caves",
+    "latitude": 18.9636,
+    "longitude": 72.9316,
+    "interest": "Historical & Cultural",
+    "google_rating": 4.5,
+    "price_fare": 100
+  },
+  {
+    "state": "Mumbai",
+    "city": "Mumbai",
+    "popular_destination": "Siddhivinayak Temple",
+    "latitude": 19.0176,
+    "longitude": 72.8308,
+    "interest": "Religious & Spiritual Pilgrimages",
+    "google_rating": 4.6,
+    "price_fare": 0
+  },
+  {
+    "state": "Kolkata",
+    "city": "Kolkata",
+    "popular_destination": "Victoria Memorial",
+    "latitude": 22.5448,
+    "longitude": 88.3426,
+    "interest": "Historical & Cultural",
+    "google_rating": 4.5,
+    "price_fare": 30
+  },
+  {
+    "state": "Kolkata",
+    "city": "Kolkata",
+    "popular_destination": "Eco Park",
+    "latitude": 22.5833,
+    "longitude": 88.4246,
+    "interest": "Nature & Parks",
+    "google_rating": 4.3,
+    "price_fare": 50
+  },
+  {
+    "state": "Chennai",
+    "city": "Chennai",
+    "popular_destination": "Marina Beach",
+    "latitude": 13.0500,
+    "longitude": 80.2820,
+    "interest": "Sightseeing & Exploration",
+    "google_rating": 4.4,
+    "price_fare": 0
+  },
+  {
+    "state": "Chennai",
+    "city": "Chennai",
+    "popular_destination": "Kapaleeshwarar Temple",
+    "latitude": 13.0340,
+    "longitude": 80.2690,
+    "interest": "Religious & Spiritual Pilgrimages",
+    "google_rating": 4.5,
+    "price_fare": 0
+  },
+  {
+    "state": "Chennai",
+    "city": "Chennai",
+    "popular_destination": "Fort St. George",
+    "latitude": 13.0827,
+    "longitude": 80.2760,
+    "interest": "Historical & Cultural",
+    "google_rating": 4.3,
+    "price_fare": 20
+  },
+  {
+    "state": "Pune",
+    "city": "Pune",
+    "popular_destination": "Shaniwar Wada",
+    "latitude": 18.5204,
+    "longitude": 73.8567,
+    "interest": "Historical & Cultural",
+    "google_rating": 4.4,
+    "price_fare": 15
+  },
+  {
+    "state": "Pune",
+    "city": "Pune",
+    "popular_destination": "Osho Ashram",
+    "latitude": 18.5333,
+    "longitude": 73.8500,
+    "interest": "Religious & Spiritual Pilgrimages",
+    "google_rating": 4.2,
+    "price_fare": 0
+  },
+  {
+    "state": "Pune",
+    "city": "Pune",
+    "popular_destination": "Pune Okayama Friendship Garden",
+    "latitude": 18.5361,
+    "longitude": 73.8722,
+    "interest": "Nature & Parks",
+    "google_rating": 4.3,
+    "price_fare": 25
+  },
+  {
+    "state": "Shimla",
+    "city": "Shimla",
+    "popular_destination": "The Ridge",
+    "latitude": 31.1048,
+    "longitude": 77.1734,
+    "interest": "Sightseeing & Exploration",
+    "google_rating": 4.6,
+    "price_fare": 0
+  },
+  {
+    "state": "Shimla",
+    "city": "Shimla",
+    "popular_destination": "Jakhoo Temple",
+    "latitude": 31.1032,
+    "longitude": 77.1729,
+    "interest": "Religious & Spiritual Pilgrimages",
+    "google_rating": 4.5,
+    "price_fare": 0
+  },
+  {
+    "state": "Shimla",
+    "city": "Shimla",
+    "popular_destination": "Christ Church",
+    "latitude": 31.1040,
+    "longitude": 77.1735,
+    "interest": "Historical & Cultural",
+    "google_rating": 4.4,
+    "price_fare": 10
+  },
+  {
+    "state": "Shimla",
+    "city": "Shimla",
+    "popular_destination": "Kufri Adventure Park",
+    "latitude": 31.1063,
+    "longitude": 77.2671,
+    "interest": "Adventure & Outdoor Activities",
+    "google_rating": 4.5,
+    "price_fare": 50
+  },
+  {
+    "state": "Shimla",
+    "city": "Shimla",
+    "popular_destination": "Green Valley",
+    "latitude": 31.0947,
+    "longitude": 77.2070,
+    "interest": "Nature & Parks",
+    "google_rating": 4.3,
+    "price_fare": 0
+  }
+]

@@ -1,38 +1,100 @@
 package com.example.journey_planner;
 
-import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
-import com.fasterxml.jackson.annotation.JsonProperty;
+import jakarta.persistence.Entity;
+import jakarta.persistence.GeneratedValue;
+import jakarta.persistence.GenerationType;
+import jakarta.persistence.Id;
+import jakarta.persistence.Table;
 
-@JsonIgnoreProperties(ignoreUnknown = true) // Ignore any extra fields not mapped here
+import java.time.LocalDate;
+
+@Entity
+@Table(name = "Cheap_Bus") // ✅ Maps this entity to the Cheap_Bus table
 public class Bus {
 
-    @JsonProperty("Agency")
-        private String agency;
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    private Long id;
 
-        @JsonProperty("Source")
-        private String source;
+    private String agency;
+    private String source;
+    private String destination;
+    private double fare;
+    private int totalSeats;
+    private String busType;
+    private LocalDate travelDate;
+    private String image;
 
-        @JsonProperty("Destination")
-        private String destination;
+    // ✅ Getters and Setters
+    public Long getId() {
+        return id;
+    }
 
-        @JsonProperty("Bus Type")
-        private String busType;
+    public void setId(Long id) {
+        this.id = id;
+    }
 
-        @JsonProperty("Fare Price (INR)")
-        private Double farePrice;
+    public String getAgency() {
+        return agency;
+    }
 
-        @JsonProperty("Duration (hours)")
-        private Double duration;
+    public void setAgency(String agency) {
+        this.agency = agency;
+    }
 
-        // Safe getter
-        public double getFarePriceSafe() {
-            return farePrice != null ? farePrice : Double.MAX_VALUE;
-        }
+    public String getSource() {
+        return source;
+    }
 
-        // getters
-        public String getAgency() { return agency; }
-        public String getSource() { return source; }
-        public String getDestination() { return destination; }
-        public String getBusType() { return busType; }
-        public double getDuration() { return duration != null ? duration : 0; }
+    public void setSource(String source) {
+        this.source = source;
+    }
+
+    public String getDestination() {
+        return destination;
+    }
+
+    public void setDestination(String destination) {
+        this.destination = destination;
+    }
+
+    public double getFare() {
+        return fare;
+    }
+
+    public void setFare(double fare) {
+        this.fare = fare;
+    }
+
+    public int getTotalSeats() {
+        return totalSeats;
+    }
+
+    public void setTotalSeats(int totalSeats) {
+        this.totalSeats = totalSeats;
+    }
+
+    public String getBusType() {
+        return busType;
+    }
+
+    public void setBusType(String busType) {
+        this.busType = busType;
+    }
+
+    public LocalDate getTravelDate() {
+        return travelDate;
+    }
+
+    public void setTravelDate(LocalDate travelDate) {
+        this.travelDate = travelDate;
+    }
+
+    public String getImage() {
+        return image;
+    }
+
+    public void setImage(String image) {
+        this.image = image;
+    }
 }

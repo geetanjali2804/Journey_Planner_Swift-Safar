@@ -12,18 +12,28 @@ const Login = () => {
   const handleLogin = async (e) => {
     e.preventDefault();
     setError('');
+
     try {
       const response = await fetch('http://localhost:8080/api/auth/login', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ email, password }),
       });
+
+      // Parse the response body
+      const data = await response.json();
+
       if (response.ok) {
-        navigate('/user-home');
+        // ✅ Save JWT token to localStorage
+        localStorage.setItem('token', data.token);
+
+        alert('Login successful!');
+        navigate('/'); // redirect to home/dashboard
       } else {
-        setError('Invalid email or password');
+        setError(data.message || 'Invalid email or password');
       }
-    } catch {
+    } catch (error) {
+      console.error('Login error:', error);
       setError('Login failed. Please try again.');
     }
   };
@@ -40,7 +50,7 @@ const Login = () => {
               <input
                 type="email"
                 value={email}
-                onChange={e => setEmail(e.target.value)}
+                onChange={(e) => setEmail(e.target.value)}
                 placeholder="Enter your email"
                 required
               />
@@ -50,19 +60,24 @@ const Login = () => {
               <input
                 type="password"
                 value={password}
-                onChange={e => setPassword(e.target.value)}
+                onChange={(e) => setPassword(e.target.value)}
                 placeholder="Enter your password"
                 required
               />
             </label>
             {error && <div className="login-error">{error}</div>}
-            <button type="submit" className="login-btn">Login</button>
+            <button type="submit" className="login-btn">
+              Login
+            </button>
           </form>
           <div className="login-bottom">
             <span>Don't have an account?</span>
-            <button className="signup-btn" onClick={() => navigate('/signup')}>Sign up</button>
+            <button className="signup-btn" onClick={() => navigate('/signup')}>
+              Sign up
+            </button>
           </div>
         </div>
+
         <div className="login-right">
           <img src={loginImg} alt="Travel" className="login-img" />
         </div>

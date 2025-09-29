@@ -1,0 +1,60 @@
+.contact-container {
+  max-width: 900px;
+  margin: 60px auto;
+  padding: 30px 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f9f9f9;
+  border-radius: 15px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+}
+
+.contact-container h2 {
+  text-align: center;
+  font-size: 36px;
+  color: #1e90ff;
+  margin-bottom: 40px;
+}
+
+.contact-content h3 {
+  margin-top: 30px;
+  margin-bottom: 15px;
+  color: #333;
+  font-size: 24px;
+  border-bottom: 2px solid #1e90ff;
+  display: inline-block;
+  padding-bottom: 5px;
+}
+
+.contact-content p {
+  margin-bottom: 8px;
+  color: #555;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+.contact-content strong {
+  color: #1e90ff;
+}
+
+/* Team Members Grid */
+.contact-content h3 + p {
+  margin-left: 15px;
+}
+
+@media (max-width: 768px) {
+  .contact-container {
+    padding: 20px 15px;
+  }
+
+  .contact-container h2 {
+    font-size: 28px;
+  }
+
+  .contact-content h3 {
+    font-size: 20px;
+  }
+
+  .contact-content p {
+    font-size: 14px;
+  }
+}

@@ -1,0 +1,5802 @@
+[
+  {
+    "Hotel Name": "The Park Bangalore",
+    "Rating": "3.9",
+    "Rating Description": "Very Good",
+    "Location": "Ulsoor",
+    "Nearest Landmark": "",
+    "price": "7,567",
+    "city": "Bangalore",
+    "id": 1
+  },
+  {
+    "Hotel Name": "Keys Select by Lemon Tree Hotels, Whitefield, Bengaluru",
+    "Rating": "4",
+    "Rating Description": "Very Good",
+    "Location": "Brookefield",
+    "Nearest Landmark": "",
+    "price": "1,509",
+    "city": "Bangalore",
+    "id": 2
+  },
+  {
+    "Hotel Name": "ITC Windsor - A Luxury Collection Hotel",
+    "Rating": "4.4",
+    "Rating Description": "Excellent",
+    "Location": "Vasanth Nagar",
+    "Nearest Landmark": "Bangalore Palace",
+    "price": "9,900",
+    "city": "Bangalore",
+    "id": 3
+  },
+  {
+    "Hotel Name": "Lemon Tree Premier Ulsoor Lake Bangalore",
+    "Rating": "4",
+    "Rating Description": "Very Good",
+    "Location": "Sivanchetti Gardens",
+    "Nearest Landmark": "Ulsoor Lake",
+    "price": "2,347",
+    "city": "Bangalore",
+    "id": 4
+  },
+  {
+    "Hotel Name": "Keys Select by Lemon Tree Hotels, Hosur Road, Bengaluru",
+    "Rating": "4",
+    "Rating Description": "Very Good",
+    "Location": "Hosur road",
+    "Nearest Landmark": "",
+    "price": "2,522",
+    "city": "Bangalore",
+    "id": 5
+  },
+  {
+    "Hotel Name": "The Chancery Pavilion",
+    "Rating": "3.8",
+    "Rating Description": "Very Good",
+    "Location": "Ashok Nagar",
+    "Nearest Landmark": "MG Road",
+    "price": "6,580",
+    "city": "Bangalore",
+    "id": 6
+  },
+  {
+    "Hotel Name": "Radisson Blu Atria Bengaluru",
+    "Rating": "4.3",
+    "Rating Description": "Excellent",
+    "Location": "Palace road",
+    "Nearest Landmark": "",
+    "price": "10,200",
+    "city": "Bangalore",
+    "id": 7
+  },
+  {
+    "Hotel Name": "Lemon Tree Hotel Electronics City Bangalore",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "Electronic City",
+    "Nearest Landmark": "",
+    "price": "2,598",
+    "city": "Bangalore",
+    "id": 8
+  },
+  {
+    "Hotel Name": "Welcomhotel by ITC Hotels, Richmond Road, Bengaluru",
+    "Rating": "4.3",
+    "Rating Description": "Excellent",
+    "Location": "Richmond road",
+    "Nearest Landmark": "",
+    "price": "7,700",
+    "city": "Bangalore",
+    "id": 9
+  },
+  {
+    "Hotel Name": "Grand Mercure Bangalore - An Accor Brand",
+    "Rating": "4.3",
+    "Rating Description": "Excellent",
+    "Location": "Koramangala",
+    "Nearest Landmark": "",
+    "price": "9,700",
+    "city": "Bangalore",
+    "id": 10
+  },
+  {
+    "Hotel Name": "Holiday Inn Express Bengaluru Yeshwantpur",
+    "Rating": "3.7",
+    "Rating Description": "Very Good",
+    "Location": "Tumkur road",
+    "Nearest Landmark": "",
+    "price": "3,680",
+    "city": "Bangalore",
+    "id": 11
+  },
+  {
+    "Hotel Name": "goSTOPS Bengaluru - Rooms & Dorms",
+    "Rating": "4.2",
+    "Rating Description": "Very Good",
+    "Location": "Gandhi Nagar",
+    "Nearest Landmark": "",
+    "price": "1,098",
+    "city": "Bangalore",
+    "id": 12
+  },
+  {
+    "Hotel Name": "Holiday Inn Bengaluru Racecourse",
+    "Rating": "4",
+    "Rating Description": "Very Good",
+    "Location": "Gandhi Nagar",
+    "Nearest Landmark": "",
+    "price": "7,249",
+    "city": "Bangalore",
+    "id": 13
+  },
+  {
+    "Hotel Name": "Fortune Select JP Cosmos - Member ITC Hotel Group",
+    "Rating": "4",
+    "Rating Description": "Very Good",
+    "Location": "Vasanth Nagar",
+    "Nearest Landmark": "Bangalore Palace",
+    "price": "5,999",
+    "city": "Bangalore",
+    "id": 14
+  },
+  {
+    "Hotel Name": "Hyatt Centric MG Road Bangalore",
+    "Rating": "4.2",
+    "Rating Description": "Very Good",
+    "Location": "Ulsoor",
+    "Nearest Landmark": "",
+    "price": "6,250",
+    "city": "Bangalore",
+    "id": 15
+  },
+  {
+    "Hotel Name": "Ibis Bengaluru City Centre - An Accor Brand",
+    "Rating": "3.9",
+    "Rating Description": "Very Good",
+    "Location": "Sampangi Rama Nagar",
+    "Nearest Landmark": "Cubbon Park",
+    "price": "4,299",
+    "city": "Bangalore",
+    "id": 16
+  },
+  {
+    "Hotel Name": "The Fern Residency - Yeshwanthpur, Bengaluru",
+    "Rating": "4",
+    "Rating Description": "Very Good",
+    "Location": "Tumkur road",
+    "Nearest Landmark": "",
+    "price": "4,112",
+    "city": "Bangalore",
+    "id": 17
+  },
+  {
+    "Hotel Name": "Ashraya International Hotel",
+    "Rating": "3.7",
+    "Rating Description": "Very Good",
+    "Location": "Infantry Road",
+    "Nearest Landmark": "MG Road",
+    "price": "2,792",
+    "city": "Bangalore",
+    "id": 18
+  },
+  {
+    "Hotel Name": "Davanam Sarovar Portico Suites",
+    "Rating": "4.3",
+    "Rating Description": "Excellent",
+    "Location": "Koramangala",
+    "Nearest Landmark": "",
+    "price": "5,076",
+    "city": "Bangalore",
+    "id": 19
+  },
+  {
+    "Hotel Name": "Taj M G Road, Bengaluru",
+    "Rating": "4.6",
+    "Rating Description": "Excellent",
+    "Location": "Sivanchetti Gardens",
+    "Nearest Landmark": "MG Road",
+    "price": "9,000",
+    "city": "Bangalore",
+    "id": 20
+  },
+  {
+    "Hotel Name": "Draper Startup House Koramangala | Dorms & Rooms",
+    "Rating": "4.4",
+    "Rating Description": "Excellent",
+    "Location": "Koramangala",
+    "Nearest Landmark": "",
+    "price": "1,113",
+    "city": "Bangalore",
+    "id": 21
+  },
+  {
+    "Hotel Name": "The Lalit Ashok Bangalore",
+    "Rating": "3.8",
+    "Rating Description": "Very Good",
+    "Location": "Seshadripuram",
+    "Nearest Landmark": "",
+    "price": "6,698",
+    "city": "Bangalore",
+    "id": 22
+  },
+  {
+    "Hotel Name": "Vivanta Bengaluru, Residency Road",
+    "Rating": "4.3",
+    "Rating Description": "Excellent",
+    "Location": "Residency Road",
+    "Nearest Landmark": "MG Road",
+    "price": "7,000",
+    "city": "Bangalore",
+    "id": 23
+  },
+  {
+    "Hotel Name": "ibis Bengaluru Hebbal - An Accor Brand",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "Hebbal",
+    "Nearest Landmark": "",
+    "price": "4,499",
+    "city": "Bangalore",
+    "id": 24
+  },
+  {
+    "Hotel Name": "Vividus",
+    "Rating": "4.2",
+    "Rating Description": "Very Good",
+    "Location": "Gandhi Nagar",
+    "Nearest Landmark": "",
+    "price": "6,547",
+    "city": "Bangalore",
+    "id": 25
+  },
+  {
+    "Hotel Name": "Citrus Hotel Cunningham",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "Cunningham Road",
+    "Nearest Landmark": "Indira Gandhi Musical Fountain Park",
+    "price": "3,934",
+    "city": "Bangalore",
+    "id": 26
+  },
+  {
+    "Hotel Name": "Citrus Classic Bengaluru",
+    "Rating": "3.9",
+    "Rating Description": "Very Good",
+    "Location": "Outer Ring Road",
+    "Nearest Landmark": "",
+    "price": "3,575",
+    "city": "Bangalore",
+    "id": 27
+  },
+  {
+    "Hotel Name": "Taj Yeshwantpur, Bengaluru",
+    "Rating": "4.6",
+    "Rating Description": "Excellent",
+    "Location": "Tumkur road",
+    "Nearest Landmark": "",
+    "price": "7,500",
+    "city": "Bangalore",
+    "id": 28
+  },
+  {
+    "Hotel Name": "Lemon Tree Hotel Whitefield",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "Brookefield",
+    "Nearest Landmark": "",
+    "price": "2,347",
+    "city": "Bangalore",
+    "id": 29
+  },
+  {
+    "Hotel Name": "Golden Lotus Bangalore Boutique Suites | Rooms & Garden\r\nLike a 3",
+    "Rating": "3.8",
+    "Rating Description": "Very Good",
+    "Location": "Richmond road",
+    "Nearest Landmark": "MG Road",
+    "price": "2,660",
+    "city": "Bangalore",
+    "id": 30
+  },
+  {
+    "Hotel Name": "Ramada Encore",
+    "Rating": "4.4",
+    "Rating Description": "Excellent",
+    "Location": "Domlur Layout",
+    "Nearest Landmark": "",
+    "price": "5,640",
+    "city": "Bangalore",
+    "id": 31
+  },
+  {
+    "Hotel Name": "Ibis Bengaluru Hosur Road - An Accor Brand",
+    "Rating": "3.9",
+    "Rating Description": "Very Good",
+    "Location": "Hosur road",
+    "Nearest Landmark": "",
+    "price": "4,499",
+    "city": "Bangalore",
+    "id": 32
+  },
+  {
+    "Hotel Name": "The Oberoi, Bengaluru",
+    "Rating": "4.7",
+    "Rating Description": "Excellent",
+    "Location": "Ulsoor",
+    "Nearest Landmark": "",
+    "price": "11,500",
+    "city": "Bangalore",
+    "id": 33
+  },
+  {
+    "Hotel Name": "Holiday Inn Express Bengaluru Whitefield ITPL",
+    "Rating": "3.5",
+    "Rating Description": "Very Good",
+    "Location": "Whitefield",
+    "Nearest Landmark": "",
+    "price": "3,399",
+    "city": "Bangalore",
+    "id": 34
+  },
+  {
+    "Hotel Name": "The Hosteller Bangalore Brigade Road",
+    "Rating": "",
+    "Rating Description": "",
+    "Location": "Ashok Nagar",
+    "Nearest Landmark": "MG Road",
+    "price": "1,330",
+    "city": "Bangalore",
+    "id": 35
+  },
+  {
+    "Hotel Name": "Ginger Bangalore (IRR)",
+    "Rating": "3.6",
+    "Rating Description": "Very Good",
+    "Location": "Domlur Layout",
+    "Nearest Landmark": "",
+    "price": "1,689",
+    "city": "Bangalore",
+    "id": 36
+  },
+  {
+    "Hotel Name": "Gokulam Grand Hotel & Spa",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "Mathikere",
+    "Nearest Landmark": "",
+    "price": "6,409",
+    "city": "Bangalore",
+    "id": 37
+  },
+  {
+    "Hotel Name": "Bloom Hotel - Airport Road Bengaluru",
+    "Rating": "4.4",
+    "Rating Description": "Excellent",
+    "Location": "Near Bangalore Airport",
+    "Nearest Landmark": "Kempegowda Airport",
+    "price": "4,000",
+    "city": "Bangalore",
+    "id": 38
+  },
+  {
+    "Hotel Name": "Hotel Ramanashree Richmond Circle",
+    "Rating": "3.8",
+    "Rating Description": "Very Good",
+    "Location": "Sampangi Rama Nagar",
+    "Nearest Landmark": "Cubbon Park",
+    "price": "2,792",
+    "city": "Bangalore",
+    "id": 39
+  },
+  {
+    "Hotel Name": "SRS Suites\r\nLike a 3",
+    "Rating": "4.4",
+    "Rating Description": "Excellent",
+    "Location": "Koramangala",
+    "Nearest Landmark": "",
+    "price": "3,178",
+    "city": "Bangalore",
+    "id": 40
+  },
+  {
+    "Hotel Name": "JP CORDIAL",
+    "Rating": "3.7",
+    "Rating Description": "Very Good",
+    "Location": "Majestic",
+    "Nearest Landmark": "",
+    "price": "2,726",
+    "city": "Bangalore",
+    "id": 41
+  },
+  {
+    "Hotel Name": "Taj Bangalore",
+    "Rating": "4.6",
+    "Rating Description": "Excellent",
+    "Location": "Near Bangalore Airport",
+    "Nearest Landmark": "Kempegowda Airport",
+    "price": "11,750",
+    "city": "Bangalore",
+    "id": 42
+  },
+  {
+    "Hotel Name": "Radisson Bengaluru City Center",
+    "Rating": "4.5",
+    "Rating Description": "Excellent",
+    "Location": "Ulsoor",
+    "Nearest Landmark": "",
+    "price": "7,500",
+    "city": "Bangalore",
+    "id": 43
+  },
+  {
+    "Hotel Name": "The Pride Hotel Bangalore",
+    "Rating": "3.8",
+    "Rating Description": "Very Good",
+    "Location": "Richmond road",
+    "Nearest Landmark": "Cubbon Park",
+    "price": "4,599",
+    "city": "Bangalore",
+    "id": 44
+  },
+  {
+    "Hotel Name": "BloomSuites | Electronic City",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "Electronic City",
+    "Nearest Landmark": "",
+    "price": "5,000",
+    "city": "Bangalore",
+    "id": 45
+  },
+  {
+    "Hotel Name": "Southern Star Bangalore",
+    "Rating": "3.9",
+    "Rating Description": "Very Good",
+    "Location": "Ashok Nagar",
+    "Nearest Landmark": "MG Road",
+    "price": "3,082",
+    "city": "Bangalore",
+    "id": 46
+  },
+  {
+    "Hotel Name": "Royal Orchid Central Bangalore",
+    "Rating": "3.7",
+    "Rating Description": "Very Good",
+    "Location": "Ulsoor",
+    "Nearest Landmark": "MG Road",
+    "price": "5,823",
+    "city": "Bangalore",
+    "id": 47
+  },
+  {
+    "Hotel Name": "Shivas Galaxy Hotel",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "Near Bangalore Airport",
+    "Nearest Landmark": "Kempegowda Airport",
+    "price": "2,900",
+    "city": "Bangalore",
+    "id": 48
+  },
+  {
+    "Hotel Name": "The Bouvice\r\nLike a 3",
+    "Rating": "4.2",
+    "Rating Description": "Very Good",
+    "Location": "Koramangala",
+    "Nearest Landmark": "",
+    "price": "2,279",
+    "city": "Bangalore",
+    "id": 49
+  },
+  {
+    "Hotel Name": "JW Marriott Bengaluru Prestige Golfshire Resort and Spa",
+    "Rating": "4.7",
+    "Rating Description": "Excellent",
+    "Location": "In Devanhalli",
+    "Nearest Landmark": "Bangalore city centre",
+    "price": "25,000",
+    "city": "Bangalore",
+    "id": 50
+  },
+  {
+    "Hotel Name": "La Sara Grand (Formerly Known as Nandhana Grand)",
+    "Rating": "4",
+    "Rating Description": "Very Good",
+    "Location": "Koramangala",
+    "Nearest Landmark": "",
+    "price": "2,939",
+    "city": "Bangalore",
+    "id": 51
+  },
+  {
+    "Hotel Name": "Zone By The Park Infantry",
+    "Rating": "3.9",
+    "Rating Description": "Very Good",
+    "Location": "Infantry Road",
+    "Nearest Landmark": "MG Road",
+    "price": "4,252",
+    "city": "Bangalore",
+    "id": 52
+  },
+  {
+    "Hotel Name": "The Chancery",
+    "Rating": "3.9",
+    "Rating Description": "Very Good",
+    "Location": "Ashok Nagar",
+    "Nearest Landmark": "MG Road",
+    "price": "4,230",
+    "city": "Bangalore",
+    "id": 53
+  },
+  {
+    "Hotel Name": "Nash Inn Electronic City",
+    "Rating": "3.1",
+    "Rating Description": "Good",
+    "Location": "Electronic City",
+    "Nearest Landmark": "",
+    "price": "979",
+    "city": "Bangalore",
+    "id": 54
+  },
+  {
+    "Hotel Name": "Radisson Blu Bengaluru Outer Ring Road",
+    "Rating": "4.2",
+    "Rating Description": "Very Good",
+    "Location": "Outer Ring Road",
+    "Nearest Landmark": "",
+    "price": "8,000",
+    "city": "Bangalore",
+    "id": 55
+  },
+  {
+    "Hotel Name": "Ginger Bangalore, Whitefield",
+    "Rating": "3.7",
+    "Rating Description": "Very Good",
+    "Location": "Brookefield",
+    "Nearest Landmark": "",
+    "price": "1,884",
+    "city": "Bangalore",
+    "id": 56
+  },
+  {
+    "Hotel Name": "Hotel Royal Orchid Bangalore",
+    "Rating": "3.9",
+    "Rating Description": "Very Good",
+    "Location": "Domlur Layout",
+    "Nearest Landmark": "",
+    "price": "7,268",
+    "city": "Bangalore",
+    "id": 57
+  },
+  {
+    "Hotel Name": "The Hosteller Bangalore, Koramangala",
+    "Rating": "4.3",
+    "Rating Description": "Excellent",
+    "Location": "Koramangala",
+    "Nearest Landmark": "",
+    "price": "1,295",
+    "city": "Bangalore",
+    "id": 58
+  },
+  {
+    "Hotel Name": "Silicon City Hotel",
+    "Rating": "3.4",
+    "Rating Description": "Good",
+    "Location": "Hosur road",
+    "Nearest Landmark": "",
+    "price": "1,586",
+    "city": "Bangalore",
+    "id": 59
+  },
+  {
+    "Hotel Name": "Country Inn And Suites By Radisson Bengaluru Hebbal",
+    "Rating": "3.8",
+    "Rating Description": "Very Good",
+    "Location": "Hebbal",
+    "Nearest Landmark": "",
+    "price": "3,500",
+    "city": "Bangalore",
+    "id": 60
+  },
+  {
+    "Hotel Name": "Octave Himalaya Monarch",
+    "Rating": "4",
+    "Rating Description": "Very Good",
+    "Location": "Gandhi Nagar",
+    "Nearest Landmark": "",
+    "price": "1,645",
+    "city": "Bangalore",
+    "id": 61
+  },
+  {
+    "Hotel Name": "Greenpark Bengaluru",
+    "Rating": "4.7",
+    "Rating Description": "Excellent",
+    "Location": "Bannerghatta Main road",
+    "Nearest Landmark": "",
+    "price": "6,345",
+    "city": "Bangalore",
+    "id": 62
+  },
+  {
+    "Hotel Name": "ITC Gardenia - A Luxury Collection Hotel",
+    "Rating": "4.5",
+    "Rating Description": "Excellent",
+    "Location": "Ashok Nagar",
+    "Nearest Landmark": "MG Road",
+    "price": "11,700",
+    "city": "Bangalore",
+    "id": 63
+  },
+  {
+    "Hotel Name": "The Continentti Whitefield",
+    "Rating": "4",
+    "Rating Description": "Very Good",
+    "Location": "Brookefield",
+    "Nearest Landmark": "",
+    "price": "2,791",
+    "city": "Bangalore",
+    "id": 64
+  },
+  {
+    "Hotel Name": "The Monarch Luxur",
+    "Rating": "3.9",
+    "Rating Description": "Very Good",
+    "Location": "Infantry Road",
+    "Nearest Landmark": "MG Road",
+    "price": "3,723",
+    "city": "Bangalore",
+    "id": 65
+  },
+  {
+    "Hotel Name": "Ballal Residency",
+    "Rating": "3.9",
+    "Rating Description": "Very Good",
+    "Location": "Residency Road",
+    "Nearest Landmark": "MG Road",
+    "price": "3,084",
+    "city": "Bangalore",
+    "id": 66
+  },
+  {
+    "Hotel Name": "Hibernest Indiranagar",
+    "Rating": "4.2",
+    "Rating Description": "Very Good",
+    "Location": "Indiranagar",
+    "Nearest Landmark": "",
+    "price": "1,005",
+    "city": "Bangalore",
+    "id": 67
+  },
+  {
+    "Hotel Name": "Fortune Park JP Celestial-Member ITC Hotel Group",
+    "Rating": "3.8",
+    "Rating Description": "Very Good",
+    "Location": "Gandhi Nagar",
+    "Nearest Landmark": "",
+    "price": "5,292",
+    "city": "Bangalore",
+    "id": 68
+  },
+  {
+    "Hotel Name": "Click Hotel Bangalore, International Airport",
+    "Rating": "4.2",
+    "Rating Description": "Very Good",
+    "Location": "Near Bangalore Airport",
+    "Nearest Landmark": "Kempegowda Airport",
+    "price": "3,510",
+    "city": "Bangalore",
+    "id": 69
+  },
+  {
+    "Hotel Name": "Omatra Hotel HSR",
+    "Rating": "3.4",
+    "Rating Description": "Good",
+    "Location": "Outer Ring Road",
+    "Nearest Landmark": "",
+    "price": "2,194",
+    "city": "Bangalore",
+    "id": 70
+  },
+  {
+    "Hotel Name": "Svenska Design Hotel",
+    "Rating": "3.3",
+    "Rating Description": "Good",
+    "Location": "Electronic City",
+    "Nearest Landmark": "",
+    "price": "1,999",
+    "city": "Bangalore",
+    "id": 71
+  },
+  {
+    "Hotel Name": "Peninsula Suites",
+    "Rating": "3.9",
+    "Rating Description": "Very Good",
+    "Location": "Whitefield",
+    "Nearest Landmark": "",
+    "price": "2,264",
+    "city": "Bangalore",
+    "id": 72
+  },
+  {
+    "Hotel Name": "Iris Hotel & Spa Bangalore",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "Residency Road",
+    "Nearest Landmark": "MG Road",
+    "price": "5,330",
+    "city": "Bangalore",
+    "id": 73
+  },
+  {
+    "Hotel Name": "SM Royal Stay Hotel near Intl Airport Bangalore",
+    "Rating": "4.2",
+    "Rating Description": "Very Good",
+    "Location": "Near Bangalore Airport",
+    "Nearest Landmark": "Kempegowda Airport",
+    "price": "1,692",
+    "city": "Bangalore",
+    "id": 74
+  },
+  {
+    "Hotel Name": "Halcyon Residences\r\nLike a 3",
+    "Rating": "3.8",
+    "Rating Description": "Very Good",
+    "Location": "Koramangala",
+    "Nearest Landmark": "",
+    "price": "2,759",
+    "city": "Bangalore",
+    "id": 75
+  },
+  {
+    "Hotel Name": "Shangri-La Bengaluru",
+    "Rating": "4.5",
+    "Rating Description": "Excellent",
+    "Location": "Palace road",
+    "Nearest Landmark": "Bangalore Palace",
+    "price": "13,500",
+    "city": "Bangalore",
+    "id": 76
+  },
+  {
+    "Hotel Name": "The Leela Bhartiya City Bengaluru",
+    "Rating": "4.6",
+    "Rating Description": "Excellent",
+    "Location": "Tirumanahalli",
+    "Nearest Landmark": "",
+    "price": "11,000",
+    "city": "Bangalore",
+    "id": 77
+  },
+  {
+    "Hotel Name": "Holiday Inn Express & Suites, OMR Bengaluru",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "Whitefield",
+    "Nearest Landmark": "",
+    "price": "3,999",
+    "city": "Bangalore",
+    "id": 78
+  },
+  {
+    "Hotel Name": "Fairfield By Marriott Bengaluru Rajajinagar",
+    "Rating": "3.9",
+    "Rating Description": "Very Good",
+    "Location": "Rajajinagar",
+    "Nearest Landmark": "",
+    "price": "5,400",
+    "city": "Bangalore",
+    "id": 79
+  },
+  {
+    "Hotel Name": "The Zuri Whitefield",
+    "Rating": "4.3",
+    "Rating Description": "Excellent",
+    "Location": "Whitefield",
+    "Nearest Landmark": "",
+    "price": "6,501",
+    "city": "Bangalore",
+    "id": 80
+  },
+  {
+    "Hotel Name": "MAYBAACH HOTELS",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "Marathahalli",
+    "Nearest Landmark": "",
+    "price": "2,820",
+    "city": "Bangalore",
+    "id": 81
+  },
+  {
+    "Hotel Name": "Regenta Place Bangalore by Royal Orchid Hotels Limited",
+    "Rating": "3.5",
+    "Rating Description": "Very Good",
+    "Location": "Shivaji Nagar",
+    "Nearest Landmark": "MG Road",
+    "price": "2,848",
+    "city": "Bangalore",
+    "id": 82
+  },
+  {
+    "Hotel Name": "Icon Business Hotel by Bhagini",
+    "Rating": "3.6",
+    "Rating Description": "Very Good",
+    "Location": "HAL old airport road",
+    "Nearest Landmark": "",
+    "price": "2,300",
+    "city": "Bangalore",
+    "id": 83
+  },
+  {
+    "Hotel Name": "Sterlings Mac Hotel & Suites",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "HAL old airport road",
+    "Nearest Landmark": "",
+    "price": "6,768",
+    "city": "Bangalore",
+    "id": 84
+  },
+  {
+    "Hotel Name": "Nexstay Kites Inn",
+    "Rating": "4.3",
+    "Rating Description": "Excellent",
+    "Location": "Hosur road",
+    "Nearest Landmark": "",
+    "price": "2,799",
+    "city": "Bangalore",
+    "id": 85
+  },
+  {
+    "Hotel Name": "The Leela Palace Bengaluru",
+    "Rating": "4.5",
+    "Rating Description": "Excellent",
+    "Location": "HAL old airport road",
+    "Nearest Landmark": "",
+    "price": "16,500",
+    "city": "Bangalore",
+    "id": 86
+  },
+  {
+    "Hotel Name": "Omatra Infantry Road | Rooms in a Homestay",
+    "Rating": "3.8",
+    "Rating Description": "Very Good",
+    "Location": "Infantry Road",
+    "Nearest Landmark": "MG Road",
+    "price": "2,098",
+    "city": "Bangalore",
+    "id": 87
+  },
+  {
+    "Hotel Name": "Bloom Hotel HSR Layout Sector 3",
+    "Rating": "3.9",
+    "Rating Description": "Very Good",
+    "Location": "HSR Layout",
+    "Nearest Landmark": "",
+    "price": "5,500",
+    "city": "Bangalore",
+    "id": 88
+  },
+  {
+    "Hotel Name": "NOOR EMPIRE INTERNATIONAL",
+    "Rating": "3.7",
+    "Rating Description": "Very Good",
+    "Location": "Koramangala",
+    "Nearest Landmark": "",
+    "price": "2,776",
+    "city": "Bangalore",
+    "id": 89
+  },
+  {
+    "Hotel Name": "Attide Biz",
+    "Rating": "3.5",
+    "Rating Description": "Very Good",
+    "Location": "Hebbal",
+    "Nearest Landmark": "",
+    "price": "2,835",
+    "city": "Bangalore",
+    "id": 90
+  },
+  {
+    "Hotel Name": "Stayhome Classic",
+    "Rating": "4.3",
+    "Rating Description": "Excellent",
+    "Location": "Bilekahalli",
+    "Nearest Landmark": "",
+    "price": "2,345",
+    "city": "Bangalore",
+    "id": 91
+  },
+  {
+    "Hotel Name": "DoubleTree Suites by Hilton",
+    "Rating": "4.3",
+    "Rating Description": "Excellent",
+    "Location": "Outer Ring Road",
+    "Nearest Landmark": "",
+    "price": "9,500",
+    "city": "Bangalore",
+    "id": 92
+  },
+  {
+    "Hotel Name": "Bloomrooms @ Indiranagar",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "Indiranagar",
+    "Nearest Landmark": "",
+    "price": "4,300",
+    "city": "Bangalore",
+    "id": 93
+  },
+  {
+    "Hotel Name": "RG Royal Hotel",
+    "Rating": "4.2",
+    "Rating Description": "Very Good",
+    "Location": "Yeshwanthpur",
+    "Nearest Landmark": "",
+    "price": "3,666",
+    "city": "Bangalore",
+    "id": 94
+  },
+  {
+    "Hotel Name": "Four Seasons Hotel Bengaluru at Embassy One",
+    "Rating": "4.8",
+    "Rating Description": "Excellent",
+    "Location": "Ganganagar",
+    "Nearest Landmark": "Palace Grounds",
+    "price": "14,875",
+    "city": "Bangalore",
+    "id": 95
+  },
+  {
+    "Hotel Name": "Ramee Strand inn",
+    "Rating": "3",
+    "Rating Description": "Good",
+    "Location": "Hosur road",
+    "Nearest Landmark": "",
+    "price": "1,505",
+    "city": "Bangalore",
+    "id": 96
+  },
+  {
+    "Hotel Name": "Shravanthi Sarovar Portico JP Nagar",
+    "Rating": "3.6",
+    "Rating Description": "Very Good",
+    "Location": "Outer Ring Road",
+    "Nearest Landmark": "",
+    "price": "3,977",
+    "city": "Bangalore",
+    "id": 97
+  },
+  {
+    "Hotel Name": "Vivanta Bengaluru, Whitefield",
+    "Rating": "4.3",
+    "Rating Description": "Excellent",
+    "Location": "Whitefield",
+    "Nearest Landmark": "",
+    "price": "7,500",
+    "city": "Bangalore",
+    "id": 98
+  },
+  {
+    "Hotel Name": "Melange Astris\r\nLike a 3",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "Richmond road",
+    "Nearest Landmark": "Cubbon Park",
+    "price": "4,300",
+    "city": "Bangalore",
+    "id": 99
+  },
+  {
+    "Hotel Name": "Octave Church Inn",
+    "Rating": "3.5",
+    "Rating Description": "Very Good",
+    "Location": "Church Street",
+    "Nearest Landmark": "MG Road",
+    "price": "1,669",
+    "city": "Bangalore",
+    "id": 100
+  },
+  {
+    "Hotel Name": "Mastiff Infantry Bengaluru",
+    "Rating": "4",
+    "Rating Description": "Very Good",
+    "Location": "Infantry Road",
+    "Nearest Landmark": "MG Road",
+    "price": "1,865",
+    "city": "Bangalore",
+    "id": 101
+  },
+  {
+    "Hotel Name": "Taj Club House, Chennai",
+    "Rating": "4.3",
+    "Rating Description": "Excellent",
+    "Location": "Royapettah",
+    "Nearest Landmark": "",
+    "Price": "6,390",
+    "city": "Chennai",
+    "id": 102
+  },
+  {
+    "Hotel Name": "The Park Chennai",
+    "Rating": "3.7",
+    "Rating Description": "Very Good",
+    "Location": "Near US Consulate",
+    "Nearest Landmark": "",
+    "Price": "7,198",
+    "city": "Chennai",
+    "id": 103
+  },
+  {
+    "Hotel Name": "Taj Fisherman's Cove Resort & Spa, Chennai",
+    "Rating": "4.3",
+    "Rating Description": "Excellent",
+    "Location": "Covelong",
+    "Nearest Landmark": "city centre",
+    "Price": "12,555",
+    "city": "Chennai",
+    "id": 104
+  },
+  {
+    "Hotel Name": "Hotel Savera",
+    "Rating": "4",
+    "Rating Description": "Very Good",
+    "Location": "Mylapore",
+    "Nearest Landmark": "",
+    "Price": "4,612",
+    "city": "Chennai",
+    "id": 105
+  },
+  {
+    "Hotel Name": "Ibis Chennai OMR - An Accor Brand",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "Sholinganallur",
+    "Nearest Landmark": "",
+    "Price": "3,345",
+    "city": "Chennai",
+    "id": 106
+  },
+  {
+    "Hotel Name": "Taj Coromandel, Chennai",
+    "Rating": "4.5",
+    "Rating Description": "Excellent",
+    "Location": "Near US Consulate",
+    "Nearest Landmark": "",
+    "Price": "11,200",
+    "city": "Chennai",
+    "id": 107
+  },
+  {
+    "Hotel Name": "Courtyard by Marriott Chennai",
+    "Rating": "4.2",
+    "Rating Description": "Very Good",
+    "Location": "Mount road",
+    "Nearest Landmark": "",
+    "Price": "7,500",
+    "city": "Chennai",
+    "id": 108
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel Chennai City Centre",
+    "Rating": "4.3",
+    "Rating Description": "Excellent",
+    "Location": "Egmore",
+    "Nearest Landmark": "",
+    "Price": "9,443",
+    "city": "Chennai",
+    "id": 109
+  },
+  {
+    "Hotel Name": "FIRST INN HOTELS",
+    "Rating": "3.8",
+    "Rating Description": "Very Good",
+    "Location": "Perungudi",
+    "Nearest Landmark": "",
+    "Price": "2,907",
+    "city": "Chennai",
+    "id": 110
+  },
+  {
+    "Hotel Name": "Ibis Chennai City Centre - An Accor Brand",
+    "Rating": "3.9",
+    "Rating Description": "Very Good",
+    "Location": "Mount road",
+    "Nearest Landmark": "Thousand Lights Mosque",
+    "Price": "5,299",
+    "city": "Chennai",
+    "id": 111
+  },
+  {
+    "Hotel Name": "Rohaan Inns - UPAR Ashok Nagar",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "Ashok Nagar",
+    "Nearest Landmark": "Chennai Airport",
+    "Price": "1,771",
+    "city": "Chennai",
+    "id": 112
+  },
+  {
+    "Hotel Name": "Vivanta Chennai, IT Expressway",
+    "Rating": "4.4",
+    "Rating Description": "Excellent",
+    "Location": "Sholinganallur",
+    "Nearest Landmark": "",
+    "Price": "7,360",
+    "city": "Chennai",
+    "id": 113
+  },
+  {
+    "Hotel Name": "Taj Connemara, Chennai",
+    "Rating": "4.5",
+    "Rating Description": "Excellent",
+    "Location": "Chennai",
+    "Nearest Landmark": "",
+    "Price": "7,600",
+    "city": "Chennai",
+    "id": 114
+  },
+  {
+    "Hotel Name": "Four Points by Sheraton Chennai OMR",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "Sholinganallur",
+    "Nearest Landmark": "",
+    "Price": "5,859",
+    "city": "Chennai",
+    "id": 115
+  },
+  {
+    "Hotel Name": "Ramada Plaza by Wyndham",
+    "Rating": "4.5",
+    "Rating Description": "Excellent",
+    "Location": "Saidapet",
+    "Nearest Landmark": "Chennai Airport",
+    "Price": "7,533",
+    "city": "Chennai",
+    "id": 116
+  },
+  {
+    "Hotel Name": "Citadines OMRChennai",
+    "Rating": "4.4",
+    "Rating Description": "Excellent",
+    "Location": "Sholinganallur",
+    "Nearest Landmark": "",
+    "Price": "11,340",
+    "city": "Chennai",
+    "id": 117
+  },
+  {
+    "Hotel Name": "The Leela Palace Chennai",
+    "Rating": "4.5",
+    "Rating Description": "Excellent",
+    "Location": "Raja Annamalai Puram",
+    "Nearest Landmark": "",
+    "Price": "10,800",
+    "city": "Chennai",
+    "id": 118
+  },
+  {
+    "Hotel Name": "The Raintree, Annasalai",
+    "Rating": "4.4",
+    "Rating Description": "Excellent",
+    "Location": "Mount road",
+    "Nearest Landmark": "",
+    "Price": "7,299",
+    "city": "Chennai",
+    "id": 119
+  },
+  {
+    "Hotel Name": "Hablis",
+    "Rating": "4.2",
+    "Rating Description": "Very Good",
+    "Location": "Mount road",
+    "Nearest Landmark": "Chennai Airport",
+    "Price": "5,271",
+    "city": "Chennai",
+    "id": 120
+  },
+  {
+    "Hotel Name": "Novotel Chennai Chamiers Road",
+    "Rating": "4.3",
+    "Rating Description": "Excellent",
+    "Location": "Nandanam",
+    "Nearest Landmark": "",
+    "Price": "7,391",
+    "city": "Chennai",
+    "id": 121
+  },
+  {
+    "Hotel Name": "The Residency",
+    "Rating": "4.2",
+    "Rating Description": "Very Good",
+    "Location": "T Nagar",
+    "Nearest Landmark": "",
+    "Price": "5,336",
+    "city": "Chennai",
+    "id": 122
+  },
+  {
+    "Hotel Name": "The Residency Towers",
+    "Rating": "4.3",
+    "Rating Description": "Excellent",
+    "Location": "T Nagar",
+    "Nearest Landmark": "",
+    "Price": "6,696",
+    "city": "Chennai",
+    "id": 123
+  },
+  {
+    "Hotel Name": "Novotel Chennai OMR - An Accor Brand",
+    "Rating": "4.3",
+    "Rating Description": "Excellent",
+    "Location": "Sholinganallur",
+    "Nearest Landmark": "",
+    "Price": "6,134",
+    "city": "Chennai",
+    "id": 124
+  },
+  {
+    "Hotel Name": "Hotel Southern Comfort ( Chennai Airport )",
+    "Rating": "3.6",
+    "Rating Description": "Very Good",
+    "Location": "Chennai Airport",
+    "Nearest Landmark": "Chennai Airport",
+    "Price": "2,870",
+    "city": "Chennai",
+    "id": 125
+  },
+  {
+    "Hotel Name": "Lemon Tree Hotel Chennai",
+    "Rating": "3.6",
+    "Rating Description": "Very Good",
+    "Location": "Saidapet",
+    "Nearest Landmark": "Chennai Airport",
+    "Price": "2,487",
+    "city": "Chennai",
+    "id": 126
+  },
+  {
+    "Hotel Name": "The Pride Hotel Chennai",
+    "Rating": "3.6",
+    "Rating Description": "Very Good",
+    "Location": "Kilpauk",
+    "Nearest Landmark": "",
+    "Price": "3,399",
+    "city": "Chennai",
+    "id": 127
+  },
+  {
+    "Hotel Name": "Ginger Chennai, Vadapalani",
+    "Rating": "3.5",
+    "Rating Description": "Very Good",
+    "Location": "Vadapalani",
+    "Nearest Landmark": "",
+    "Price": "2,699",
+    "city": "Chennai",
+    "id": 128
+  },
+  {
+    "Hotel Name": "UPAR Nungambakkam",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "Nungambakkam",
+    "Nearest Landmark": "",
+    "Price": "2,716",
+    "city": "Chennai",
+    "id": 129
+  },
+  {
+    "Hotel Name": "Ginger Chennai",
+    "Rating": "3.5",
+    "Rating Description": "Very Good",
+    "Location": "Tharamani",
+    "Nearest Landmark": "",
+    "Price": "3,299",
+    "city": "Chennai",
+    "id": 130
+  },
+  {
+    "Hotel Name": "Holiday Inn Express Chennai OMR Thoraipakkam",
+    "Rating": "3.5",
+    "Rating Description": "Very Good",
+    "Location": "Thoraipakkam",
+    "Nearest Landmark": "",
+    "Price": "3,680",
+    "city": "Chennai",
+    "id": 131
+  },
+  {
+    "Hotel Name": "Raj Park Chennai",
+    "Rating": "3.6",
+    "Rating Description": "Very Good",
+    "Location": "Teynampet",
+    "Nearest Landmark": "",
+    "Price": "3,953",
+    "city": "Chennai",
+    "id": 132
+  },
+  {
+    "Hotel Name": "UPAR Uthandi, ECR\r\nLike a 3",
+    "Rating": "3.6",
+    "Rating Description": "Very Good",
+    "Location": "East Coast Road (ECR)",
+    "Nearest Landmark": "",
+    "Price": "1,317",
+    "city": "Chennai",
+    "id": 133
+  },
+  {
+    "Hotel Name": "Hotel Abu Palace",
+    "Rating": "3.4",
+    "Rating Description": "Good",
+    "Location": "Purasawalkam",
+    "Nearest Landmark": "Chennai Egmore Railway Station",
+    "Price": "2,947",
+    "city": "Chennai",
+    "id": 134
+  },
+  {
+    "Hotel Name": "Ramada Chennai Egmore",
+    "Rating": "3.9",
+    "Rating Description": "Very Good",
+    "Location": "Egmore",
+    "Nearest Landmark": "",
+    "Price": "4,557",
+    "city": "Chennai",
+    "id": 135
+  },
+  {
+    "Hotel Name": "Hyatt Regency Chennai",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "Teynampet",
+    "Nearest Landmark": "",
+    "Price": "7,499",
+    "city": "Chennai",
+    "id": 136
+  },
+  {
+    "Hotel Name": "Lemon Tree Hotel, Shimona, Chennai",
+    "Rating": "4",
+    "Rating Description": "Very Good",
+    "Location": "Manapakkam",
+    "Nearest Landmark": "Chennai Airport",
+    "Price": "2,819",
+    "city": "Chennai",
+    "id": 137
+  },
+  {
+    "Hotel Name": "Trident Chennai",
+    "Rating": "4.5",
+    "Rating Description": "Excellent",
+    "Location": "Chennai Airport",
+    "Nearest Landmark": "Chennai Airport",
+    "Price": "12,750",
+    "city": "Chennai",
+    "id": 138
+  },
+  {
+    "Hotel Name": "Holiday Inn Chennai OMR IT Expressway",
+    "Rating": "4.2",
+    "Rating Description": "Very Good",
+    "Location": "Thiruvanmiyur",
+    "Nearest Landmark": "",
+    "Price": "7,499",
+    "city": "Chennai",
+    "id": 139
+  },
+  {
+    "Hotel Name": "Ibis Chennai SIPCOT - An Accor Brand",
+    "Rating": "4",
+    "Rating Description": "Very Good",
+    "Location": "Egatoor",
+    "Nearest Landmark": "city centre",
+    "Price": "3,299",
+    "city": "Chennai",
+    "id": 140
+  },
+  {
+    "Hotel Name": "The Accord Metropolitan",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "T Nagar",
+    "Nearest Landmark": "",
+    "Price": "6,500",
+    "city": "Chennai",
+    "id": 141
+  },
+  {
+    "Hotel Name": "Park Hyatt Chennai",
+    "Rating": "4.5",
+    "Rating Description": "Excellent",
+    "Location": "Guindy",
+    "Nearest Landmark": "Chennai Airport",
+    "Price": "9,000",
+    "city": "Chennai",
+    "id": 142
+  },
+  {
+    "Hotel Name": "OYO Home Fantasea Uthandi Near Juhu Beach",
+    "Rating": "1.9",
+    "Rating Description": "Poor",
+    "Location": "Uthandi",
+    "Nearest Landmark": "",
+    "Price": "769",
+    "city": "Chennai",
+    "id": 143
+  },
+  {
+    "Hotel Name": "Gokulam Park Sabari - Siruseri SIPCOT",
+    "Rating": "4.2",
+    "Rating Description": "Very Good",
+    "Location": "Navallur",
+    "Nearest Landmark": "",
+    "Price": "5,719",
+    "city": "Chennai",
+    "id": 144
+  },
+  {
+    "Hotel Name": "BOULEVARD BY DESIGN HOTEL",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "Velachery",
+    "Nearest Landmark": "Chennai Airport",
+    "Price": "4,860",
+    "city": "Chennai",
+    "id": 145
+  },
+  {
+    "Hotel Name": "Fairfield by Marriott Chennai OMR",
+    "Rating": "4.2",
+    "Rating Description": "Very Good",
+    "Location": "Sholinganallur",
+    "Nearest Landmark": "",
+    "Price": "4,850",
+    "city": "Chennai",
+    "id": 146
+  },
+  {
+    "Hotel Name": "ITC Grand Chola - A Luxury Collection Hotel",
+    "Rating": "4.4",
+    "Rating Description": "Excellent",
+    "Location": "Guindy",
+    "Nearest Landmark": "Chennai Airport",
+    "Price": "12,500",
+    "city": "Chennai",
+    "id": 147
+  },
+  {
+    "Hotel Name": "The Ambassador Pallava",
+    "Rating": "4",
+    "Rating Description": "Very Good",
+    "Location": "Egmore",
+    "Nearest Landmark": "",
+    "Price": "8,079",
+    "city": "Chennai",
+    "id": 148
+  },
+  {
+    "Hotel Name": "Le Royal Meridien",
+    "Rating": "3.9",
+    "Rating Description": "Very Good",
+    "Location": "Mount road",
+    "Nearest Landmark": "Chennai Airport",
+    "Price": "9,000",
+    "city": "Chennai",
+    "id": 149
+  },
+  {
+    "Hotel Name": "Taj Wellington Mews, Chennai",
+    "Rating": "4.7",
+    "Rating Description": "Excellent",
+    "Location": "Tharamani",
+    "Nearest Landmark": "",
+    "Price": "10,560",
+    "city": "Chennai",
+    "id": 150
+  },
+  {
+    "Hotel Name": "Novotel Chennai Sipcot - An Accor Brand",
+    "Rating": "4.3",
+    "Rating Description": "Excellent",
+    "Location": "Egatoor",
+    "Nearest Landmark": "city centre",
+    "Price": "8,138",
+    "city": "Chennai",
+    "id": 151
+  },
+  {
+    "Hotel Name": "The Mount Manor",
+    "Rating": "3.4",
+    "Rating Description": "Good",
+    "Location": "Chennai Airport",
+    "Nearest Landmark": "Chennai Airport",
+    "Price": "2,350",
+    "city": "Chennai",
+    "id": 152
+  },
+  {
+    "Hotel Name": "Green Park Chennai",
+    "Rating": "4.2",
+    "Rating Description": "Very Good",
+    "Location": "Vadapalani",
+    "Nearest Landmark": "",
+    "Price": "6,696",
+    "city": "Chennai",
+    "id": 153
+  },
+  {
+    "Hotel Name": "Mango Hill central Chennai",
+    "Rating": "3.2",
+    "Rating Description": "Good",
+    "Location": "T Nagar",
+    "Nearest Landmark": "",
+    "Price": "3,314",
+    "city": "Chennai",
+    "id": 154
+  },
+  {
+    "Hotel Name": "Venture Park",
+    "Rating": "3.5",
+    "Rating Description": "Very Good",
+    "Location": "Thoraipakkam",
+    "Nearest Landmark": "",
+    "Price": "1,315",
+    "city": "Chennai",
+    "id": 155
+  },
+  {
+    "Hotel Name": "Grand Chennai by GRT Hotels",
+    "Rating": "4.5",
+    "Rating Description": "Excellent",
+    "Location": "T Nagar",
+    "Nearest Landmark": "",
+    "Price": "8,550",
+    "city": "Chennai",
+    "id": 156
+  },
+  {
+    "Hotel Name": "Season 4 Residences, Nungambakkam",
+    "Rating": "3.7",
+    "Rating Description": "Very Good",
+    "Location": "Near US Consulate",
+    "Nearest Landmark": "",
+    "Price": "2,591",
+    "city": "Chennai",
+    "id": 157
+  },
+  {
+    "Hotel Name": "Ginger Chennai OMR",
+    "Rating": "4.5",
+    "Rating Description": "Excellent",
+    "Location": "Navallur",
+    "Nearest Landmark": "",
+    "Price": "2,479",
+    "city": "Chennai",
+    "id": 158
+  },
+  {
+    "Hotel Name": "Hotel Pandian",
+    "Rating": "3.5",
+    "Rating Description": "Very Good",
+    "Location": "Egmore",
+    "Nearest Landmark": "",
+    "Price": "1,595",
+    "city": "Chennai",
+    "id": 159
+  },
+  {
+    "Hotel Name": "Hilton Chennai",
+    "Rating": "4.3",
+    "Rating Description": "Excellent",
+    "Location": "Guindy",
+    "Nearest Landmark": "Chennai Airport",
+    "Price": "11,000",
+    "city": "Chennai",
+    "id": 160
+  },
+  {
+    "Hotel Name": "FORTEL",
+    "Rating": "3.5",
+    "Rating Description": "Very Good",
+    "Location": "Egmore",
+    "Nearest Landmark": "",
+    "Price": "3,118",
+    "city": "Chennai",
+    "id": 161
+  },
+  {
+    "Hotel Name": "Royal Park",
+    "Rating": "3.1",
+    "Rating Description": "Good",
+    "Location": "Near Marina Beach",
+    "Nearest Landmark": "",
+    "Price": "1,351",
+    "city": "Chennai",
+    "id": 162
+  },
+  {
+    "Hotel Name": "Fairfield by Marriott Chennai Mahindra World City",
+    "Rating": "4.2",
+    "Rating Description": "Very Good",
+    "Location": "Mahindra World City",
+    "Nearest Landmark": "city centre",
+    "Price": "5,533",
+    "city": "Chennai",
+    "id": 163
+  },
+  {
+    "Hotel Name": "Crossway Parklane Airport Hotel",
+    "Rating": "3.2",
+    "Rating Description": "Good",
+    "Location": "Meenambakkam",
+    "Nearest Landmark": "Chennai Airport",
+    "Price": "2,544",
+    "city": "Chennai",
+    "id": 164
+  },
+  {
+    "Hotel Name": "Hotel Ashok Residency",
+    "Rating": "3.7",
+    "Rating Description": "Very Good",
+    "Location": "Porur",
+    "Nearest Landmark": "",
+    "Price": "4,290",
+    "city": "Chennai",
+    "id": 165
+  },
+  {
+    "Hotel Name": "Hotel Greens Gate (Near Central station)",
+    "Rating": "3.6",
+    "Rating Description": "Very Good",
+    "Location": "Poongavanapuram",
+    "Nearest Landmark": "",
+    "Price": "1,887",
+    "city": "Chennai",
+    "id": 166
+  },
+  {
+    "Hotel Name": "HOTEL RANJITH",
+    "Rating": "4",
+    "Rating Description": "Very Good",
+    "Location": "Near US Consulate",
+    "Nearest Landmark": "",
+    "Price": "5,208",
+    "city": "Chennai",
+    "id": 167
+  },
+  {
+    "Hotel Name": "Welcomhotel by ITC Hotels, GST Road, Chennai",
+    "Rating": "4.2",
+    "Rating Description": "Very Good",
+    "Location": "Singaperumal Koil",
+    "Nearest Landmark": "city centre",
+    "Price": "7,200",
+    "city": "Chennai",
+    "id": 168
+  },
+  {
+    "Hotel Name": "Regenta Central RS Chennai SIPCOT OMR",
+    "Rating": "4.4",
+    "Rating Description": "Excellent",
+    "Location": "Egatoor",
+    "Nearest Landmark": "city centre",
+    "Price": "3,824",
+    "city": "Chennai",
+    "id": 169
+  },
+  {
+    "Hotel Name": "CRESCENT PARK (near US Consulate Chennai)",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "Nungambakkam",
+    "Nearest Landmark": "",
+    "Price": "2,307",
+    "city": "Chennai",
+    "id": 170
+  },
+  {
+    "Hotel Name": "Harrisons",
+    "Rating": "4",
+    "Rating Description": "Very Good",
+    "Location": "Nungambakkam",
+    "Nearest Landmark": "",
+    "Price": "3,906",
+    "city": "Chennai",
+    "id": 171
+  },
+  {
+    "Hotel Name": "MGM Beach Resorts (15Kms before Mahabalipuram)",
+    "Rating": "3.9",
+    "Rating Description": "Very Good",
+    "Location": "Muttukadu",
+    "Nearest Landmark": "city centre",
+    "Price": "25,110",
+    "city": "Chennai",
+    "id": 172
+  },
+  {
+    "Hotel Name": "PARK PLAZA CHENNAI OMR",
+    "Rating": "4",
+    "Rating Description": "Very Good",
+    "Location": "Thoraipakkam",
+    "Nearest Landmark": "",
+    "Price": "4,200",
+    "city": "Chennai",
+    "id": 173
+  },
+  {
+    "Hotel Name": "Feathers A Radha Hotel Chennai",
+    "Rating": "4.3",
+    "Rating Description": "Excellent",
+    "Location": "Manapakkam",
+    "Nearest Landmark": "Chennai Airport",
+    "Price": "8,999",
+    "city": "Chennai",
+    "id": 174
+  },
+  {
+    "Hotel Name": "V7 HOTEL",
+    "Rating": "3.2",
+    "Rating Description": "Good",
+    "Location": "Porur",
+    "Nearest Landmark": "",
+    "Price": "3,667",
+    "city": "Chennai",
+    "id": 175
+  },
+  {
+    "Hotel Name": "Keys Select by Lemon Tree Hotels, Katti-Ma, Chennai",
+    "Rating": "3.7",
+    "Rating Description": "Very Good",
+    "Location": "Adyar",
+    "Nearest Landmark": "",
+    "Price": "2,240",
+    "city": "Chennai",
+    "id": 176
+  },
+  {
+    "Hotel Name": "Hostel Gandhi",
+    "Rating": "4.2",
+    "Rating Description": "Very Good",
+    "Location": "Saidapet",
+    "Nearest Landmark": "Chennai Airport",
+    "Price": "1,307",
+    "city": "Chennai",
+    "id": 177
+  },
+  {
+    "Hotel Name": "Grand Cascade",
+    "Rating": "3.6",
+    "Rating Description": "Very Good",
+    "Location": "Poongavanapuram",
+    "Nearest Landmark": "Chennai Central Railway Station",
+    "Price": "2,052",
+    "city": "Chennai",
+    "id": 178
+  },
+  {
+    "Hotel Name": "Days Hotel Chennai OMR",
+    "Rating": "4.3",
+    "Rating Description": "Excellent",
+    "Location": "Kelambakkam",
+    "Nearest Landmark": "city centre",
+    "Price": "2,767",
+    "city": "Chennai",
+    "id": 179
+  },
+  {
+    "Hotel Name": "PP Residency",
+    "Rating": "4",
+    "Rating Description": "Very Good",
+    "Location": "Chennai",
+    "Nearest Landmark": "city centre",
+    "Price": "2,768",
+    "city": "Chennai",
+    "id": 180
+  },
+  {
+    "Hotel Name": "Highnest | Rooms & Caretaker",
+    "Rating": "3.5",
+    "Rating Description": "Very Good",
+    "Location": "Kattankolatur R.F.",
+    "Nearest Landmark": "city centre",
+    "Price": "2,815",
+    "city": "Chennai",
+    "id": 181
+  },
+  {
+    "Hotel Name": "Grand Elegant",
+    "Rating": "3.9",
+    "Rating Description": "Very Good",
+    "Location": "Poongavanapuram",
+    "Nearest Landmark": "",
+    "Price": "2,046",
+    "city": "Chennai",
+    "id": 182
+  },
+  {
+    "Hotel Name": "Accord Chrome",
+    "Rating": "4.5",
+    "Rating Description": "Excellent",
+    "Location": "Chromepet",
+    "Nearest Landmark": "Chennai Airport",
+    "Price": "6,975",
+    "city": "Chennai",
+    "id": 183
+  },
+  {
+    "Hotel Name": "AVENUE HOTEL -CHENNAI AIRPORT",
+    "Rating": "3.6",
+    "Rating Description": "Very Good",
+    "Location": "Pallavaram",
+    "Nearest Landmark": "Chennai Airport",
+    "Price": "2,671",
+    "city": "Chennai",
+    "id": 184
+  },
+  {
+    "Hotel Name": "La Woods hotel (1Km from us consulate chennai)",
+    "Rating": "4",
+    "Rating Description": "Very Good",
+    "Location": "Mount road",
+    "Nearest Landmark": "",
+    "Price": "3,360",
+    "city": "Chennai",
+    "id": 185
+  },
+  {
+    "Hotel Name": "E Hotel",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "Royapettah",
+    "Nearest Landmark": "",
+    "Price": "6,749",
+    "city": "Chennai",
+    "id": 186
+  },
+  {
+    "Hotel Name": "Hotel Bakya Slot - Maraimalai Nagar",
+    "Rating": "3.6",
+    "Rating Description": "Very Good",
+    "Location": "Maraimalai Nagar",
+    "Nearest Landmark": "city centre",
+    "Price": "2,046",
+    "city": "Chennai",
+    "id": 187
+  },
+  {
+    "Hotel Name": "Pharos Hotels",
+    "Rating": "4.3",
+    "Rating Description": "Excellent",
+    "Location": "Nungambakkam",
+    "Nearest Landmark": "",
+    "Price": "4,650",
+    "city": "Chennai",
+    "id": 188
+  },
+  {
+    "Hotel Name": "Al Noor Palace",
+    "Rating": "4",
+    "Rating Description": "Very Good",
+    "Location": "Triplicane",
+    "Nearest Landmark": "Marina Beach",
+    "Price": "2,093",
+    "city": "Chennai",
+    "id": 189
+  },
+  {
+    "Hotel Name": "JS Five two By twinstar hotel",
+    "Rating": "4",
+    "Rating Description": "Very Good",
+    "Location": "Raja Annamalai Puram",
+    "Nearest Landmark": "",
+    "Price": "3,794",
+    "city": "Chennai",
+    "id": 190
+  },
+  {
+    "Hotel Name": "HOTEL HALEZ",
+    "Rating": "4.3",
+    "Rating Description": "Excellent",
+    "Location": "Sholinganallur",
+    "Nearest Landmark": "",
+    "Price": "3,800",
+    "city": "Chennai",
+    "id": 191
+  },
+  {
+    "Hotel Name": "Essentia Premier Hotel",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "Thoraipakkam",
+    "Nearest Landmark": "",
+    "Price": "3,989",
+    "city": "Chennai",
+    "id": 192
+  },
+  {
+    "Hotel Name": "ILARA Hotel & Spa",
+    "Rating": "4",
+    "Rating Description": "Very Good",
+    "Location": "Navallur",
+    "Nearest Landmark": "",
+    "Price": "2,650",
+    "city": "Chennai",
+    "id": 193
+  },
+  {
+    "Hotel Name": "The Centrepoint OMR",
+    "Rating": "3.8",
+    "Rating Description": "Very Good",
+    "Location": "Sholinganallur",
+    "Nearest Landmark": "",
+    "Price": "3,322",
+    "city": "Chennai",
+    "id": 194
+  },
+  {
+    "Hotel Name": "KLASE HOTELS, GUINDY",
+    "Rating": "3.3",
+    "Rating Description": "Good",
+    "Location": "Mount road",
+    "Nearest Landmark": "Chennai Airport",
+    "Price": "2,914",
+    "city": "Chennai",
+    "id": 195
+  },
+  {
+    "Hotel Name": "Just Guest House",
+    "Rating": "4",
+    "Rating Description": "Very Good",
+    "Location": "Pazhavanthangal",
+    "Nearest Landmark": "Chennai Airport",
+    "Price": "3,149",
+    "city": "Chennai",
+    "id": 196
+  },
+  {
+    "Hotel Name": "GRAND OLIVER",
+    "Rating": "3.6",
+    "Rating Description": "Very Good",
+    "Location": "Poongavanapuram",
+    "Nearest Landmark": "",
+    "Price": "1,243",
+    "city": "Chennai",
+    "id": 197
+  },
+  {
+    "Hotel Name": "Pebbles Serviced Apartments\r\nLike a 3",
+    "Rating": "4.2",
+    "Rating Description": "Very Good",
+    "Location": "T Nagar",
+    "Nearest Landmark": "",
+    "Price": "2,349",
+    "city": "Chennai",
+    "id": 198
+  },
+  {
+    "Hotel Name": "Mercure Chennai Sriperumbudur - An Accor Brand",
+    "Rating": "4.2",
+    "Rating Description": "Very Good",
+    "Location": "Oragadam",
+    "Nearest Landmark": "city centre",
+    "Price": "5,900",
+    "city": "Chennai",
+    "id": 199
+  },
+  {
+    "Hotel Name": "ZAITH RESIDENCY",
+    "Rating": "3.4",
+    "Rating Description": "Good",
+    "Location": "Thousand Lights",
+    "Nearest Landmark": "",
+    "Price": "2,355",
+    "city": "Chennai",
+    "id": 200
+  },
+  {
+    "Hotel Name": "Mount Kailash Suites",
+    "Rating": "4",
+    "Rating Description": "Very Good",
+    "Location": "Mount road",
+    "Nearest Landmark": "Chennai Airport",
+    "Price": "2,516",
+    "city": "Chennai",
+    "id": 201
+  },
+  {
+    "Hotel Name": "The Mount City near US Consulate",
+    "Rating": "3.6",
+    "Rating Description": "Very Good",
+    "Location": "Triplicane",
+    "Nearest Landmark": "Marina Beach",
+    "Price": "1,748",
+    "city": "Chennai",
+    "id": 202
+  },
+  {
+    "Hotel Name": "Country Inn and Suites by Radisson, Sahibabad",
+    "Rating": "4.2",
+    "Rating Description": "Very Good",
+    "Location": "In Ghaziabad",
+    "Nearest Landmark": "Delhi city centre",
+    "Price": "6,249",
+    "city": "Delhi",
+    "id": 203
+  },
+  {
+    "Hotel Name": "Radisson Blu Kaushambi Delhi NCR",
+    "Rating": "4",
+    "Rating Description": "Very Good",
+    "Location": "In Ghaziabad",
+    "Nearest Landmark": "Delhi city centre",
+    "Price": "5,039",
+    "city": "Delhi",
+    "id": 204
+  },
+  {
+    "Hotel Name": "The Ashok",
+    "Rating": "3.8",
+    "Rating Description": "Very Good",
+    "Location": "Chanakyapuri",
+    "Nearest Landmark": "T1 - Delhi Airport (IGI Airport)",
+    "Price": "6,288",
+    "city": "Delhi",
+    "id": 205
+  },
+  {
+    "Hotel Name": "Pride Plaza Hotel Aerocity New Delhi",
+    "Rating": "4",
+    "Rating Description": "Very Good",
+    "Location": "Aerocity",
+    "Nearest Landmark": "Indira Gandhi International Airport",
+    "Price": "6,499",
+    "city": "Delhi",
+    "id": 206
+  },
+  {
+    "Hotel Name": "Golden Tulip Vasundhara Hotel & Suites, Delhi NCR",
+    "Rating": "3.9",
+    "Rating Description": "Very Good",
+    "Location": "In Ghaziabad",
+    "Nearest Landmark": "Delhi city centre",
+    "Price": "3,386",
+    "city": "Delhi",
+    "id": 207
+  },
+  {
+    "Hotel Name": "Welcomhotel by ITC Hotels, Dwarka, New Delhi",
+    "Rating": "4",
+    "Rating Description": "Very Good",
+    "Location": "Sector 10 Dwarka",
+    "Nearest Landmark": "",
+    "Price": "6,223",
+    "city": "Delhi",
+    "id": 208
+  },
+  {
+    "Hotel Name": "Holiday Inn New Delhi International Airport",
+    "Rating": "4.2",
+    "Rating Description": "Very Good",
+    "Location": "Aerocity",
+    "Nearest Landmark": "Indira Gandhi International Airport",
+    "Price": "6,999",
+    "city": "Delhi",
+    "id": 209
+  },
+  {
+    "Hotel Name": "Novotel New Delhi International Airport- An Accor hotels brand",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "Aerocity",
+    "Nearest Landmark": "Indira Gandhi International Airport",
+    "Price": "7,250",
+    "city": "Delhi",
+    "id": 210
+  },
+  {
+    "Hotel Name": "The Suryaa New Delhi",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "New Friends Colony",
+    "Nearest Landmark": "",
+    "Price": "5,348",
+    "city": "Delhi",
+    "id": 211
+  },
+  {
+    "Hotel Name": "The Hosteller Delhi | Private Rooms & Dorms",
+    "Rating": "4.3",
+    "Rating Description": "Excellent",
+    "Location": "New Friends Colony",
+    "Nearest Landmark": "",
+    "Price": "2,228",
+    "city": "Delhi",
+    "id": 212
+  },
+  {
+    "Hotel Name": "The LaLiT New Delhi",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "Connaught Place",
+    "Nearest Landmark": "",
+    "Price": "9,040",
+    "city": "Delhi",
+    "id": 213
+  },
+  {
+    "Hotel Name": "Radisson Blu Plaza Delhi Airport",
+    "Rating": "4.3",
+    "Rating Description": "Excellent",
+    "Location": "Mahipalpur",
+    "Nearest Landmark": "Indira Gandhi International Airport",
+    "Price": "4,500",
+    "city": "Delhi",
+    "id": 214
+  },
+  {
+    "Hotel Name": "Roseate House New Delhi",
+    "Rating": "4.4",
+    "Rating Description": "Excellent",
+    "Location": "Aerocity",
+    "Nearest Landmark": "Indira Gandhi International Airport",
+    "Price": "9,649",
+    "city": "Delhi",
+    "id": 215
+  },
+  {
+    "Hotel Name": "Lemon Tree Hotel East Delhi Mall Kaushambi",
+    "Rating": "3.9",
+    "Rating Description": "Very Good",
+    "Location": "In Ghaziabad",
+    "Nearest Landmark": "Delhi city centre",
+    "Price": "2,073",
+    "city": "Delhi",
+    "id": 216
+  },
+  {
+    "Hotel Name": "YWCA OF DELHI BLUE TRIANGLE FAMILY HOSTEL",
+    "Rating": "3.9",
+    "Rating Description": "Very Good",
+    "Location": "Connaught Place",
+    "Nearest Landmark": "Metro Museum",
+    "Price": "2,620",
+    "city": "Delhi",
+    "id": 217
+  },
+  {
+    "Hotel Name": "Hotel Trans International",
+    "Rating": "4.2",
+    "Rating Description": "Very Good",
+    "Location": "Mahipalpur",
+    "Nearest Landmark": "Indira Gandhi International Airport",
+    "Price": "2,274",
+    "city": "Delhi",
+    "id": 218
+  },
+  {
+    "Hotel Name": "The Leela Ambience Convention Hotel Delhi",
+    "Rating": "4.4",
+    "Rating Description": "Excellent",
+    "Location": "East Delhi",
+    "Nearest Landmark": "",
+    "Price": "7,499",
+    "city": "Delhi",
+    "id": 219
+  },
+  {
+    "Hotel Name": "Jaypee Vasant Continental Hotel",
+    "Rating": "4",
+    "Rating Description": "Very Good",
+    "Location": "Vasant Vihar",
+    "Nearest Landmark": "T1 - Delhi Airport (IGI Airport)",
+    "Price": "5,999",
+    "city": "Delhi",
+    "id": 220
+  },
+  {
+    "Hotel Name": "YWCA INTERNATIONAL GUEST HOUSE",
+    "Rating": "3.8",
+    "Rating Description": "Very Good",
+    "Location": "Connaught Place",
+    "Nearest Landmark": "India Gate",
+    "Price": "2,408",
+    "city": "Delhi",
+    "id": 221
+  },
+  {
+    "Hotel Name": "Holiday Inn New Delhi Mayur Vihar",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "East Delhi",
+    "Nearest Landmark": "",
+    "Price": "6,249",
+    "city": "Delhi",
+    "id": 222
+  },
+  {
+    "Hotel Name": "Lemon Tree Premier Delhi Airport",
+    "Rating": "3.9",
+    "Rating Description": "Very Good",
+    "Location": "Aerocity",
+    "Nearest Landmark": "Indira Gandhi International Airport",
+    "Price": "4,464",
+    "city": "Delhi",
+    "id": 223
+  },
+  {
+    "Hotel Name": "Radisson Blu Marina Hotel Connaught Place",
+    "Rating": "3.8",
+    "Rating Description": "Very Good",
+    "Location": "Connaught Place",
+    "Nearest Landmark": "",
+    "Price": "8,000",
+    "city": "Delhi",
+    "id": 224
+  },
+  {
+    "Hotel Name": "The Metropolitan Hotel and Spa",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "Connaught Place",
+    "Nearest Landmark": "",
+    "Price": "7,500",
+    "city": "Delhi",
+    "id": 225
+  },
+  {
+    "Hotel Name": "The Grand New Delhi",
+    "Rating": "3.8",
+    "Rating Description": "Very Good",
+    "Location": "Vasant Kunj",
+    "Nearest Landmark": "Indira Gandhi International Airport",
+    "Price": "12,899",
+    "city": "Delhi",
+    "id": 226
+  },
+  {
+    "Hotel Name": "Crowne Plaza Mayur Vihar",
+    "Rating": "4.3",
+    "Rating Description": "Excellent",
+    "Location": "East Delhi",
+    "Nearest Landmark": "",
+    "Price": "8,649",
+    "city": "Delhi",
+    "id": 227
+  },
+  {
+    "Hotel Name": "Hotel Smart Plaza",
+    "Rating": "4.3",
+    "Rating Description": "Excellent",
+    "Location": "Mahipalpur",
+    "Nearest Landmark": "Indira Gandhi International Airport",
+    "Price": "1,525",
+    "city": "Delhi",
+    "id": 228
+  },
+  {
+    "Hotel Name": "Hotel Aero Star",
+    "Rating": "4.3",
+    "Rating Description": "Excellent",
+    "Location": "Mahipalpur",
+    "Nearest Landmark": "Indira Gandhi International Airport",
+    "Price": "2,472",
+    "city": "Delhi",
+    "id": 229
+  },
+  {
+    "Hotel Name": "Golden Bliss Near IGI Airport Mahipalpur",
+    "Rating": "3",
+    "Rating Description": "Good",
+    "Location": "Mahipalpur",
+    "Nearest Landmark": "Indira Gandhi International Airport",
+    "Price": "2,794",
+    "city": "Delhi",
+    "id": 230
+  },
+  {
+    "Hotel Name": "Hotel International Inn",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "Mahipalpur",
+    "Nearest Landmark": "Indira Gandhi International Airport",
+    "Price": "2,199",
+    "city": "Delhi",
+    "id": 231
+  },
+  {
+    "Hotel Name": "The Park New Delhi",
+    "Rating": "3.5",
+    "Rating Description": "Very Good",
+    "Location": "Connaught Place",
+    "Nearest Landmark": "Connaught Place",
+    "Price": "7,905",
+    "city": "Delhi",
+    "id": 232
+  },
+  {
+    "Hotel Name": "ibis New Delhi Aerocity - An Accor Brand",
+    "Rating": "3.7",
+    "Rating Description": "Very Good",
+    "Location": "Aerocity",
+    "Nearest Landmark": "Indira Gandhi International Airport",
+    "Price": "5,100",
+    "city": "Delhi",
+    "id": 233
+  },
+  {
+    "Hotel Name": "goSTOPS Delhi - Rooms & Dorms",
+    "Rating": "4.2",
+    "Rating Description": "Very Good",
+    "Location": "Chandni Chowk",
+    "Nearest Landmark": "Red Fort",
+    "Price": "1,481",
+    "city": "Delhi",
+    "id": 234
+  },
+  {
+    "Hotel Name": "Hotel The Royal Plaza",
+    "Rating": "3.4",
+    "Rating Description": "Good",
+    "Location": "Connaught Place",
+    "Nearest Landmark": "India Gate",
+    "Price": "7,379",
+    "city": "Delhi",
+    "id": 235
+  },
+  {
+    "Hotel Name": "Taj Mahal, New Delhi",
+    "Rating": "4.5",
+    "Rating Description": "Excellent",
+    "Location": "Man Singh Road Area",
+    "Nearest Landmark": "India Gate",
+    "Price": "12,000",
+    "city": "Delhi",
+    "id": 236
+  },
+  {
+    "Hotel Name": "Hotel Shanti Palace (Mahipalpur)",
+    "Rating": "3.7",
+    "Rating Description": "Very Good",
+    "Location": "Mahipalpur",
+    "Nearest Landmark": "Indira Gandhi International Airport",
+    "Price": "2,604",
+    "city": "Delhi",
+    "id": 237
+  },
+  {
+    "Hotel Name": "Aloft New Delhi Aerocity",
+    "Rating": "4.2",
+    "Rating Description": "Very Good",
+    "Location": "Aerocity",
+    "Nearest Landmark": "Indira Gandhi International Airport",
+    "Price": "6,950",
+    "city": "Delhi",
+    "id": 238
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel New Delhi Dwarka",
+    "Rating": "3.7",
+    "Rating Description": "Very Good",
+    "Location": "Sector 13 Dwarka",
+    "Nearest Landmark": "",
+    "Price": "5,953",
+    "city": "Delhi",
+    "id": 239
+  },
+  {
+    "Hotel Name": "Hotel Star",
+    "Rating": "4.3",
+    "Rating Description": "Excellent",
+    "Location": "Mahipalpur",
+    "Nearest Landmark": "Indira Gandhi International Airport",
+    "Price": "2,472",
+    "city": "Delhi",
+    "id": 240
+  },
+  {
+    "Hotel Name": "Pullman New Delhi International Airport- An Accor Luxury Brand",
+    "Rating": "4.3",
+    "Rating Description": "Excellent",
+    "Location": "Aerocity",
+    "Nearest Landmark": "Indira Gandhi International Airport",
+    "Price": "10,500",
+    "city": "Delhi",
+    "id": 241
+  },
+  {
+    "Hotel Name": "Hotel Aman Continental @ Paharganj",
+    "Rating": "4.3",
+    "Rating Description": "Excellent",
+    "Location": "Paharganj",
+    "Nearest Landmark": "New Delhi Railway Station",
+    "Price": "2,045",
+    "city": "Delhi",
+    "id": 242
+  },
+  {
+    "Hotel Name": "Taj Palace, New Delhi",
+    "Rating": "4.5",
+    "Rating Description": "Excellent",
+    "Location": "Chanakyapuri",
+    "Nearest Landmark": "T1 - Delhi Airport (IGI Airport)",
+    "Price": "11,500",
+    "city": "Delhi",
+    "id": 243
+  },
+  {
+    "Hotel Name": "Red Fox Hotel Delhi Airport",
+    "Rating": "3.9",
+    "Rating Description": "Very Good",
+    "Location": "Aerocity",
+    "Nearest Landmark": "Indira Gandhi International Airport",
+    "Price": "2,903",
+    "city": "Delhi",
+    "id": 244
+  },
+  {
+    "Hotel Name": "Vivanta New Delhi, Dwarka",
+    "Rating": "4.3",
+    "Rating Description": "Excellent",
+    "Location": "Sector 21 Dwarka",
+    "Nearest Landmark": "",
+    "Price": "7,100",
+    "city": "Delhi",
+    "id": 245
+  },
+  {
+    "Hotel Name": "The Gold Regency @ Paharganj",
+    "Rating": "4.3",
+    "Rating Description": "Excellent",
+    "Location": "Paharganj",
+    "Nearest Landmark": "New Delhi Railway Station",
+    "Price": "2,044",
+    "city": "Delhi",
+    "id": 246
+  },
+  {
+    "Hotel Name": "Red Brick | Home by Earthaa Escapes\r\nLike a 3",
+    "Rating": "4.2",
+    "Rating Description": "Very Good",
+    "Location": "Malviya Nagar",
+    "Nearest Landmark": "",
+    "Price": "2,548",
+    "city": "Delhi",
+    "id": 247
+  },
+  {
+    "Hotel Name": "JW Marriott Hotel New Delhi Aerocity",
+    "Rating": "4.5",
+    "Rating Description": "Excellent",
+    "Location": "Aerocity",
+    "Nearest Landmark": "Indira Gandhi International Airport",
+    "Price": "12,800",
+    "city": "Delhi",
+    "id": 248
+  },
+  {
+    "Hotel Name": "Crowne Plaza Rohini",
+    "Rating": "4.3",
+    "Rating Description": "Excellent",
+    "Location": "Rohini",
+    "Nearest Landmark": "",
+    "Price": "6,498",
+    "city": "Delhi",
+    "id": 249
+  },
+  {
+    "Hotel Name": "Park Plaza, Shahdara",
+    "Rating": "3.7",
+    "Rating Description": "Very Good",
+    "Location": "East Delhi",
+    "Nearest Landmark": "",
+    "Price": "3,825",
+    "city": "Delhi",
+    "id": 250
+  },
+  {
+    "Hotel Name": "Andaz Delhi - A concept by Hyatt",
+    "Rating": "4.3",
+    "Rating Description": "Excellent",
+    "Location": "Aerocity",
+    "Nearest Landmark": "Indira Gandhi International Airport",
+    "Price": "11,000",
+    "city": "Delhi",
+    "id": 251
+  },
+  {
+    "Hotel Name": "Homestay AC Dormitory at Kashmiri Gate",
+    "Rating": "3.9",
+    "Rating Description": "Very Good",
+    "Location": "North Delhi",
+    "Nearest Landmark": "",
+    "Price": "735",
+    "city": "Delhi",
+    "id": 252
+  },
+  {
+    "Hotel Name": "Zone Connect Saket Delhi",
+    "Rating": "3.9",
+    "Rating Description": "Very Good",
+    "Location": "Saket",
+    "Nearest Landmark": "",
+    "Price": "5,900",
+    "city": "Delhi",
+    "id": 253
+  },
+  {
+    "Hotel Name": "Crowne Plaza Okhla",
+    "Rating": "4.3",
+    "Rating Description": "Excellent",
+    "Location": "Okhla Industrial Area",
+    "Nearest Landmark": "",
+    "Price": "6,300",
+    "city": "Delhi",
+    "id": 254
+  },
+  {
+    "Hotel Name": "Taurus Sarovar Portico",
+    "Rating": "3.1",
+    "Rating Description": "Good",
+    "Location": "Mahipalpur",
+    "Nearest Landmark": "Indira Gandhi International Airport",
+    "Price": "2,976",
+    "city": "Delhi",
+    "id": 255
+  },
+  {
+    "Hotel Name": "The Leela Palace New Delhi",
+    "Rating": "4.5",
+    "Rating Description": "Excellent",
+    "Location": "Chanakyapuri",
+    "Nearest Landmark": "T1 - Delhi Airport (IGI Airport)",
+    "Price": "17,000",
+    "city": "Delhi",
+    "id": 256
+  },
+  {
+    "Hotel Name": "Shangri-La Eros New Delhi",
+    "Rating": "4.4",
+    "Rating Description": "Excellent",
+    "Location": "Connaught Place",
+    "Nearest Landmark": "India Gate",
+    "Price": "12,500",
+    "city": "Delhi",
+    "id": 257
+  },
+  {
+    "Hotel Name": "Sheraton New Delhi",
+    "Rating": "4.5",
+    "Rating Description": "Excellent",
+    "Location": "Saket",
+    "Nearest Landmark": "",
+    "Price": "9,500",
+    "city": "Delhi",
+    "id": 258
+  },
+  {
+    "Hotel Name": "Hyatt Centric Janakpuri, New Delhi",
+    "Rating": "3.6",
+    "Rating Description": "Very Good",
+    "Location": "Janakpuri",
+    "Nearest Landmark": "",
+    "Price": "5,599",
+    "city": "Delhi",
+    "id": 259
+  },
+  {
+    "Hotel Name": "ITC Maurya - A Luxury Collection Hotel",
+    "Rating": "4.3",
+    "Rating Description": "Excellent",
+    "Location": "Chanakyapuri",
+    "Nearest Landmark": "T1 - Delhi Airport (IGI Airport)",
+    "Price": "11,000",
+    "city": "Delhi",
+    "id": 260
+  },
+  {
+    "Hotel Name": "Le Meridien Delhi",
+    "Rating": "4.2",
+    "Rating Description": "Very Good",
+    "Location": "Connaught Place",
+    "Nearest Landmark": "India Gate",
+    "Price": "12,150",
+    "city": "Delhi",
+    "id": 261
+  },
+  {
+    "Hotel Name": "Eros Hotel New Delhi ,Nehru Place",
+    "Rating": "4",
+    "Rating Description": "Very Good",
+    "Location": "Near Nehru Place",
+    "Nearest Landmark": "",
+    "Price": "4,999",
+    "city": "Delhi",
+    "id": 262
+  },
+  {
+    "Hotel Name": "Jaypee Siddharth Hotel",
+    "Rating": "3.7",
+    "Rating Description": "Very Good",
+    "Location": "Pusa road",
+    "Nearest Landmark": "BLK Hospital",
+    "Price": "6,299",
+    "city": "Delhi",
+    "id": 263
+  },
+  {
+    "Hotel Name": "Hotel Vertu",
+    "Rating": "4",
+    "Rating Description": "Very Good",
+    "Location": "Mahipalpur",
+    "Nearest Landmark": "Indira Gandhi International Airport",
+    "Price": "2,525",
+    "city": "Delhi",
+    "id": 264
+  },
+  {
+    "Hotel Name": "Le ROI, Delhi@ New Delhi Railway Station",
+    "Rating": "4",
+    "Rating Description": "Very Good",
+    "Location": "Paharganj",
+    "Nearest Landmark": "",
+    "Price": "2,474",
+    "city": "Delhi",
+    "id": 265
+  },
+  {
+    "Hotel Name": "Ashiana Hotel @ New Delhi Railway Station",
+    "Rating": "3.7",
+    "Rating Description": "Very Good",
+    "Location": "Paharganj",
+    "Nearest Landmark": "New Delhi Railway Station",
+    "Price": "883",
+    "city": "Delhi",
+    "id": 266
+  },
+  {
+    "Hotel Name": "The Roseate",
+    "Rating": "4.3",
+    "Rating Description": "Excellent",
+    "Location": "Mahipalpur",
+    "Nearest Landmark": "Indira Gandhi International Airport",
+    "Price": "12,024",
+    "city": "Delhi",
+    "id": 267
+  },
+  {
+    "Hotel Name": "The Connaught, New Delhi - IHCL SeleQtions",
+    "Rating": "4.5",
+    "Rating Description": "Excellent",
+    "Location": "Connaught Place",
+    "Nearest Landmark": "Connaught Place",
+    "Price": "7,499",
+    "city": "Delhi",
+    "id": 268
+  },
+  {
+    "Hotel Name": "Hyatt Regency New Delhi",
+    "Rating": "4.2",
+    "Rating Description": "Very Good",
+    "Location": "R.K. Puram",
+    "Nearest Landmark": "T1 - Delhi Airport (IGI Airport)",
+    "Price": "8,100",
+    "city": "Delhi",
+    "id": 269
+  },
+  {
+    "Hotel Name": "Hotel Samrat",
+    "Rating": "3.2",
+    "Rating Description": "Good",
+    "Location": "Chanakyapuri",
+    "Nearest Landmark": "T1 - Delhi Airport (IGI Airport)",
+    "Price": "4,278",
+    "city": "Delhi",
+    "id": 270
+  },
+  {
+    "Hotel Name": "New Delhi YMCA Tourist Hostel | Rooms & Wi-Fi\r\nLike a 3",
+    "Rating": "3.5",
+    "Rating Description": "Very Good",
+    "Location": "Connaught Place",
+    "Nearest Landmark": "Connaught Place",
+    "Price": "3,148",
+    "city": "Delhi",
+    "id": 271
+  },
+  {
+    "Hotel Name": "Golden Keys Inn",
+    "Rating": "3.7",
+    "Rating Description": "Very Good",
+    "Location": "North Delhi",
+    "Nearest Landmark": "",
+    "Price": "2,009",
+    "city": "Delhi",
+    "id": 272
+  },
+  {
+    "Hotel Name": "Ginger East Delhi",
+    "Rating": "3.5",
+    "Rating Description": "Very Good",
+    "Location": "East Delhi",
+    "Nearest Landmark": "",
+    "Price": "1,839",
+    "city": "Delhi",
+    "id": 273
+  },
+  {
+    "Hotel Name": "The Hans",
+    "Rating": "3.6",
+    "Rating Description": "Very Good",
+    "Location": "Connaught Place",
+    "Nearest Landmark": "Agrasen Ki Baoli",
+    "Price": "4,860",
+    "city": "Delhi",
+    "id": 274
+  },
+  {
+    "Hotel Name": "Shubham Vilas\r\nLike a 3",
+    "Rating": "4.2",
+    "Rating Description": "Very Good",
+    "Location": "Rajouri Garden",
+    "Nearest Landmark": "",
+    "Price": "1,876",
+    "city": "Delhi",
+    "id": 275
+  },
+  {
+    "Hotel Name": "Ramada By Wyndham New Delhi Pitampura",
+    "Rating": "3.5",
+    "Rating Description": "Very Good",
+    "Location": "North Delhi",
+    "Nearest Landmark": "",
+    "Price": "4,437",
+    "city": "Delhi",
+    "id": 276
+  },
+  {
+    "Hotel Name": "Svelte Hotel & Personal Suites",
+    "Rating": "3.6",
+    "Rating Description": "Very Good",
+    "Location": "Saket",
+    "Nearest Landmark": "",
+    "Price": "8,333",
+    "city": "Delhi",
+    "id": 277
+  },
+  {
+    "Hotel Name": "The Grand Uddhav",
+    "Rating": "4.2",
+    "Rating Description": "Very Good",
+    "Location": "Paharganj",
+    "Nearest Landmark": "New Delhi Railway Station",
+    "Price": "3,081",
+    "city": "Delhi",
+    "id": 278
+  },
+  {
+    "Hotel Name": "Hotel Chanakya Inn",
+    "Rating": "3.4",
+    "Rating Description": "Good",
+    "Location": "Mahipalpur",
+    "Nearest Landmark": "Indira Gandhi International Airport",
+    "Price": "1,836",
+    "city": "Delhi",
+    "id": 279
+  },
+  {
+    "Hotel Name": "Hotel Viva Palace @ Delhi Airport",
+    "Rating": "3.9",
+    "Rating Description": "Very Good",
+    "Location": "Mahipalpur",
+    "Nearest Landmark": "Indira Gandhi International Airport",
+    "Price": "2,271",
+    "city": "Delhi",
+    "id": 280
+  },
+  {
+    "Hotel Name": "Hotel Hari Piorko",
+    "Rating": "3.8",
+    "Rating Description": "Very Good",
+    "Location": "Paharganj",
+    "Nearest Landmark": "New Delhi Railway Station",
+    "Price": "1,104",
+    "city": "Delhi",
+    "id": 281
+  },
+  {
+    "Hotel Name": "Hotel Southern",
+    "Rating": "3.4",
+    "Rating Description": "Good",
+    "Location": "Karol bagh",
+    "Nearest Landmark": "",
+    "Price": "1,951",
+    "city": "Delhi",
+    "id": 282
+  },
+  {
+    "Hotel Name": "Hotel Delhi 37",
+    "Rating": "4.3",
+    "Rating Description": "Excellent",
+    "Location": "Mahipalpur",
+    "Nearest Landmark": "Indira Gandhi International Airport",
+    "Price": "2,472",
+    "city": "Delhi",
+    "id": 283
+  },
+  {
+    "Hotel Name": "Red Fox Hotel East Delhi",
+    "Rating": "3.6",
+    "Rating Description": "Very Good",
+    "Location": "East Delhi",
+    "Nearest Landmark": "",
+    "Price": "1,908",
+    "city": "Delhi",
+    "id": 284
+  },
+  {
+    "Hotel Name": "HOME@B11",
+    "Rating": "2.3",
+    "Rating Description": "Average",
+    "Location": "East Of Kailash",
+    "Nearest Landmark": "",
+    "Price": "2,758",
+    "city": "Delhi",
+    "id": 285
+  },
+  {
+    "Hotel Name": "The Umrao",
+    "Rating": "3.9",
+    "Rating Description": "Very Good",
+    "Location": "Samalka",
+    "Nearest Landmark": "Indira Gandhi International Airport",
+    "Price": "5,000",
+    "city": "Delhi",
+    "id": 286
+  },
+  {
+    "Hotel Name": "IIDL Suites",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "East Delhi",
+    "Nearest Landmark": "",
+    "Price": "4,900",
+    "city": "Delhi",
+    "id": 287
+  },
+  {
+    "Hotel Name": "Four Points by Sheraton Delhi",
+    "Rating": "4",
+    "Rating Description": "Very Good",
+    "Location": "Samalka",
+    "Nearest Landmark": "Indira Gandhi International Airport",
+    "Price": "4,559",
+    "city": "Delhi",
+    "id": 288
+  },
+  {
+    "Hotel Name": "Deventure Sarovar Portico, Kapashera, New Delhi",
+    "Rating": "3.9",
+    "Rating Description": "Very Good",
+    "Location": "Delhi",
+    "Nearest Landmark": "Indira Gandhi International Airport",
+    "Price": "5,022",
+    "city": "Delhi",
+    "id": 289
+  },
+  {
+    "Hotel Name": "The Dream House BnB | Rooms & Caretaker\r\nLike a 3",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "Safdarjung Enclave",
+    "Nearest Landmark": "T1 - Delhi Airport (IGI Airport)",
+    "Price": "2,542",
+    "city": "Delhi",
+    "id": 290
+  },
+  {
+    "Hotel Name": "Park Inn by Radisson, IP Extension- New Delhi",
+    "Rating": "3.8",
+    "Rating Description": "Very Good",
+    "Location": "East Delhi",
+    "Nearest Landmark": "",
+    "Price": "4,150",
+    "city": "Delhi",
+    "id": 291
+  },
+  {
+    "Hotel Name": "The Claridges New Delhi",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "Motilal Nehru Marg Area",
+    "Nearest Landmark": "India Gate",
+    "Price": "10,350",
+    "city": "Delhi",
+    "id": 292
+  },
+  {
+    "Hotel Name": "De Pavilion Hotel",
+    "Rating": "3.6",
+    "Rating Description": "Very Good",
+    "Location": "Mahipalpur",
+    "Nearest Landmark": "Indira Gandhi International Airport",
+    "Price": "3,164",
+    "city": "Delhi",
+    "id": 293
+  },
+  {
+    "Hotel Name": "Venizia Sarovar Portico",
+    "Rating": "3.6",
+    "Rating Description": "Very Good",
+    "Location": "North Delhi",
+    "Nearest Landmark": "",
+    "Price": "3,766",
+    "city": "Delhi",
+    "id": 294
+  },
+  {
+    "Hotel Name": "Centaur Hotel",
+    "Rating": "2.5",
+    "Rating Description": "Average",
+    "Location": "Delhi Airport",
+    "Nearest Landmark": "Indira Gandhi International Airport",
+    "Price": "3,202",
+    "city": "Delhi",
+    "id": 295
+  },
+  {
+    "Hotel Name": "The Orion Plaza - Nehru Place",
+    "Rating": "3.8",
+    "Rating Description": "Very Good",
+    "Location": "Near Nehru Place",
+    "Nearest Landmark": "",
+    "Price": "2,706",
+    "city": "Delhi",
+    "id": 296
+  },
+  {
+    "Hotel Name": "Dee Marks Hotel & Resort Delhi Airport",
+    "Rating": "3.4",
+    "Rating Description": "Good",
+    "Location": "Mahipalpur",
+    "Nearest Landmark": "Indira Gandhi International Airport",
+    "Price": "2,534",
+    "city": "Delhi",
+    "id": 297
+  },
+  {
+    "Hotel Name": "HOTEL LE SEASONS",
+    "Rating": "3.6",
+    "Rating Description": "Very Good",
+    "Location": "Mahipalpur",
+    "Nearest Landmark": "Indira Gandhi International Airport",
+    "Price": "2,653",
+    "city": "Delhi",
+    "id": 298
+  },
+  {
+    "Hotel Name": "Caspia Hotel New Delhi Shalimar Bagh",
+    "Rating": "3.4",
+    "Rating Description": "Good",
+    "Location": "North Delhi",
+    "Nearest Landmark": "",
+    "Price": "2,799",
+    "city": "Delhi",
+    "id": 299
+  },
+  {
+    "Hotel Name": "Park Inn by Radisson, Lajpat Nagar",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "Andrews Ganj",
+    "Nearest Landmark": "",
+    "Price": "6,999",
+    "city": "Delhi",
+    "id": 300
+  },
+  {
+    "Hotel Name": "Jukaso Inn Down Town",
+    "Rating": "3.6",
+    "Rating Description": "Very Good",
+    "Location": "Connaught Place",
+    "Nearest Landmark": "Connaught Place",
+    "Price": "3,134",
+    "city": "Delhi",
+    "id": 301
+  },
+  {
+    "Hotel Name": "Hotel LA New Delhi",
+    "Rating": "3.6",
+    "Rating Description": "Very Good",
+    "Location": "Mangolpuri",
+    "Nearest Landmark": "",
+    "Price": "3,438",
+    "city": "Delhi",
+    "id": 302
+  },
+  {
+    "Hotel Name": "Kelvish Hotel Near Delhi Airport",
+    "Rating": "3.9",
+    "Rating Description": "Very Good",
+    "Location": "Mahipalpur",
+    "Nearest Landmark": "Indira Gandhi International Airport",
+    "Price": "1,869",
+    "city": "Delhi",
+    "id": 303
+  },
+  {
+    "Hotel Name": "Radisson Hyderabad Hitec City",
+    "Rating": "3.7",
+    "Rating Description": "Very Good",
+    "Location": "Gachibowli",
+    "Nearest Landmark": "",
+    "Price": "4,500",
+    "city": "Hyderabad",
+    "id": 304
+  },
+  {
+    "Hotel Name": "The Park Hyderabad",
+    "Rating": "3.7",
+    "Rating Description": "Very Good",
+    "Location": "Somajiguda",
+    "Nearest Landmark": "",
+    "Price": "5,699",
+    "city": "Hyderabad",
+    "id": 305
+  },
+  {
+    "Hotel Name": "ITC Kohenur - A Luxury Collection Hotel",
+    "Rating": "4.3",
+    "Rating Description": "Excellent",
+    "Location": "Hitech City",
+    "Nearest Landmark": "",
+    "Price": "16,150",
+    "city": "Hyderabad",
+    "id": 306
+  },
+  {
+    "Hotel Name": "Fairfield by Marriott Hyderabad Gachibowli",
+    "Rating": "3.9",
+    "Rating Description": "Very Good",
+    "Location": "Gachibowli",
+    "Nearest Landmark": "",
+    "Price": "4,004",
+    "city": "Hyderabad",
+    "id": 307
+  },
+  {
+    "Hotel Name": "Radisson Blu Plaza Hotel",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "Banjara Hills",
+    "Nearest Landmark": "",
+    "Price": "7,250",
+    "city": "Hyderabad",
+    "id": 308
+  },
+  {
+    "Hotel Name": "Lemon Tree Hotel Gachibowli",
+    "Rating": "4",
+    "Rating Description": "Very Good",
+    "Location": "Gachibowli",
+    "Nearest Landmark": "",
+    "Price": "4,183",
+    "city": "Hyderabad",
+    "id": 309
+  },
+  {
+    "Hotel Name": "Red Fox Hotel Hyderabad",
+    "Rating": "3.9",
+    "Rating Description": "Very Good",
+    "Location": "Hitech City",
+    "Nearest Landmark": "",
+    "Price": "2,654",
+    "city": "Hyderabad",
+    "id": 310
+  },
+  {
+    "Hotel Name": "Lemon Tree Hotel, Banjara Hills, Hyderabad",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "Banjara Hills",
+    "Nearest Landmark": "",
+    "Price": "2,571",
+    "city": "Hyderabad",
+    "id": 311
+  },
+  {
+    "Hotel Name": "Taj Krishna, Hyderabad",
+    "Rating": "4.5",
+    "Rating Description": "Excellent",
+    "Location": "Banjara Hills",
+    "Nearest Landmark": "",
+    "Price": "8,000",
+    "city": "Hyderabad",
+    "id": 312
+  },
+  {
+    "Hotel Name": "Novotel Hyderabad Airport",
+    "Rating": "3.9",
+    "Rating Description": "Very Good",
+    "Location": "Near Hyderabad Airport",
+    "Nearest Landmark": "Rajiv Gandhi International Airport",
+    "Price": "12,999",
+    "city": "Hyderabad",
+    "id": 313
+  },
+  {
+    "Hotel Name": "Rester Select Kukatpally",
+    "Rating": "4",
+    "Rating Description": "Very Good",
+    "Location": "Kukatpally",
+    "Nearest Landmark": "",
+    "Price": "2,463",
+    "city": "Hyderabad",
+    "id": 314
+  },
+  {
+    "Hotel Name": "The Golkonda Hotel",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "Masab Tank",
+    "Nearest Landmark": "",
+    "Price": "5,499",
+    "city": "Hyderabad",
+    "id": 315
+  },
+  {
+    "Hotel Name": "Trident Hyderabad",
+    "Rating": "4.7",
+    "Rating Description": "Excellent",
+    "Location": "Hitech City",
+    "Nearest Landmark": "",
+    "Price": "14,250",
+    "city": "Hyderabad",
+    "id": 316
+  },
+  {
+    "Hotel Name": "Ellaa Hotel Gachibowli",
+    "Rating": "3.8",
+    "Rating Description": "Very Good",
+    "Location": "Gachibowli",
+    "Nearest Landmark": "",
+    "Price": "3,321",
+    "city": "Hyderabad",
+    "id": 317
+  },
+  {
+    "Hotel Name": "Lemon Tree Premier HITEC City Hyderabad",
+    "Rating": "4",
+    "Rating Description": "Very Good",
+    "Location": "Hitech City",
+    "Nearest Landmark": "",
+    "Price": "3,151",
+    "city": "Hyderabad",
+    "id": 318
+  },
+  {
+    "Hotel Name": "Siri Inn Hospitality | Rooms in an Apartment\r\nLike a 3",
+    "Rating": "3.6",
+    "Rating Description": "Very Good",
+    "Location": "Hitech City",
+    "Nearest Landmark": "",
+    "Price": "1,287",
+    "city": "Hyderabad",
+    "id": 319
+  },
+  {
+    "Hotel Name": "ibis Hyderabad HITEC City - An Accor Brand",
+    "Rating": "3.8",
+    "Rating Description": "Very Good",
+    "Location": "Hitech City",
+    "Nearest Landmark": "",
+    "Price": "4,499",
+    "city": "Hyderabad",
+    "id": 320
+  },
+  {
+    "Hotel Name": "Hyatt Place Hyderabad Banjara Hills",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "Banjara Hills",
+    "Nearest Landmark": "",
+    "Price": "7,249",
+    "city": "Hyderabad",
+    "id": 321
+  },
+  {
+    "Hotel Name": "Vivanta Hyderabad, Begumpet",
+    "Rating": "4.4",
+    "Rating Description": "Excellent",
+    "Location": "Begumpet",
+    "Nearest Landmark": "",
+    "Price": "6,500",
+    "city": "Hyderabad",
+    "id": 322
+  },
+  {
+    "Hotel Name": "Zen Comfort",
+    "Rating": "4",
+    "Rating Description": "Very Good",
+    "Location": "Gachibowli",
+    "Nearest Landmark": "",
+    "Price": "1,438",
+    "city": "Hyderabad",
+    "id": 323
+  },
+  {
+    "Hotel Name": "Hyderabad Marriott Hotel and Convention Centre",
+    "Rating": "4.3",
+    "Rating Description": "Excellent",
+    "Location": "Kavadiguda",
+    "Nearest Landmark": "",
+    "Price": "6,500",
+    "city": "Hyderabad",
+    "id": 324
+  },
+  {
+    "Hotel Name": "HOTEL SIGNATURE AIRPORT ZONE SHAMSHABAD",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "Shamshabad",
+    "Nearest Landmark": "Rajiv Gandhi International Airport",
+    "Price": "2,217",
+    "city": "Hyderabad",
+    "id": 325
+  },
+  {
+    "Hotel Name": "Daspalla Hotel",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "Jubilee Hills",
+    "Nearest Landmark": "",
+    "Price": "5,413",
+    "city": "Hyderabad",
+    "id": 326
+  },
+  {
+    "Hotel Name": "Hotel OAK by Signature",
+    "Rating": "4.2",
+    "Rating Description": "Very Good",
+    "Location": "Shamshabad",
+    "Nearest Landmark": "Rajiv Gandhi International Airport",
+    "Price": "1,317",
+    "city": "Hyderabad",
+    "id": 327
+  },
+  {
+    "Hotel Name": "Aditya Park Hyderabad - A Sarovar Hotel",
+    "Rating": "4",
+    "Rating Description": "Very Good",
+    "Location": "Ameerpet",
+    "Nearest Landmark": "",
+    "Price": "6,111",
+    "city": "Hyderabad",
+    "id": 328
+  },
+  {
+    "Hotel Name": "Park Hyatt Hotel and Residences, Hyderabad",
+    "Rating": "4.2",
+    "Rating Description": "Very Good",
+    "Location": "Sri Nagar Colony",
+    "Nearest Landmark": "",
+    "Price": "10,000",
+    "city": "Hyderabad",
+    "id": 329
+  },
+  {
+    "Hotel Name": "Marigold By Green Park",
+    "Rating": "4.3",
+    "Rating Description": "Excellent",
+    "Location": "Ameerpet",
+    "Nearest Landmark": "",
+    "Price": "5,714",
+    "city": "Hyderabad",
+    "id": 330
+  },
+  {
+    "Hotel Name": "Hotel Hyderabad Grand",
+    "Rating": "3.8",
+    "Rating Description": "Very Good",
+    "Location": "Shamshabad",
+    "Nearest Landmark": "Rajiv Gandhi International Airport",
+    "Price": "3,028",
+    "city": "Hyderabad",
+    "id": 331
+  },
+  {
+    "Hotel Name": "Green Park",
+    "Rating": "4.2",
+    "Rating Description": "Very Good",
+    "Location": "Ameerpet",
+    "Nearest Landmark": "",
+    "Price": "5,122",
+    "city": "Hyderabad",
+    "id": 332
+  },
+  {
+    "Hotel Name": "The Central Court",
+    "Rating": "3.6",
+    "Rating Description": "Very Good",
+    "Location": "Lakdikapul",
+    "Nearest Landmark": "",
+    "Price": "2,041",
+    "city": "Hyderabad",
+    "id": 333
+  },
+  {
+    "Hotel Name": "Holiday Inn Express Hyderabad HITEC City",
+    "Rating": "3.5",
+    "Rating Description": "Very Good",
+    "Location": "Hitech City",
+    "Nearest Landmark": "",
+    "Price": "4,499",
+    "city": "Hyderabad",
+    "id": 334
+  },
+  {
+    "Hotel Name": "Slackpackr Hostel",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "Begumpet",
+    "Nearest Landmark": "",
+    "Price": "849",
+    "city": "Hyderabad",
+    "id": 335
+  },
+  {
+    "Hotel Name": "Holiday Inn Express Hyderabad Banjara Hills",
+    "Rating": "3.5",
+    "Rating Description": "Very Good",
+    "Location": "Punjagutta",
+    "Nearest Landmark": "",
+    "Price": "4,140",
+    "city": "Hyderabad",
+    "id": 336
+  },
+  {
+    "Hotel Name": "CITADEL Hotel By Vinnca",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "Gaghan Pahad",
+    "Nearest Landmark": "",
+    "Price": "2,932",
+    "city": "Hyderabad",
+    "id": 337
+  },
+  {
+    "Hotel Name": "Aditya Hometel Hyderabad - A Sarovar Hotel",
+    "Rating": "3.5",
+    "Rating Description": "Very Good",
+    "Location": "Ameerpet",
+    "Nearest Landmark": "",
+    "Price": "1,860",
+    "city": "Hyderabad",
+    "id": 338
+  },
+  {
+    "Hotel Name": "Hotel Deccan Serai Grande",
+    "Rating": "4.4",
+    "Rating Description": "Excellent",
+    "Location": "Gachibowli",
+    "Nearest Landmark": "",
+    "Price": "7,014",
+    "city": "Hyderabad",
+    "id": 339
+  },
+  {
+    "Hotel Name": "Katriya Hotel and Towers",
+    "Rating": "2.8",
+    "Rating Description": "Average",
+    "Location": "Somajiguda",
+    "Nearest Landmark": "",
+    "Price": "3,761",
+    "city": "Hyderabad",
+    "id": 340
+  },
+  {
+    "Hotel Name": "Hotel Saptagiri Hyderabad",
+    "Rating": "3.8",
+    "Rating Description": "Very Good",
+    "Location": "Shivaji Nagar",
+    "Nearest Landmark": "Secunderabad Junction Railway Station",
+    "Price": "2,724",
+    "city": "Hyderabad",
+    "id": 341
+  },
+  {
+    "Hotel Name": "Hampshire Plaza Hotel",
+    "Rating": "3.8",
+    "Rating Description": "Very Good",
+    "Location": "Lakdikapul",
+    "Nearest Landmark": "",
+    "Price": "3,379",
+    "city": "Hyderabad",
+    "id": 342
+  },
+  {
+    "Hotel Name": "Taj Deccan, Hyderabad",
+    "Rating": "4.4",
+    "Rating Description": "Excellent",
+    "Location": "Banjara Hills",
+    "Nearest Landmark": "",
+    "Price": "6,990",
+    "city": "Hyderabad",
+    "id": 343
+  },
+  {
+    "Hotel Name": "Avasa Hotel",
+    "Rating": "4.2",
+    "Rating Description": "Very Good",
+    "Location": "Madhapur",
+    "Nearest Landmark": "",
+    "Price": "6,696",
+    "city": "Hyderabad",
+    "id": 344
+  },
+  {
+    "Hotel Name": "Hotel Akoya - HITECH City Hyderabad",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "Hitech City",
+    "Nearest Landmark": "",
+    "Price": "2,471",
+    "city": "Hyderabad",
+    "id": 345
+  },
+  {
+    "Hotel Name": "MARIGOLD AT NEST",
+    "Rating": "3.8",
+    "Rating Description": "Very Good",
+    "Location": "Gachibowli",
+    "Nearest Landmark": "",
+    "Price": "1,346",
+    "city": "Hyderabad",
+    "id": 346
+  },
+  {
+    "Hotel Name": "HOTEL RAINTR33",
+    "Rating": "3.8",
+    "Rating Description": "Very Good",
+    "Location": "Hitech City",
+    "Nearest Landmark": "",
+    "Price": "2,011",
+    "city": "Hyderabad",
+    "id": 347
+  },
+  {
+    "Hotel Name": "Urban Nest Luxury Rooms",
+    "Rating": "3.9",
+    "Rating Description": "Very Good",
+    "Location": "Kokapet",
+    "Nearest Landmark": "",
+    "Price": "1,046",
+    "city": "Hyderabad",
+    "id": 348
+  },
+  {
+    "Hotel Name": "Novotel Hyderabad Convention Centre",
+    "Rating": "4.2",
+    "Rating Description": "Very Good",
+    "Location": "Hitech City",
+    "Nearest Landmark": "",
+    "Price": "10,500",
+    "city": "Hyderabad",
+    "id": 349
+  },
+  {
+    "Hotel Name": "Hotel B Plus L",
+    "Rating": "4",
+    "Rating Description": "Very Good",
+    "Location": "Hitech City",
+    "Nearest Landmark": "",
+    "Price": "3,360",
+    "city": "Hyderabad",
+    "id": 350
+  },
+  {
+    "Hotel Name": "La Hometel Hotel - HITECH City Hyderabad",
+    "Rating": "3.9",
+    "Rating Description": "Very Good",
+    "Location": "Hitech City",
+    "Nearest Landmark": "",
+    "Price": "1,435",
+    "city": "Hyderabad",
+    "id": 351
+  },
+  {
+    "Hotel Name": "Le Meridien Hyderabad",
+    "Rating": "4.3",
+    "Rating Description": "Excellent",
+    "Location": "Gachibowli",
+    "Nearest Landmark": "",
+    "Price": "10,500",
+    "city": "Hyderabad",
+    "id": 352
+  },
+  {
+    "Hotel Name": "Restel Studio Flats\r\nLike a 3",
+    "Rating": "4.2",
+    "Rating Description": "Very Good",
+    "Location": "Borabanda",
+    "Nearest Landmark": "",
+    "Price": "1,801",
+    "city": "Hyderabad",
+    "id": 353
+  },
+  {
+    "Hotel Name": "The Conclave",
+    "Rating": "3.2",
+    "Rating Description": "Good",
+    "Location": "Gachibowli",
+    "Nearest Landmark": "",
+    "Price": "1,613",
+    "city": "Hyderabad",
+    "id": 354
+  },
+  {
+    "Hotel Name": "The Landmark Banjara Hills",
+    "Rating": "4",
+    "Rating Description": "Very Good",
+    "Location": "Banjara Hills",
+    "Nearest Landmark": "",
+    "Price": "1,696",
+    "city": "Hyderabad",
+    "id": 355
+  },
+  {
+    "Hotel Name": "THE CENT",
+    "Rating": "3.3",
+    "Rating Description": "Good",
+    "Location": "Lakdikapul",
+    "Nearest Landmark": "",
+    "Price": "1,662",
+    "city": "Hyderabad",
+    "id": 356
+  },
+  {
+    "Hotel Name": "Courtyard by Marriott Hyderabad",
+    "Rating": "4.5",
+    "Rating Description": "Excellent",
+    "Location": "Kavadiguda",
+    "Nearest Landmark": "",
+    "Price": "6,000",
+    "city": "Hyderabad",
+    "id": 357
+  },
+  {
+    "Hotel Name": "The Wilderness Retreat | Rooms & Restaurant\r\nLike a 4",
+    "Rating": "3.9",
+    "Rating Description": "Very Good",
+    "Location": "Gandipet",
+    "Nearest Landmark": "",
+    "Price": "7,346",
+    "city": "Hyderabad",
+    "id": 358
+  },
+  {
+    "Hotel Name": "The Altruist Business Hotel (Hitech)",
+    "Rating": "3.7",
+    "Rating Description": "Very Good",
+    "Location": "Shilpa Hills",
+    "Nearest Landmark": "",
+    "Price": "4,278",
+    "city": "Hyderabad",
+    "id": 359
+  },
+  {
+    "Hotel Name": "Istay Hotels Hitec",
+    "Rating": "3.7",
+    "Rating Description": "Very Good",
+    "Location": "Kondapur",
+    "Nearest Landmark": "",
+    "Price": "2,913",
+    "city": "Hyderabad",
+    "id": 360
+  },
+  {
+    "Hotel Name": "Hyatt Hyderabad Gachibowli",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "Gachibowli",
+    "Nearest Landmark": "",
+    "Price": "8,750",
+    "city": "Hyderabad",
+    "id": 361
+  },
+  {
+    "Hotel Name": "The Art Boutique Hotel",
+    "Rating": "3.8",
+    "Rating Description": "Very Good",
+    "Location": "Gachibowli",
+    "Nearest Landmark": "",
+    "Price": "2,197",
+    "city": "Hyderabad",
+    "id": 362
+  },
+  {
+    "Hotel Name": "Hotel Imperial Classic",
+    "Rating": "3.9",
+    "Rating Description": "Very Good",
+    "Location": "Himayat Nagar",
+    "Nearest Landmark": "",
+    "Price": "1,068",
+    "city": "Hyderabad",
+    "id": 363
+  },
+  {
+    "Hotel Name": "Mercure Hyderabad KCP - An AccorHotels brand",
+    "Rating": "4.2",
+    "Rating Description": "Very Good",
+    "Location": "Punjagutta",
+    "Nearest Landmark": "",
+    "Price": "5,000",
+    "city": "Hyderabad",
+    "id": 364
+  },
+  {
+    "Hotel Name": "Veeraj Suites",
+    "Rating": "4",
+    "Rating Description": "Very Good",
+    "Location": "Rai Durg",
+    "Nearest Landmark": "",
+    "Price": "2,170",
+    "city": "Hyderabad",
+    "id": 365
+  },
+  {
+    "Hotel Name": "Bloom Hotel - Gachibowli",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "Gachibowli",
+    "Nearest Landmark": "",
+    "Price": "4,500",
+    "city": "Hyderabad",
+    "id": 366
+  },
+  {
+    "Hotel Name": "Oakwood Residence Kapil Hyderabad",
+    "Rating": "4.5",
+    "Rating Description": "Excellent",
+    "Location": "Gachibowli",
+    "Nearest Landmark": "",
+    "Price": "7,500",
+    "city": "Hyderabad",
+    "id": 367
+  },
+  {
+    "Hotel Name": "Aalankrita Resort & Convention",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "Secunderabad",
+    "Nearest Landmark": "city centre",
+    "Price": "4,484",
+    "city": "Hyderabad",
+    "id": 368
+  },
+  {
+    "Hotel Name": "Minerva Grand- Kondapur",
+    "Rating": "3.9",
+    "Rating Description": "Very Good",
+    "Location": "Kothaguda",
+    "Nearest Landmark": "",
+    "Price": "4,371",
+    "city": "Hyderabad",
+    "id": 369
+  },
+  {
+    "Hotel Name": "M SQUARE HOTEL",
+    "Rating": "3.9",
+    "Rating Description": "Very Good",
+    "Location": "Hitech City",
+    "Nearest Landmark": "",
+    "Price": "4,395",
+    "city": "Hyderabad",
+    "id": 370
+  },
+  {
+    "Hotel Name": "Sri Sri Suites",
+    "Rating": "3.4",
+    "Rating Description": "Good",
+    "Location": "Madhapur",
+    "Nearest Landmark": "",
+    "Price": "1,208",
+    "city": "Hyderabad",
+    "id": 371
+  },
+  {
+    "Hotel Name": "The Manohar",
+    "Rating": "2.7",
+    "Rating Description": "Average",
+    "Location": "Begumpet",
+    "Nearest Landmark": "",
+    "Price": "3,158",
+    "city": "Hyderabad",
+    "id": 372
+  },
+  {
+    "Hotel Name": "The Lime Boutique Suites",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "Gachibowli",
+    "Nearest Landmark": "",
+    "Price": "2,976",
+    "city": "Hyderabad",
+    "id": 373
+  },
+  {
+    "Hotel Name": "Taj Tristar",
+    "Rating": "3.9",
+    "Rating Description": "Very Good",
+    "Location": "Secunderabad",
+    "Nearest Landmark": "city centre",
+    "Price": "2,271",
+    "city": "Hyderabad",
+    "id": 374
+  },
+  {
+    "Hotel Name": "Minerva Grand - Banjara",
+    "Rating": "4",
+    "Rating Description": "Very Good",
+    "Location": "Banjara Hills",
+    "Nearest Landmark": "",
+    "Price": "4,464",
+    "city": "Hyderabad",
+    "id": 375
+  },
+  {
+    "Hotel Name": "Sheraton Hyderabad",
+    "Rating": "4.3",
+    "Rating Description": "Excellent",
+    "Location": "Gachibowli",
+    "Nearest Landmark": "",
+    "Price": "1,25,000",
+    "city": "Hyderabad",
+    "id": 376
+  },
+  {
+    "Hotel Name": "ITC Kakatiya - A Luxury Collection Hotel",
+    "Rating": "4.2",
+    "Rating Description": "Very Good",
+    "Location": "Begumpet",
+    "Nearest Landmark": "",
+    "Price": "9,690",
+    "city": "Hyderabad",
+    "id": 377
+  },
+  {
+    "Hotel Name": "Bikanervala Boutique Hotel",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "Banjara Hills",
+    "Nearest Landmark": "",
+    "Price": "3,488",
+    "city": "Hyderabad",
+    "id": 378
+  },
+  {
+    "Hotel Name": "The Park Kolkata",
+    "Rating": "3.9",
+    "Rating Description": "Very Good",
+    "Location": "New Market Area",
+    "Nearest Landmark": "Park Street",
+    "Price": "4,207",
+    "city": "Kolkata",
+    "id": 379
+  },
+  {
+    "Hotel Name": "Zone By The Park, Kolkata",
+    "Rating": "3.8",
+    "Rating Description": "Very Good",
+    "Location": "New Town",
+    "Nearest Landmark": "",
+    "Price": "3,915",
+    "city": "Kolkata",
+    "id": 380
+  },
+  {
+    "Hotel Name": "JW Marriott Hotel Kolkata",
+    "Rating": "4.4",
+    "Rating Description": "Excellent",
+    "Location": "Tangra",
+    "Nearest Landmark": "",
+    "Price": "7,800",
+    "city": "Kolkata",
+    "id": 381
+  },
+  {
+    "Hotel Name": "ibis Kolkata Rajarhat - An Accor Brand",
+    "Rating": "3.9",
+    "Rating Description": "Very Good",
+    "Location": "New Town",
+    "Nearest Landmark": "",
+    "Price": "2,220",
+    "city": "Kolkata",
+    "id": 382
+  },
+  {
+    "Hotel Name": "The Lalit Great Eastern Kolkata",
+    "Rating": "4.2",
+    "Rating Description": "Very Good",
+    "Location": "Bow Barracks",
+    "Nearest Landmark": "Eden Gardens",
+    "Price": "6,365",
+    "city": "Kolkata",
+    "id": 383
+  },
+  {
+    "Hotel Name": "ITC Royal Bengal - A Luxury Collection Hotel",
+    "Rating": "4.5",
+    "Rating Description": "Excellent",
+    "Location": "Tangra",
+    "Nearest Landmark": "",
+    "Price": "8,925",
+    "city": "Kolkata",
+    "id": 384
+  },
+  {
+    "Hotel Name": "Lemon Tree Premier, New Town, Kolkata",
+    "Rating": "4.2",
+    "Rating Description": "Very Good",
+    "Location": "New Town",
+    "Nearest Landmark": "",
+    "Price": "2,156",
+    "city": "Kolkata",
+    "id": 385
+  },
+  {
+    "Hotel Name": "Novotel Kolkata Hotel and Residences",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "New Town",
+    "Nearest Landmark": "",
+    "Price": "5,060",
+    "city": "Kolkata",
+    "id": 386
+  },
+  {
+    "Hotel Name": "All Fresco Hotel",
+    "Rating": "3.7",
+    "Rating Description": "Very Good",
+    "Location": "Baguiati",
+    "Nearest Landmark": "Netaji Subhash Chandra Bose International Airport",
+    "Price": "1,637",
+    "city": "Kolkata",
+    "id": 387
+  },
+  {
+    "Hotel Name": "Regenta Orko's Kolkata",
+    "Rating": "3.9",
+    "Rating Description": "Very Good",
+    "Location": "Kasba",
+    "Nearest Landmark": "Acropolis Mall",
+    "Price": "3,321",
+    "city": "Kolkata",
+    "id": 388
+  },
+  {
+    "Hotel Name": "Holiday Inn Express, Kolkata Airport",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "Dum Dum",
+    "Nearest Landmark": "Netaji Subhash Chandra Bose International Airport",
+    "Price": "4,099",
+    "city": "Kolkata",
+    "id": 389
+  },
+  {
+    "Hotel Name": "Himalayan Inn Guest House - Near TCS Gitobitan",
+    "Rating": "3.3",
+    "Rating Description": "Good",
+    "Location": "Salt Lake City",
+    "Nearest Landmark": "",
+    "Price": "724",
+    "city": "Kolkata",
+    "id": 390
+  },
+  {
+    "Hotel Name": "Holiday Inn Kolkata Airport",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "Chinar Park",
+    "Nearest Landmark": "Netaji Subhash Chandra Bose International Airport",
+    "Price": "4,600",
+    "city": "Kolkata",
+    "id": 391
+  },
+  {
+    "Hotel Name": "Taj City Centre New Town, Kolkata",
+    "Rating": "4.4",
+    "Rating Description": "Excellent",
+    "Location": "Rajarhat",
+    "Nearest Landmark": "Netaji Subhash Chandra Bose International Airport",
+    "Price": "5,650",
+    "city": "Kolkata",
+    "id": 392
+  },
+  {
+    "Hotel Name": "Vivanta Kolkata, EM Bypass",
+    "Rating": "4.4",
+    "Rating Description": "Excellent",
+    "Location": "East Kolkata Township",
+    "Nearest Landmark": "",
+    "Price": "5,500",
+    "city": "Kolkata",
+    "id": 393
+  },
+  {
+    "Hotel Name": "Hyatt Regency Kolkata",
+    "Rating": "4.2",
+    "Rating Description": "Very Good",
+    "Location": "Salt Lake City",
+    "Nearest Landmark": "Salt Lake Stadium",
+    "Price": "5,780",
+    "city": "Kolkata",
+    "id": 394
+  },
+  {
+    "Hotel Name": "Bandhan Residency\r\nLike a 3",
+    "Rating": "3.7",
+    "Rating Description": "Very Good",
+    "Location": "Kaikhali",
+    "Nearest Landmark": "Netaji Subhash Chandra Bose International Airport",
+    "Price": "1,102",
+    "city": "Kolkata",
+    "id": 395
+  },
+  {
+    "Hotel Name": "The Oberoi Grand",
+    "Rating": "4.7",
+    "Rating Description": "Excellent",
+    "Location": "New Market Area",
+    "Nearest Landmark": "Park Street",
+    "Price": "8,000",
+    "city": "Kolkata",
+    "id": 396
+  },
+  {
+    "Hotel Name": "Fairfield by Marriott, Kolkata",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "New Town",
+    "Nearest Landmark": "",
+    "Price": "2,499",
+    "city": "Kolkata",
+    "id": 397
+  },
+  {
+    "Hotel Name": "Ethnotel",
+    "Rating": "4",
+    "Rating Description": "Very Good",
+    "Location": "Dum Dum",
+    "Nearest Landmark": "Netaji Subhash Chandra Bose International Airport",
+    "Price": "2,949",
+    "city": "Kolkata",
+    "id": 398
+  },
+  {
+    "Hotel Name": "Backpackers Park Hostel @ParkStreet",
+    "Rating": "3.8",
+    "Rating Description": "Very Good",
+    "Location": "New Market Area",
+    "Nearest Landmark": "Park Street",
+    "Price": "893",
+    "city": "Kolkata",
+    "id": 399
+  },
+  {
+    "Hotel Name": "THE WESTIN KOLKATA RAJARHAT",
+    "Rating": "4.4",
+    "Rating Description": "Excellent",
+    "Location": "New Town",
+    "Nearest Landmark": "Netaji Subhash Chandra Bose International Airport",
+    "Price": "5,699",
+    "city": "Kolkata",
+    "id": 400
+  },
+  {
+    "Hotel Name": "Taj Bengal, Kolkata",
+    "Rating": "4.6",
+    "Rating Description": "Excellent",
+    "Location": "Alipore",
+    "Nearest Landmark": "",
+    "Price": "8,000",
+    "city": "Kolkata",
+    "id": 401
+  },
+  {
+    "Hotel Name": "Hotel Senses",
+    "Rating": "3.9",
+    "Rating Description": "Very Good",
+    "Location": "Salt Lake City",
+    "Nearest Landmark": "Salt Lake Sec V",
+    "Price": "3,716",
+    "city": "Kolkata",
+    "id": 402
+  },
+  {
+    "Hotel Name": "ITC Sonar - A Luxury Collection Hotel",
+    "Rating": "4.4",
+    "Rating Description": "Excellent",
+    "Location": "Tangra",
+    "Nearest Landmark": "",
+    "Price": "7,225",
+    "city": "Kolkata",
+    "id": 403
+  },
+  {
+    "Hotel Name": "Kenilworth Hotel",
+    "Rating": "4.3",
+    "Rating Description": "Excellent",
+    "Location": "Park Street Area",
+    "Nearest Landmark": "",
+    "Price": "6,054",
+    "city": "Kolkata",
+    "id": 404
+  },
+  {
+    "Hotel Name": "The Peerless Inn",
+    "Rating": "3.9",
+    "Rating Description": "Very Good",
+    "Location": "Near Howrah Train Station",
+    "Nearest Landmark": "Eden Gardens",
+    "Price": "4,186",
+    "city": "Kolkata",
+    "id": 405
+  },
+  {
+    "Hotel Name": "De Sovrani",
+    "Rating": "3.9",
+    "Rating Description": "Very Good",
+    "Location": "Salt Lake City",
+    "Nearest Landmark": "",
+    "Price": "2,916",
+    "city": "Kolkata",
+    "id": 406
+  },
+  {
+    "Hotel Name": "Pride Plaza Hotel, Kolkata",
+    "Rating": "3.9",
+    "Rating Description": "Very Good",
+    "Location": "New Town",
+    "Nearest Landmark": "",
+    "Price": "2,800",
+    "city": "Kolkata",
+    "id": 407
+  },
+  {
+    "Hotel Name": "City Central Hostel, Kolkata",
+    "Rating": "4.6",
+    "Rating Description": "Excellent",
+    "Location": "Kolkata",
+    "Nearest Landmark": "Dharamtala Market",
+    "Price": "736",
+    "city": "Kolkata",
+    "id": 408
+  },
+  {
+    "Hotel Name": "Siamton Inn - A Cygnett Collection",
+    "Rating": "4",
+    "Rating Description": "Very Good",
+    "Location": "Park Street",
+    "Nearest Landmark": "Park Street",
+    "Price": "2,790",
+    "city": "Kolkata",
+    "id": 409
+  },
+  {
+    "Hotel Name": "Hotel Aauris",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "Park Street",
+    "Nearest Landmark": "Park Street",
+    "Price": "4,650",
+    "city": "Kolkata",
+    "id": 410
+  },
+  {
+    "Hotel Name": "Howard Johnson by Wyndham, Kolkata Airport",
+    "Rating": "3.9",
+    "Rating Description": "Very Good",
+    "Location": "Chinar Park",
+    "Nearest Landmark": "Netaji Subhash Chandra Bose International Airport",
+    "Price": "2,500",
+    "city": "Kolkata",
+    "id": 411
+  },
+  {
+    "Hotel Name": "Park Prime Kolkata",
+    "Rating": "3.8",
+    "Rating Description": "Very Good",
+    "Location": "Ballygunge",
+    "Nearest Landmark": "",
+    "Price": "3,652",
+    "city": "Kolkata",
+    "id": 412
+  },
+  {
+    "Hotel Name": "Joey's Nest",
+    "Rating": "4.7",
+    "Rating Description": "Excellent",
+    "Location": "Salt Lake City",
+    "Nearest Landmark": "Netaji Subhash Chandra Bose International Airport",
+    "Price": "2,245",
+    "city": "Kolkata",
+    "id": 413
+  },
+  {
+    "Hotel Name": "Hotel Hindusthan International",
+    "Rating": "3.6",
+    "Rating Description": "Very Good",
+    "Location": "Bhowanipore",
+    "Nearest Landmark": "",
+    "Price": "4,134",
+    "city": "Kolkata",
+    "id": 414
+  },
+  {
+    "Hotel Name": "Hotel Niharika",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "Elgin",
+    "Nearest Landmark": "",
+    "Price": "2,790",
+    "city": "Kolkata",
+    "id": 415
+  },
+  {
+    "Hotel Name": "Vedic Village Spa Resort",
+    "Rating": "4",
+    "Rating Description": "Very Good",
+    "Location": "Vedic Village",
+    "Nearest Landmark": "",
+    "Price": "3,688",
+    "city": "Kolkata",
+    "id": 416
+  },
+  {
+    "Hotel Name": "Park Palace Hotel",
+    "Rating": "3.6",
+    "Rating Description": "Very Good",
+    "Location": "Ballygunge",
+    "Nearest Landmark": "",
+    "Price": "1,350",
+    "city": "Kolkata",
+    "id": 417
+  },
+  {
+    "Hotel Name": "Offbeat CCU Bunkers",
+    "Rating": "4.3",
+    "Rating Description": "Excellent",
+    "Location": "Topsia",
+    "Nearest Landmark": "",
+    "Price": "944",
+    "city": "Kolkata",
+    "id": 418
+  },
+  {
+    "Hotel Name": "Monotel Luxury Business Hotel",
+    "Rating": "3.9",
+    "Rating Description": "Very Good",
+    "Location": "Salt Lake City",
+    "Nearest Landmark": "",
+    "Price": "3,523",
+    "city": "Kolkata",
+    "id": 419
+  },
+  {
+    "Hotel Name": "AIRPORT CITY HOTEL",
+    "Rating": "3.9",
+    "Rating Description": "Very Good",
+    "Location": "Birati",
+    "Nearest Landmark": "Netaji Subhash Chandra Bose International Airport",
+    "Price": "2,994",
+    "city": "Kolkata",
+    "id": 420
+  },
+  {
+    "Hotel Name": "The Lindsay",
+    "Rating": "3.5",
+    "Rating Description": "Very Good",
+    "Location": "New Market Area",
+    "Nearest Landmark": "Park Street",
+    "Price": "2,907",
+    "city": "Kolkata",
+    "id": 421
+  },
+  {
+    "Hotel Name": "RituIvy",
+    "Rating": "4",
+    "Rating Description": "Very Good",
+    "Location": "East Kolkata Township",
+    "Nearest Landmark": "",
+    "Price": "2,132",
+    "city": "Kolkata",
+    "id": 422
+  },
+  {
+    "Hotel Name": "Hotel O2 Oxygen",
+    "Rating": "3.8",
+    "Rating Description": "Very Good",
+    "Location": "Near Kolkata Airport",
+    "Nearest Landmark": "Netaji Subhash Chandra Bose International Airport",
+    "Price": "2,856",
+    "city": "Kolkata",
+    "id": 423
+  },
+  {
+    "Hotel Name": "VISITEL - A BOUTIQUE HOTEL",
+    "Rating": "3.8",
+    "Rating Description": "Very Good",
+    "Location": "Kankurgachi",
+    "Nearest Landmark": "",
+    "Price": "1,991",
+    "city": "Kolkata",
+    "id": 424
+  },
+  {
+    "Hotel Name": "IndiSmart Hotel",
+    "Rating": "3.9",
+    "Rating Description": "Very Good",
+    "Location": "Salt Lake City",
+    "Nearest Landmark": "",
+    "Price": "1,999",
+    "city": "Kolkata",
+    "id": 425
+  },
+  {
+    "Hotel Name": "LYNQ AERO",
+    "Rating": "4",
+    "Rating Description": "Very Good",
+    "Location": "Salt Lake City",
+    "Nearest Landmark": "",
+    "Price": "3,242",
+    "city": "Kolkata",
+    "id": 426
+  },
+  {
+    "Hotel Name": "Park Guest House, Kolkata",
+    "Rating": "3.7",
+    "Rating Description": "Very Good",
+    "Location": "Park Street",
+    "Nearest Landmark": "Park Street",
+    "Price": "1,045",
+    "city": "Kolkata",
+    "id": 427
+  },
+  {
+    "Hotel Name": "Regenta Inn Larica",
+    "Rating": "3.6",
+    "Rating Description": "Very Good",
+    "Location": "Chinar Park",
+    "Nearest Landmark": "Netaji Subhash Chandra Bose International Airport",
+    "Price": "2,713",
+    "city": "Kolkata",
+    "id": 428
+  },
+  {
+    "Hotel Name": "Golden Tulip Kolkata",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "Salt Lake City",
+    "Nearest Landmark": "",
+    "Price": "3,772",
+    "city": "Kolkata",
+    "id": 429
+  },
+  {
+    "Hotel Name": "The Senator",
+    "Rating": "4.3",
+    "Rating Description": "Excellent",
+    "Location": "Elgin",
+    "Nearest Landmark": "",
+    "Price": "2,511",
+    "city": "Kolkata",
+    "id": 430
+  },
+  {
+    "Hotel Name": "Gallery 67",
+    "Rating": "4.2",
+    "Rating Description": "Very Good",
+    "Location": "Ghose Bagan",
+    "Nearest Landmark": "Netaji Subhash Chandra Bose International Airport",
+    "Price": "2,536",
+    "city": "Kolkata",
+    "id": 431
+  },
+  {
+    "Hotel Name": "CHOWDHURY'S ESTATES",
+    "Rating": "3.5",
+    "Rating Description": "Very Good",
+    "Location": "Elgin",
+    "Nearest Landmark": "",
+    "Price": "1,935",
+    "city": "Kolkata",
+    "id": 432
+  },
+  {
+    "Hotel Name": "Pipal Tree Hotel",
+    "Rating": "4",
+    "Rating Description": "Very Good",
+    "Location": "Chinar Park",
+    "Nearest Landmark": "Netaji Subhash Chandra Bose International Airport",
+    "Price": "3,579",
+    "city": "Kolkata",
+    "id": 433
+  },
+  {
+    "Hotel Name": "Stayotel",
+    "Rating": "4",
+    "Rating Description": "Very Good",
+    "Location": "Dum Dum",
+    "Nearest Landmark": "Netaji Subhash Chandra Bose International Airport",
+    "Price": "2,365",
+    "city": "Kolkata",
+    "id": 434
+  },
+  {
+    "Hotel Name": "Raajkutir, Kolkata - IHCL SeleQtions",
+    "Rating": "4.6",
+    "Rating Description": "Excellent",
+    "Location": "Kankurgachi",
+    "Nearest Landmark": "Salt Lake Stadium",
+    "Price": "5,350",
+    "city": "Kolkata",
+    "id": 435
+  },
+  {
+    "Hotel Name": "The Sonnet",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "Salt Lake City",
+    "Nearest Landmark": "",
+    "Price": "4,937",
+    "city": "Kolkata",
+    "id": 436
+  },
+  {
+    "Hotel Name": "Krishna Kunja | Rooms & Caretaker\r\nLike a 3",
+    "Rating": "4.6",
+    "Rating Description": "Excellent",
+    "Location": "South Dum Dum",
+    "Nearest Landmark": "Netaji Subhash Chandra Bose International Airport",
+    "Price": "1,440",
+    "city": "Kolkata",
+    "id": 437
+  },
+  {
+    "Hotel Name": "Aristocrat Hotel",
+    "Rating": "3.7",
+    "Rating Description": "Very Good",
+    "Location": "New Town",
+    "Nearest Landmark": "",
+    "Price": "1,966",
+    "city": "Kolkata",
+    "id": 438
+  },
+  {
+    "Hotel Name": "The Fern Residency Kolkata",
+    "Rating": "3.8",
+    "Rating Description": "Very Good",
+    "Location": "Chinar Park",
+    "Nearest Landmark": "Netaji Subhash Chandra Bose International Airport",
+    "Price": "2,462",
+    "city": "Kolkata",
+    "id": 439
+  },
+  {
+    "Hotel Name": "Sapphire Suites",
+    "Rating": "3.8",
+    "Rating Description": "Very Good",
+    "Location": "New Market Area",
+    "Nearest Landmark": "Park Street",
+    "Price": "3,089",
+    "city": "Kolkata",
+    "id": 440
+  },
+  {
+    "Hotel Name": "Victoria Hotel",
+    "Rating": "4",
+    "Rating Description": "Very Good",
+    "Location": "Chinar Park",
+    "Nearest Landmark": "Netaji Subhash Chandra Bose International Airport",
+    "Price": "2,388",
+    "city": "Kolkata",
+    "id": 441
+  },
+  {
+    "Hotel Name": "The Pearl Hotel",
+    "Rating": "3.3",
+    "Rating Description": "Good",
+    "Location": "Beliaghata",
+    "Nearest Landmark": "Salt Lake Stadium",
+    "Price": "1,517",
+    "city": "Kolkata",
+    "id": 442
+  },
+  {
+    "Hotel Name": "The Astor",
+    "Rating": "4.2",
+    "Rating Description": "Very Good",
+    "Location": "Park Street Area",
+    "Nearest Landmark": "",
+    "Price": "4,502",
+    "city": "Kolkata",
+    "id": 443
+  },
+  {
+    "Hotel Name": "Barsana Boutique Hotel (Pure vegetarian)",
+    "Rating": "4.2",
+    "Rating Description": "Very Good",
+    "Location": "Tangra",
+    "Nearest Landmark": "",
+    "Price": "3,767",
+    "city": "Kolkata",
+    "id": 444
+  },
+  {
+    "Hotel Name": "THE MAUREEN KOLKATA",
+    "Rating": "4",
+    "Rating Description": "Very Good",
+    "Location": "Baguiati",
+    "Nearest Landmark": "Netaji Subhash Chandra Bose International Airport",
+    "Price": "3,188",
+    "city": "Kolkata",
+    "id": 445
+  },
+  {
+    "Hotel Name": "The Aster Penthouse",
+    "Rating": "4.2",
+    "Rating Description": "Very Good",
+    "Location": "Ballygunge",
+    "Nearest Landmark": "Park Street",
+    "Price": "1,766",
+    "city": "Kolkata",
+    "id": 446
+  },
+  {
+    "Hotel Name": "The Firangipani Suites",
+    "Rating": "4",
+    "Rating Description": "Very Good",
+    "Location": "New Town",
+    "Nearest Landmark": "",
+    "Price": "1,980",
+    "city": "Kolkata",
+    "id": 447
+  },
+  {
+    "Hotel Name": "Celesta",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "Baguiati",
+    "Nearest Landmark": "Netaji Subhash Chandra Bose International Airport",
+    "Price": "3,085",
+    "city": "Kolkata",
+    "id": 448
+  },
+  {
+    "Hotel Name": "HOTEL EASTERN PLAZA",
+    "Rating": "3.3",
+    "Rating Description": "Good",
+    "Location": "Kaikhali",
+    "Nearest Landmark": "Netaji Subhash Chandra Bose International Airport",
+    "Price": "1,192",
+    "city": "Kolkata",
+    "id": 449
+  },
+  {
+    "Hotel Name": "Hotel Aura",
+    "Rating": "3.6",
+    "Rating Description": "Very Good",
+    "Location": "New Market Area",
+    "Nearest Landmark": "",
+    "Price": "2,106",
+    "city": "Kolkata",
+    "id": 450
+  },
+  {
+    "Hotel Name": "Viceroy Kolkata (Boutique Hotel)",
+    "Rating": "3.8",
+    "Rating Description": "Very Good",
+    "Location": "Chinar Park",
+    "Nearest Landmark": "Netaji Subhash Chandra Bose International Airport",
+    "Price": "2,562",
+    "city": "Kolkata",
+    "id": 451
+  },
+  {
+    "Hotel Name": "Beyzaa Hotel & Suites (Brewery Hotel)",
+    "Rating": "4.2",
+    "Rating Description": "Very Good",
+    "Location": "Salt Lake City",
+    "Nearest Landmark": "",
+    "Price": "4,589",
+    "city": "Kolkata",
+    "id": 452
+  },
+  {
+    "Hotel Name": "The CORPORATE",
+    "Rating": "3.4",
+    "Rating Description": "Good",
+    "Location": "Park Street",
+    "Nearest Landmark": "Park Street",
+    "Price": "3,086",
+    "city": "Kolkata",
+    "id": 453
+  },
+  {
+    "Hotel Name": "Hotel Trimoorti",
+    "Rating": "3.6",
+    "Rating Description": "Very Good",
+    "Location": "Bhowanipore",
+    "Nearest Landmark": "",
+    "Price": "1,488",
+    "city": "Kolkata",
+    "id": 454
+  },
+  {
+    "Hotel Name": "Bubble Beds",
+    "Rating": "3.9",
+    "Rating Description": "Very Good",
+    "Location": "Kalighat",
+    "Nearest Landmark": "Kalighat Kali Temple",
+    "Price": "597",
+    "city": "Kolkata",
+    "id": 455
+  },
+  {
+    "Hotel Name": "The Opus Kolkata - A Boutique Hotel",
+    "Rating": "3.9",
+    "Rating Description": "Very Good",
+    "Location": "Bhowanipore",
+    "Nearest Landmark": "",
+    "Price": "2,372",
+    "city": "Kolkata",
+    "id": 456
+  },
+  {
+    "Hotel Name": "Hotel Crest Inn",
+    "Rating": "3.7",
+    "Rating Description": "Very Good",
+    "Location": "Park Circus",
+    "Nearest Landmark": "",
+    "Price": "1,260",
+    "city": "Kolkata",
+    "id": 457
+  },
+  {
+    "Hotel Name": "Golden Parkk",
+    "Rating": "3.6",
+    "Rating Description": "Very Good",
+    "Location": "Park Street Area",
+    "Nearest Landmark": "Park Street",
+    "Price": "3,767",
+    "city": "Kolkata",
+    "id": 458
+  },
+  {
+    "Hotel Name": "Hotel The Crest",
+    "Rating": "3.8",
+    "Rating Description": "Very Good",
+    "Location": "Park Circus",
+    "Nearest Landmark": "",
+    "Price": "1,328",
+    "city": "Kolkata",
+    "id": 459
+  },
+  {
+    "Hotel Name": "Park Victoria Hotel",
+    "Rating": "3.4",
+    "Rating Description": "Good",
+    "Location": "New Market Area",
+    "Nearest Landmark": "Park Street",
+    "Price": "1,507",
+    "city": "Kolkata",
+    "id": 460
+  },
+  {
+    "Hotel Name": "The Samilton",
+    "Rating": "4",
+    "Rating Description": "Very Good",
+    "Location": "Bhowanipore",
+    "Nearest Landmark": "",
+    "Price": "3,499",
+    "city": "Kolkata",
+    "id": 461
+  },
+  {
+    "Hotel Name": "Treebo Trend Orion Sapphire Beck Bagan",
+    "Rating": "3.8",
+    "Rating Description": "Very Good",
+    "Location": "Park Street",
+    "Nearest Landmark": "Park Street",
+    "Price": "2,540",
+    "city": "Kolkata",
+    "id": 462
+  },
+  {
+    "Hotel Name": "Eennra Oiitijhyya",
+    "Rating": "4.4",
+    "Rating Description": "Excellent",
+    "Location": "Keyatala",
+    "Nearest Landmark": "",
+    "Price": "1,994",
+    "city": "Kolkata",
+    "id": 463
+  },
+  {
+    "Hotel Name": "The Aster Heritage Homestay | Rooms & Caretaker\r\nLike a 3",
+    "Rating": "4.3",
+    "Rating Description": "Excellent",
+    "Location": "New Market Area",
+    "Nearest Landmark": "Park Street",
+    "Price": "2,452",
+    "city": "Kolkata",
+    "id": 464
+  },
+  {
+    "Hotel Name": "Basera Guest House",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "Gariahat",
+    "Nearest Landmark": "",
+    "Price": "1,000",
+    "city": "Kolkata",
+    "id": 465
+  },
+  {
+    "Hotel Name": "LYNQ-CICO - Hotel",
+    "Rating": "3.8",
+    "Rating Description": "Very Good",
+    "Location": "Alipore",
+    "Nearest Landmark": "",
+    "Price": "2,372",
+    "city": "Kolkata",
+    "id": 466
+  },
+  {
+    "Hotel Name": "The Lake Hotel",
+    "Rating": "3.7",
+    "Rating Description": "Very Good",
+    "Location": "Dhakuria",
+    "Nearest Landmark": "",
+    "Price": "1,986",
+    "city": "Kolkata",
+    "id": 467
+  },
+  {
+    "Hotel Name": "The Aster Heritage Gold\r\nLike a 3",
+    "Rating": "4.4",
+    "Rating Description": "Excellent",
+    "Location": "New Market Area",
+    "Nearest Landmark": "Park Street",
+    "Price": "4,723",
+    "city": "Kolkata",
+    "id": 468
+  },
+  {
+    "Hotel Name": "Treebo Tryst Tahoora International Park Street",
+    "Rating": "3.7",
+    "Rating Description": "Very Good",
+    "Location": "Park Street",
+    "Nearest Landmark": "Park Street",
+    "Price": "3,257",
+    "city": "Kolkata",
+    "id": 469
+  },
+  {
+    "Hotel Name": "Southern Plaza",
+    "Rating": "3.8",
+    "Rating Description": "Very Good",
+    "Location": "Kalighat",
+    "Nearest Landmark": "",
+    "Price": "3,201",
+    "city": "Kolkata",
+    "id": 470
+  },
+  {
+    "Hotel Name": "DIAMOND PLAZA",
+    "Rating": "3.8",
+    "Rating Description": "Very Good",
+    "Location": "Bow Bazaar",
+    "Nearest Landmark": "College Street",
+    "Price": "1,850",
+    "city": "Kolkata",
+    "id": 471
+  },
+  {
+    "Hotel Name": "Lytton Hotel",
+    "Rating": "3.6",
+    "Rating Description": "Very Good",
+    "Location": "New Market Area",
+    "Nearest Landmark": "Park Street",
+    "Price": "3,004",
+    "city": "Kolkata",
+    "id": 472
+  },
+  {
+    "Hotel Name": "Dorota House | Room & Caretaker\r\nLike a 3",
+    "Rating": "4",
+    "Rating Description": "Very Good",
+    "Location": "Salt Lake City",
+    "Nearest Landmark": "",
+    "Price": "1,365",
+    "city": "Kolkata",
+    "id": 473
+  },
+  {
+    "Hotel Name": "Hotel O2 VIP",
+    "Rating": "3.9",
+    "Rating Description": "Very Good",
+    "Location": "Near Kolkata Airport",
+    "Nearest Landmark": "Netaji Subhash Chandra Bose International Airport",
+    "Price": "2,212",
+    "city": "Kolkata",
+    "id": 474
+  },
+  {
+    "Hotel Name": "Hotel Gateway Continental",
+    "Rating": "3.8",
+    "Rating Description": "Very Good",
+    "Location": "Dum Dum",
+    "Nearest Landmark": "Netaji Subhash Chandra Bose International Airport",
+    "Price": "2,800",
+    "city": "Kolkata",
+    "id": 475
+  },
+  {
+    "Hotel Name": "Hotel Air View",
+    "Rating": "4",
+    "Rating Description": "Very Good",
+    "Location": "Dum Dum",
+    "Nearest Landmark": "Netaji Subhash Chandra Bose International Airport",
+    "Price": "1,078",
+    "city": "Kolkata",
+    "id": 476
+  },
+  {
+    "Hotel Name": "Hotel Casa Fortuna",
+    "Rating": "3.9",
+    "Rating Description": "Very Good",
+    "Location": "Park Street Area",
+    "Nearest Landmark": "",
+    "Price": "3,934",
+    "city": "Kolkata",
+    "id": 477
+  },
+  {
+    "Hotel Name": "Middleton Inn",
+    "Rating": "3.5",
+    "Rating Description": "Very Good",
+    "Location": "Park Street",
+    "Nearest Landmark": "Park Street",
+    "Price": "2,590",
+    "city": "Kolkata",
+    "id": 478
+  },
+  {
+    "Hotel Name": "Hotel Sawood International",
+    "Rating": "3.6",
+    "Rating Description": "Very Good",
+    "Location": "Tangra",
+    "Nearest Landmark": "",
+    "Price": "2,122",
+    "city": "Kolkata",
+    "id": 479
+  },
+  {
+    "Hotel Name": "The Orchid Hotel Mumbai Vile Parle",
+    "Rating": "4",
+    "Rating Description": "Very Good",
+    "Location": "Near Mumbai Airport",
+    "Nearest Landmark": "T1 - Chhatrapati Shivaji International Airport",
+    "Price": "6,499",
+    "city": "Mumbai",
+    "id": 480
+  },
+  {
+    "Hotel Name": "Trident Bandra Kurla",
+    "Rating": "4.6",
+    "Rating Description": "Excellent",
+    "Location": "Bandra Kurla Complex",
+    "Nearest Landmark": "T1 - Chhatrapati Shivaji International Airport",
+    "Price": "8,750",
+    "city": "Mumbai",
+    "id": 481
+  },
+  {
+    "Hotel Name": "ITC Grand Central - A Luxury Collection Hotel",
+    "Rating": "4.5",
+    "Rating Description": "Excellent",
+    "Location": "South Mumbai",
+    "Nearest Landmark": "Cooper hospital",
+    "Price": "14,000",
+    "city": "Mumbai",
+    "id": 482
+  },
+  {
+    "Hotel Name": "IRA By Orchid Mumbai ( VITS Mumbai)",
+    "Rating": "3.9",
+    "Rating Description": "Very Good",
+    "Location": "Near Mumbai Airport",
+    "Nearest Landmark": "T2 - Chhatrapati Shivaji International Airport",
+    "Price": "5,099",
+    "city": "Mumbai",
+    "id": 483
+  },
+  {
+    "Hotel Name": "Trident Nariman Point",
+    "Rating": "4.6",
+    "Rating Description": "Excellent",
+    "Location": "Marine Drive",
+    "Nearest Landmark": "Queen's Necklace - Marine Drive",
+    "Price": "11,250",
+    "city": "Mumbai",
+    "id": 484
+  },
+  {
+    "Hotel Name": "The Lalit Mumbai",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "Near Mumbai Airport",
+    "Nearest Landmark": "T2 - Chhatrapati Shivaji International Airport",
+    "Price": "11,160",
+    "city": "Mumbai",
+    "id": 485
+  },
+  {
+    "Hotel Name": "Ginger Mumbai, Andheri East",
+    "Rating": "3.7",
+    "Rating Description": "Very Good",
+    "Location": "Andheri East",
+    "Nearest Landmark": "T1 - Chhatrapati Shivaji International Airport",
+    "Price": "3,679",
+    "city": "Mumbai",
+    "id": 486
+  },
+  {
+    "Hotel Name": "Taj Santacruz, Mumbai",
+    "Rating": "4.6",
+    "Rating Description": "Excellent",
+    "Location": "Near Mumbai Airport",
+    "Nearest Landmark": "T1 - Chhatrapati Shivaji International Airport",
+    "Price": "9,000",
+    "city": "Mumbai",
+    "id": 487
+  },
+  {
+    "Hotel Name": "Hotel Surya Prakash",
+    "Rating": "3.9",
+    "Rating Description": "Very Good",
+    "Location": "Chembur",
+    "Nearest Landmark": "",
+    "Price": "3,939",
+    "city": "Mumbai",
+    "id": 488
+  },
+  {
+    "Hotel Name": "Hilton Mumbai International Airport",
+    "Rating": "4.2",
+    "Rating Description": "Very Good",
+    "Location": "Near Mumbai Airport",
+    "Nearest Landmark": "T2 - Chhatrapati Shivaji International Airport",
+    "Price": "9,100",
+    "city": "Mumbai",
+    "id": 489
+  },
+  {
+    "Hotel Name": "Holiday Inn Mumbai International Airport",
+    "Rating": "4.3",
+    "Rating Description": "Excellent",
+    "Location": "Near Mumbai Airport",
+    "Nearest Landmark": "T2 - Chhatrapati Shivaji International Airport",
+    "Price": "6,999",
+    "city": "Mumbai",
+    "id": 490
+  },
+  {
+    "Hotel Name": "goSTOPS Mumbai - Rooms & Dorms",
+    "Rating": "3.9",
+    "Rating Description": "Very Good",
+    "Location": "South Mumbai",
+    "Nearest Landmark": "",
+    "Price": "816",
+    "city": "Mumbai",
+    "id": 491
+  },
+  {
+    "Hotel Name": "The Regale by Tunga",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "Andheri East",
+    "Nearest Landmark": "T2 - Chhatrapati Shivaji International Airport",
+    "Price": "4,427",
+    "city": "Mumbai",
+    "id": 492
+  },
+  {
+    "Hotel Name": "Taj Lands End, Mumbai",
+    "Rating": "4.5",
+    "Rating Description": "Excellent",
+    "Location": "Bandra West",
+    "Nearest Landmark": "Band Stand",
+    "Price": "11,000",
+    "city": "Mumbai",
+    "id": 493
+  },
+  {
+    "Hotel Name": "Ramada Plaza By Wyndham Palm Grove, Juhu, Mumbai",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "Juhu",
+    "Nearest Landmark": "T1 - Chhatrapati Shivaji International Airport",
+    "Price": "7,095",
+    "city": "Mumbai",
+    "id": 494
+  },
+  {
+    "Hotel Name": "Sahara Star",
+    "Rating": "4.2",
+    "Rating Description": "Very Good",
+    "Location": "Near Mumbai Airport",
+    "Nearest Landmark": "T1 - Chhatrapati Shivaji International Airport",
+    "Price": "10,400",
+    "city": "Mumbai",
+    "id": 495
+  },
+  {
+    "Hotel Name": "Qubestay Airport Capsule Hostel | Rooms & Dorms",
+    "Rating": "3.8",
+    "Rating Description": "Very Good",
+    "Location": "Andheri East",
+    "Nearest Landmark": "T2 - Chhatrapati Shivaji International Airport",
+    "Price": "1,160",
+    "city": "Mumbai",
+    "id": 496
+  },
+  {
+    "Hotel Name": "Courtyard by Marriott Mumbai International Airport",
+    "Rating": "4.3",
+    "Rating Description": "Excellent",
+    "Location": "Near Mumbai Airport",
+    "Nearest Landmark": "T2 - Chhatrapati Shivaji International Airport",
+    "Price": "7,500",
+    "city": "Mumbai",
+    "id": 497
+  },
+  {
+    "Hotel Name": "The Westin Mumbai Garden City",
+    "Rating": "4.4",
+    "Rating Description": "Excellent",
+    "Location": "Goregaon",
+    "Nearest Landmark": "T1 - Chhatrapati Shivaji International Airport",
+    "Price": "9,000",
+    "city": "Mumbai",
+    "id": 498
+  },
+  {
+    "Hotel Name": "JW Marriott Mumbai Juhu",
+    "Rating": "4.4",
+    "Rating Description": "Excellent",
+    "Location": "Juhu",
+    "Nearest Landmark": "T1 - Chhatrapati Shivaji International Airport",
+    "Price": "12,500",
+    "city": "Mumbai",
+    "id": 499
+  },
+  {
+    "Hotel Name": "ITC Maratha - A Luxury Collection Hotel",
+    "Rating": "4.4",
+    "Rating Description": "Excellent",
+    "Location": "Near Mumbai Airport",
+    "Nearest Landmark": "T2 - Chhatrapati Shivaji International Airport",
+    "Price": "10,030",
+    "city": "Mumbai",
+    "id": 500
+  },
+  {
+    "Hotel Name": "City Stay",
+    "Rating": "4.6",
+    "Rating Description": "Excellent",
+    "Location": "Andheri East",
+    "Nearest Landmark": "T1 - Chhatrapati Shivaji International Airport",
+    "Price": "1,229",
+    "city": "Mumbai",
+    "id": 501
+  },
+  {
+    "Hotel Name": "JW Marriott Mumbai Sahar",
+    "Rating": "4.5",
+    "Rating Description": "Excellent",
+    "Location": "Near Mumbai Airport",
+    "Nearest Landmark": "T2 - Chhatrapati Shivaji International Airport",
+    "Price": "9,500",
+    "city": "Mumbai",
+    "id": 502
+  },
+  {
+    "Hotel Name": "Radisson Mumbai Andheri MIDC",
+    "Rating": "4.3",
+    "Rating Description": "Excellent",
+    "Location": "Andheri East",
+    "Nearest Landmark": "T2 - Chhatrapati Shivaji International Airport",
+    "Price": "7,000",
+    "city": "Mumbai",
+    "id": 503
+  },
+  {
+    "Hotel Name": "Sofitel Mumbai BKC- Luxury Brand by Accor",
+    "Rating": "4.3",
+    "Rating Description": "Excellent",
+    "Location": "Bandra Kurla Complex",
+    "Nearest Landmark": "T1 - Chhatrapati Shivaji International Airport",
+    "Price": "8,550",
+    "city": "Mumbai",
+    "id": 504
+  },
+  {
+    "Hotel Name": "The Leela Mumbai",
+    "Rating": "4.5",
+    "Rating Description": "Excellent",
+    "Location": "Near Mumbai Airport",
+    "Nearest Landmark": "T2 - Chhatrapati Shivaji International Airport",
+    "Price": "10,500",
+    "city": "Mumbai",
+    "id": 505
+  },
+  {
+    "Hotel Name": "Novotel Mumbai International Airport",
+    "Rating": "4.4",
+    "Rating Description": "Excellent",
+    "Location": "Near Mumbai Airport",
+    "Nearest Landmark": "T2 - Chhatrapati Shivaji International Airport",
+    "Price": "8,299",
+    "city": "Mumbai",
+    "id": 506
+  },
+  {
+    "Hotel Name": "Radisson Blu Mumbai International Airport",
+    "Rating": "4.4",
+    "Rating Description": "Excellent",
+    "Location": "Near Mumbai Airport",
+    "Nearest Landmark": "T2 - Chhatrapati Shivaji International Airport",
+    "Price": "7,499",
+    "city": "Mumbai",
+    "id": 507
+  },
+  {
+    "Hotel Name": "Sun-N-Sand",
+    "Rating": "4.2",
+    "Rating Description": "Very Good",
+    "Location": "Juhu",
+    "Nearest Landmark": "T1 - Chhatrapati Shivaji International Airport",
+    "Price": "8,835",
+    "city": "Mumbai",
+    "id": 508
+  },
+  {
+    "Hotel Name": "The St. Regis Mumbai",
+    "Rating": "4.5",
+    "Rating Description": "Excellent",
+    "Location": "South Mumbai",
+    "Nearest Landmark": "Tata memorial cancer hospital",
+    "Price": "12,500",
+    "city": "Mumbai",
+    "id": 509
+  },
+  {
+    "Hotel Name": "Niranta Airport Transit Hotel & Lounge Terminal 2 Arrivals/Landside",
+    "Rating": "4",
+    "Rating Description": "Very Good",
+    "Location": "In Mumbai Airport",
+    "Nearest Landmark": "",
+    "Price": "9,303",
+    "city": "Mumbai",
+    "id": 510
+  },
+  {
+    "Hotel Name": "Zostel Mumbai\r\nLike a 3",
+    "Rating": "4",
+    "Rating Description": "Very Good",
+    "Location": "Andheri East",
+    "Nearest Landmark": "T2 - Chhatrapati Shivaji International Airport",
+    "Price": "1,342",
+    "city": "Mumbai",
+    "id": 511
+  },
+  {
+    "Hotel Name": "President, Mumbai - IHCL SeleQtions",
+    "Rating": "4.4",
+    "Rating Description": "Excellent",
+    "Location": "South Mumbai",
+    "Nearest Landmark": "Queen's Necklace - Marine Drive",
+    "Price": "10,400",
+    "city": "Mumbai",
+    "id": 512
+  },
+  {
+    "Hotel Name": "Novotel Mumbai Juhu Beach",
+    "Rating": "3.6",
+    "Rating Description": "Very Good",
+    "Location": "Juhu",
+    "Nearest Landmark": "T1 - Chhatrapati Shivaji International Airport",
+    "Price": "8,500",
+    "city": "Mumbai",
+    "id": 513
+  },
+  {
+    "Hotel Name": "Ibis Mumbai Airport - An Accor Brand",
+    "Rating": "3.6",
+    "Rating Description": "Very Good",
+    "Location": "Near Mumbai Airport",
+    "Nearest Landmark": "T1 - Chhatrapati Shivaji International Airport",
+    "Price": "6,499",
+    "city": "Mumbai",
+    "id": 514
+  },
+  {
+    "Hotel Name": "Ginger Mumbai, Andheri (MIDC)",
+    "Rating": "3.4",
+    "Rating Description": "Good",
+    "Location": "Jogeshwari East",
+    "Nearest Landmark": "T2 - Chhatrapati Shivaji International Airport",
+    "Price": "2,624",
+    "city": "Mumbai",
+    "id": 515
+  },
+  {
+    "Hotel Name": "Lakeside Chalet Marriott Executive Apartments",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "Powai",
+    "Nearest Landmark": "T2 - Chhatrapati Shivaji International Airport",
+    "Price": "9,000",
+    "city": "Mumbai",
+    "id": 516
+  },
+  {
+    "Hotel Name": "Lemon Tree Hotel, Kalina, Mumbai",
+    "Rating": "3.3",
+    "Rating Description": "Good",
+    "Location": "Bandra Kurla Complex",
+    "Nearest Landmark": "T1 - Chhatrapati Shivaji International Airport",
+    "Price": "4,975",
+    "city": "Mumbai",
+    "id": 517
+  },
+  {
+    "Hotel Name": "Ramee Guestline Hotel Juhu",
+    "Rating": "3.6",
+    "Rating Description": "Very Good",
+    "Location": "Juhu",
+    "Nearest Landmark": "T1 - Chhatrapati Shivaji International Airport",
+    "Price": "5,275",
+    "city": "Mumbai",
+    "id": 518
+  },
+  {
+    "Hotel Name": "Ramee Techome",
+    "Rating": "4",
+    "Rating Description": "Very Good",
+    "Location": "Khar West",
+    "Nearest Landmark": "T1 - Chhatrapati Shivaji International Airport",
+    "Price": "6,231",
+    "city": "Mumbai",
+    "id": 519
+  },
+  {
+    "Hotel Name": "Shabana",
+    "Rating": "3.5",
+    "Rating Description": "Very Good",
+    "Location": "Colaba",
+    "Nearest Landmark": "Gateway Of India Mumbai",
+    "Price": "1,304",
+    "city": "Mumbai",
+    "id": 520
+  },
+  {
+    "Hotel Name": "Hotel Bawa International",
+    "Rating": "4",
+    "Rating Description": "Very Good",
+    "Location": "Near Mumbai Airport",
+    "Nearest Landmark": "T1 - Chhatrapati Shivaji International Airport",
+    "Price": "5,000",
+    "city": "Mumbai",
+    "id": 521
+  },
+  {
+    "Hotel Name": "Ginger Mumbai, Goregaon",
+    "Rating": "3.8",
+    "Rating Description": "Very Good",
+    "Location": "Goregaon",
+    "Nearest Landmark": "T1 - Chhatrapati Shivaji International Airport",
+    "Price": "3,224",
+    "city": "Mumbai",
+    "id": 522
+  },
+  {
+    "Hotel Name": "Grand Hyatt Mumbai",
+    "Rating": "4.3",
+    "Rating Description": "Excellent",
+    "Location": "Near Mumbai Airport",
+    "Nearest Landmark": "T1 - Chhatrapati Shivaji International Airport",
+    "Price": "10,000",
+    "city": "Mumbai",
+    "id": 523
+  },
+  {
+    "Hotel Name": "Hotel Marine Plaza",
+    "Rating": "4.2",
+    "Rating Description": "Very Good",
+    "Location": "Churchgate",
+    "Nearest Landmark": "Queen's Necklace - Marine Drive",
+    "Price": "9,449",
+    "city": "Mumbai",
+    "id": 524
+  },
+  {
+    "Hotel Name": "Lemon Tree Premier, Mumbai International Airport, Mumbai",
+    "Rating": "4.2",
+    "Rating Description": "Very Good",
+    "Location": "Near Mumbai Airport",
+    "Nearest Landmark": "T2 - Chhatrapati Shivaji International Airport",
+    "Price": "3,566",
+    "city": "Mumbai",
+    "id": 525
+  },
+  {
+    "Hotel Name": "Hotel Airport International",
+    "Rating": "3.7",
+    "Rating Description": "Very Good",
+    "Location": "Near Mumbai Airport",
+    "Nearest Landmark": "T1 - Chhatrapati Shivaji International Airport",
+    "Price": "3,255",
+    "city": "Mumbai",
+    "id": 526
+  },
+  {
+    "Hotel Name": "Dragonfly Hotel - The Art Hotel",
+    "Rating": "3.5",
+    "Rating Description": "Very Good",
+    "Location": "Near Mumbai Airport",
+    "Nearest Landmark": "T2 - Chhatrapati Shivaji International Airport",
+    "Price": "3,035",
+    "city": "Mumbai",
+    "id": 527
+  },
+  {
+    "Hotel Name": "Four Seasons Hotel Mumbai",
+    "Rating": "4.4",
+    "Rating Description": "Excellent",
+    "Location": "South Mumbai",
+    "Nearest Landmark": "",
+    "Price": "49,000",
+    "city": "Mumbai",
+    "id": 528
+  },
+  {
+    "Hotel Name": "Gateway Inn | Rooms in an Apartment",
+    "Rating": "3.2",
+    "Rating Description": "Good",
+    "Location": "Near Mumbai Airport",
+    "Nearest Landmark": "T2 - Chhatrapati Shivaji International Airport",
+    "Price": "1,839",
+    "city": "Mumbai",
+    "id": 529
+  },
+  {
+    "Hotel Name": "The Oberoi, Mumbai",
+    "Rating": "4.7",
+    "Rating Description": "Excellent",
+    "Location": "Marine Drive",
+    "Nearest Landmark": "Queen's Necklace - Marine Drive",
+    "Price": "16,750",
+    "city": "Mumbai",
+    "id": 530
+  },
+  {
+    "Hotel Name": "Hotel Jyoti Dwelling",
+    "Rating": "4.2",
+    "Rating Description": "Very Good",
+    "Location": "Near Mumbai Airport",
+    "Nearest Landmark": "T2 - Chhatrapati Shivaji International Airport",
+    "Price": "2,232",
+    "city": "Mumbai",
+    "id": 531
+  },
+  {
+    "Hotel Name": "Indie Stays",
+    "Rating": "3.9",
+    "Rating Description": "Very Good",
+    "Location": "Bandra Kurla Complex",
+    "Nearest Landmark": "T1 - Chhatrapati Shivaji International Airport",
+    "Price": "6,975",
+    "city": "Mumbai",
+    "id": 532
+  },
+  {
+    "Hotel Name": "Meluha - The Fern",
+    "Rating": "4.4",
+    "Rating Description": "Excellent",
+    "Location": "Powai",
+    "Nearest Landmark": "T2 - Chhatrapati Shivaji International Airport",
+    "Price": "7,109",
+    "city": "Mumbai",
+    "id": 533
+  },
+  {
+    "Hotel Name": "Afra dormitory",
+    "Rating": "4.8",
+    "Rating Description": "Excellent",
+    "Location": "Andheri East",
+    "Nearest Landmark": "T2 - Chhatrapati Shivaji International Airport",
+    "Price": "848",
+    "city": "Mumbai",
+    "id": 534
+  },
+  {
+    "Hotel Name": "Hotel Airlink",
+    "Rating": "3.8",
+    "Rating Description": "Very Good",
+    "Location": "Near Mumbai Airport",
+    "Nearest Landmark": "T1 - Chhatrapati Shivaji International Airport",
+    "Price": "3,204",
+    "city": "Mumbai",
+    "id": 535
+  },
+  {
+    "Hotel Name": "The Fern Goregaon",
+    "Rating": "4.2",
+    "Rating Description": "Very Good",
+    "Location": "Goregaon",
+    "Nearest Landmark": "T1 - Chhatrapati Shivaji International Airport",
+    "Price": "7,988",
+    "city": "Mumbai",
+    "id": 536
+  },
+  {
+    "Hotel Name": "Mirage Hotel",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "Near Mumbai Airport",
+    "Nearest Landmark": "T2 - Chhatrapati Shivaji International Airport",
+    "Price": "6,126",
+    "city": "Mumbai",
+    "id": 537
+  },
+  {
+    "Hotel Name": "RELOhomes | 1 BHK Apartment\r\nLike a 4",
+    "Rating": "4.6",
+    "Rating Description": "Excellent",
+    "Location": "Powai",
+    "Nearest Landmark": "T2 - Chhatrapati Shivaji International Airport",
+    "Price": "5,721",
+    "city": "Mumbai",
+    "id": 538
+  },
+  {
+    "Hotel Name": "Click Hotel Caliph",
+    "Rating": "3.3",
+    "Rating Description": "Good",
+    "Location": "Powai",
+    "Nearest Landmark": "T2 - Chhatrapati Shivaji International Airport",
+    "Price": "4,500",
+    "city": "Mumbai",
+    "id": 539
+  },
+  {
+    "Hotel Name": "HOTEL LEAFIO MARIGOLD",
+    "Rating": "3.7",
+    "Rating Description": "Very Good",
+    "Location": "Near Mumbai Airport",
+    "Nearest Landmark": "T2 - Chhatrapati Shivaji International Airport",
+    "Price": "3,162",
+    "city": "Mumbai",
+    "id": 540
+  },
+  {
+    "Hotel Name": "Keys Select by Lemon Tree Hotels, Nestor, Mumbai",
+    "Rating": "3.5",
+    "Rating Description": "Very Good",
+    "Location": "Andheri East",
+    "Nearest Landmark": "T2 - Chhatrapati Shivaji International Airport",
+    "Price": "3,623",
+    "city": "Mumbai",
+    "id": 541
+  },
+  {
+    "Hotel Name": "Hotel Sea Princess",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "Juhu",
+    "Nearest Landmark": "T1 - Chhatrapati Shivaji International Airport",
+    "Price": "7,952",
+    "city": "Mumbai",
+    "id": 542
+  },
+  {
+    "Hotel Name": "HOTEL WEGO",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "Near Mumbai Airport",
+    "Nearest Landmark": "T2 - Chhatrapati Shivaji International Airport",
+    "Price": "3,495",
+    "city": "Mumbai",
+    "id": 543
+  },
+  {
+    "Hotel Name": "Rodas - An Ecotel Hotel",
+    "Rating": "4.4",
+    "Rating Description": "Excellent",
+    "Location": "Powai",
+    "Nearest Landmark": "T2 - Chhatrapati Shivaji International Airport",
+    "Price": "7,998",
+    "city": "Mumbai",
+    "id": 544
+  },
+  {
+    "Hotel Name": "The Westin Mumbai Powai Lake",
+    "Rating": "4.3",
+    "Rating Description": "Excellent",
+    "Location": "Powai",
+    "Nearest Landmark": "T2 - Chhatrapati Shivaji International Airport",
+    "Price": "9,000",
+    "city": "Mumbai",
+    "id": 545
+  },
+  {
+    "Hotel Name": "Mayura Aureole Co-Living",
+    "Rating": "4.2",
+    "Rating Description": "Very Good",
+    "Location": "Goregaon",
+    "Nearest Landmark": "T1 - Chhatrapati Shivaji International Airport",
+    "Price": "1,496",
+    "city": "Mumbai",
+    "id": 546
+  },
+  {
+    "Hotel Name": "Sea Green Hotel",
+    "Rating": "3.8",
+    "Rating Description": "Very Good",
+    "Location": "Churchgate",
+    "Nearest Landmark": "Queen's Necklace - Marine Drive",
+    "Price": "4,692",
+    "city": "Mumbai",
+    "id": 547
+  },
+  {
+    "Hotel Name": "ibis Mumbai Vikhroli - An Accor Brand",
+    "Rating": "3.9",
+    "Rating Description": "Very Good",
+    "Location": "Vikhroli West",
+    "Nearest Landmark": "T2 - Chhatrapati Shivaji International Airport",
+    "Price": "6,299",
+    "city": "Mumbai",
+    "id": 548
+  },
+  {
+    "Hotel Name": "Aboo's Concord Galaxy",
+    "Rating": "3.3",
+    "Rating Description": "Good",
+    "Location": "Near Mumbai Airport",
+    "Nearest Landmark": "T2 - Chhatrapati Shivaji International Airport",
+    "Price": "3,228",
+    "city": "Mumbai",
+    "id": 549
+  },
+  {
+    "Hotel Name": "The Paradise by Tunga",
+    "Rating": "4",
+    "Rating Description": "Very Good",
+    "Location": "Andheri East",
+    "Nearest Landmark": "T2 - Chhatrapati Shivaji International Airport",
+    "Price": "5,864",
+    "city": "Mumbai",
+    "id": 550
+  },
+  {
+    "Hotel Name": "Address Dormitory",
+    "Rating": "4",
+    "Rating Description": "Very Good",
+    "Location": "Andheri East",
+    "Nearest Landmark": "T2 - Chhatrapati Shivaji International Airport",
+    "Price": "404",
+    "city": "Mumbai",
+    "id": 551
+  },
+  {
+    "Hotel Name": "Arnna Hotel - Goregaon",
+    "Rating": "3.8",
+    "Rating Description": "Very Good",
+    "Location": "Goregaon",
+    "Nearest Landmark": "T1 - Chhatrapati Shivaji International Airport",
+    "Price": "2,919",
+    "city": "Mumbai",
+    "id": 552
+  },
+  {
+    "Hotel Name": "Ramee Guestline Hotel - Dadar",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "South Mumbai",
+    "Nearest Landmark": "",
+    "Price": "6,814",
+    "city": "Mumbai",
+    "id": 553
+  },
+  {
+    "Hotel Name": "Hotel Metro Palace",
+    "Rating": "3.6",
+    "Rating Description": "Very Good",
+    "Location": "Bandra West",
+    "Nearest Landmark": "Band Stand",
+    "Price": "4,064",
+    "city": "Mumbai",
+    "id": 554
+  },
+  {
+    "Hotel Name": "Hotel Manama",
+    "Rating": "3.5",
+    "Rating Description": "Very Good",
+    "Location": "South Mumbai",
+    "Nearest Landmark": "Gateway Of India Mumbai",
+    "Price": "3,158",
+    "city": "Mumbai",
+    "id": 555
+  },
+  {
+    "Hotel Name": "Aashiyana Dormitory",
+    "Rating": "3.1",
+    "Rating Description": "Good",
+    "Location": "South Mumbai",
+    "Nearest Landmark": "Gateway Of India Mumbai",
+    "Price": "630",
+    "city": "Mumbai",
+    "id": 556
+  },
+  {
+    "Hotel Name": "T24 Residency",
+    "Rating": "4",
+    "Rating Description": "Very Good",
+    "Location": "Near Mumbai Airport",
+    "Nearest Landmark": "T2 - Chhatrapati Shivaji International Airport",
+    "Price": "4,099",
+    "city": "Mumbai",
+    "id": 557
+  },
+  {
+    "Hotel Name": "The Taj Mahal Palace, Mumbai",
+    "Rating": "4.7",
+    "Rating Description": "Excellent",
+    "Location": "Colaba",
+    "Nearest Landmark": "Gateway Of India Mumbai",
+    "Price": "27,000",
+    "city": "Mumbai",
+    "id": 558
+  },
+  {
+    "Hotel Name": "The Roa Hotel",
+    "Rating": "3.7",
+    "Rating Description": "Very Good",
+    "Location": "Ghatkopar West",
+    "Nearest Landmark": "T2 - Chhatrapati Shivaji International Airport",
+    "Price": "2,976",
+    "city": "Mumbai",
+    "id": 559
+  },
+  {
+    "Hotel Name": "Hotel Leafio",
+    "Rating": "3.5",
+    "Rating Description": "Very Good",
+    "Location": "Near Mumbai Airport",
+    "Nearest Landmark": "T2 - Chhatrapati Shivaji International Airport",
+    "Price": "2,199",
+    "city": "Mumbai",
+    "id": 560
+  },
+  {
+    "Hotel Name": "The Byke Delotel",
+    "Rating": "3.8",
+    "Rating Description": "Very Good",
+    "Location": "Borivali West",
+    "Nearest Landmark": "",
+    "Price": "3,183",
+    "city": "Mumbai",
+    "id": 561
+  },
+  {
+    "Hotel Name": "The Empresa Hotel",
+    "Rating": "3.8",
+    "Rating Description": "Very Good",
+    "Location": "Andheri West",
+    "Nearest Landmark": "T1 - Chhatrapati Shivaji International Airport",
+    "Price": "8,099",
+    "city": "Mumbai",
+    "id": 562
+  },
+  {
+    "Hotel Name": "HOTEL KOHINOOR PARK",
+    "Rating": "3.8",
+    "Rating Description": "Very Good",
+    "Location": "South Mumbai",
+    "Nearest Landmark": "Siddhivinayak Temple",
+    "Price": "3,596",
+    "city": "Mumbai",
+    "id": 563
+  },
+  {
+    "Hotel Name": "The Altruist Business Hotel (Andheri)",
+    "Rating": "3.6",
+    "Rating Description": "Very Good",
+    "Location": "Jogeshwari East",
+    "Nearest Landmark": "T1 - Chhatrapati Shivaji International Airport",
+    "Price": "2,763",
+    "city": "Mumbai",
+    "id": 564
+  },
+  {
+    "Hotel Name": "Hotel Parle International",
+    "Rating": "3.7",
+    "Rating Description": "Very Good",
+    "Location": "Near Mumbai Airport",
+    "Nearest Landmark": "T1 - Chhatrapati Shivaji International Airport",
+    "Price": "4,836",
+    "city": "Mumbai",
+    "id": 565
+  },
+  {
+    "Hotel Name": "Ocean Dormitory",
+    "Rating": "3.6",
+    "Rating Description": "Very Good",
+    "Location": "Asalpha",
+    "Nearest Landmark": "T2 - Chhatrapati Shivaji International Airport",
+    "Price": "925",
+    "city": "Mumbai",
+    "id": 566
+  },
+  {
+    "Hotel Name": "Hotel Beacon T2",
+    "Rating": "3.2",
+    "Rating Description": "Good",
+    "Location": "Near Mumbai Airport",
+    "Nearest Landmark": "T2 - Chhatrapati Shivaji International Airport",
+    "Price": "3,600",
+    "city": "Mumbai",
+    "id": 567
+  },
+  {
+    "Hotel Name": "Hotel Columbus",
+    "Rating": "3.6",
+    "Rating Description": "Very Good",
+    "Location": "Near Mumbai Airport",
+    "Nearest Landmark": "T1 - Chhatrapati Shivaji International Airport",
+    "Price": "2,608",
+    "city": "Mumbai",
+    "id": 568
+  },
+  {
+    "Hotel Name": "Sea Green South Hotel",
+    "Rating": "3.9",
+    "Rating Description": "Very Good",
+    "Location": "Churchgate",
+    "Nearest Landmark": "Queen's Necklace - Marine Drive",
+    "Price": "5,583",
+    "city": "Mumbai",
+    "id": 569
+  },
+  {
+    "Hotel Name": "Hotel Suba International",
+    "Rating": "4.3",
+    "Rating Description": "Excellent",
+    "Location": "Near Mumbai Airport",
+    "Nearest Landmark": "T2 - Chhatrapati Shivaji International Airport",
+    "Price": "6,700",
+    "city": "Mumbai",
+    "id": 570
+  },
+  {
+    "Hotel Name": "Classic Dormitory",
+    "Rating": "3.8",
+    "Rating Description": "Very Good",
+    "Location": "Andheri East",
+    "Nearest Landmark": "T2 - Chhatrapati Shivaji International Airport",
+    "Price": "572",
+    "city": "Mumbai",
+    "id": 571
+  },
+  {
+    "Hotel Name": "The Resort Mumbai",
+    "Rating": "4.2",
+    "Rating Description": "Very Good",
+    "Location": "Madh",
+    "Nearest Landmark": "",
+    "Price": "11,811",
+    "city": "Mumbai",
+    "id": 572
+  },
+  {
+    "Hotel Name": "The Mirador",
+    "Rating": "3.7",
+    "Rating Description": "Very Good",
+    "Location": "Near Mumbai Airport",
+    "Nearest Landmark": "T1 - Chhatrapati Shivaji International Airport",
+    "Price": "6,750",
+    "city": "Mumbai",
+    "id": 573
+  },
+  {
+    "Hotel Name": "The Sahil Hotel",
+    "Rating": "4.2",
+    "Rating Description": "Very Good",
+    "Location": "South Mumbai",
+    "Nearest Landmark": "Mumbai Central Bus Terminus",
+    "Price": "4,650",
+    "city": "Mumbai",
+    "id": 574
+  },
+  {
+    "Hotel Name": "Avion Hotel",
+    "Rating": "3.3",
+    "Rating Description": "Good",
+    "Location": "Near Mumbai Airport",
+    "Nearest Landmark": "T1 - Chhatrapati Shivaji International Airport",
+    "Price": "4,205",
+    "city": "Mumbai",
+    "id": 575
+  },
+  {
+    "Hotel Name": "Blossom Dormitory ( For Male and Female)",
+    "Rating": "3.6",
+    "Rating Description": "Very Good",
+    "Location": "Sakinaka",
+    "Nearest Landmark": "T2 - Chhatrapati Shivaji International Airport",
+    "Price": "678",
+    "city": "Mumbai",
+    "id": 576
+  },
+  {
+    "Hotel Name": "Comfort Inn Heritage",
+    "Rating": "3.9",
+    "Rating Description": "Very Good",
+    "Location": "South Mumbai",
+    "Nearest Landmark": "",
+    "Price": "4,743",
+    "city": "Mumbai",
+    "id": 577
+  },
+  {
+    "Hotel Name": "Hotel Planet Residency",
+    "Rating": "3.8",
+    "Rating Description": "Very Good",
+    "Location": "Near Mumbai Airport",
+    "Nearest Landmark": "T1 - Chhatrapati Shivaji International Airport",
+    "Price": "3,726",
+    "city": "Mumbai",
+    "id": 578
+  },
+  {
+    "Hotel Name": "Hotel Kohinoor Elite",
+    "Rating": "4.1",
+    "Rating Description": "Very Good",
+    "Location": "Near Mumbai Airport",
+    "Nearest Landmark": "T2 - Chhatrapati Shivaji International Airport",
+    "Price": "7,250",
+    "city": "Mumbai",
+    "id": 579
+  },
+  {
+    "Hotel Name": "Residency Hotel Andheri",
+    "Rating": "4",
+    "Rating Description": "Very Good",
+    "Location": "Andheri East",
+    "Nearest Landmark": "T1 - Chhatrapati Shivaji International Airport",
+    "Price": "4,883",
+    "city": "Mumbai",
+    "id": 580
+  }
+]
